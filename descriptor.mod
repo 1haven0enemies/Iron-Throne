@@ -1,8 +1,12 @@
-version="1.15.*"
+version="1.16.0"
 tags={
+	"Alternative History"
+	"Gameplay"
 	"Map"
-	#"add_Tags"
+	"National Focuses"
+	"Events"
+	"Graphics"
+	"Ideologies"
 }
-name="IDMODEUROPA"
-#replace_path="common/insert_file"
-supported_version="1.15.*"
+name="iron-throne"
+supported_version="1.16.0"

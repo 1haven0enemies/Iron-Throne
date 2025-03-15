@@ -1,0 +1,32 @@
+state = {
+	id = 1018
+	name = "STATE_1018"
+	manpower = 6144743
+	resources = {
+	}
+
+	state_category = megalopolis #was metropolis, 2 slots diff
+	
+	history = {
+
+		owner = HOL
+		add_core_of = HOL
+		add_core_of = BEL
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 4 #WAS 2
+			air_base = 3
+			3488 = { dam = 1 }
+		}
+
+
+	}
+
+	provinces = {
+		3488
+	}
+	
+	local_supplies = 0.0 
+}

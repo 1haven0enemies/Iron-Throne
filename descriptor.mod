@@ -9,4 +9,13 @@ tags={
 	"Ideologies"
 }
 name="iron-throne"
+replace_path="common/scripted_effects"
+replace_path="common/decisions"
+replace_path="events"
+replace_path="common/ai_focuses"
+replace_path="history/countries"
+replace_path="history/general"
+replace_path="history/states"
+replace_path="history/states"
+replace_path="history/units"
 supported_version="1.16.0"

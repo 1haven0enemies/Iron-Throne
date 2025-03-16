@@ -10,13 +10,11 @@ state = {
 
 	history = {
 
-		owner = FRA
+		owner = HOL
 		add_core_of = BEL
-		add_core_of = FRA
+		add_core_of = HOL
 
-		victory_points = {
-			9418 1 # Arlons
-		}
+		
 
 		buildings = {
 			infrastructure = 1
@@ -24,11 +22,19 @@ state = {
 
 			
 		}
+
+		victory_points = {
+			3516 5 # Namur
+		}
+
+		victory_points = {
+			11519 10 # Liege
+		}
 		
 	}
 
 	provinces = {
-		6537 9418 9444 11407
+		6537 11519 3516
 	}
 
 	local_supplies = 14.0 

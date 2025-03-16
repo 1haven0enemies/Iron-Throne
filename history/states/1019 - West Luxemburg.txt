@@ -1,6 +1,6 @@
 state = {
-	id = 1018
-	name = "STATE_1018"
+	id = 1019
+	name = "STATE_1019"
 	manpower = 6144743
 	resources = {
 	}
@@ -9,8 +9,8 @@ state = {
 	
 	history = {
 
-		owner = RHI
-		add_core_of = RHI
+		owner = LUX
+		add_core_of = LUX
 		add_core_of = BEL
 
 		buildings = {
@@ -18,14 +18,16 @@ state = {
 			arms_factory = 3
 			industrial_complex = 4 #WAS 2
 			air_base = 3
-			3488 = { dam = 1 }
+			
 		}
-
+		victory_points = {
+			9418 1 # Arlons
+		}
 
 	}
 
 	provinces = {
-		3488
+		11407 9418
 	}
 	
 	local_supplies = 0.0 

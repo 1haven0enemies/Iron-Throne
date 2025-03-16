@@ -14,13 +14,7 @@ state = {
 		add_core_of = BEL
 		add_core_of = FRA
 
-		victory_points = {
-			3516 5 # Namur
-		}
-
-		victory_points = {
-			11519 10 # Liege
-		}
+		
 
 		victory_points = {
 			9536 3 # Charleroi
@@ -36,7 +30,7 @@ state = {
 	}
 
 	provinces = {
-		3516 9536 11519 13081 
+		 9536 13081 9444
 	}
 
 	local_supplies = 14.0 

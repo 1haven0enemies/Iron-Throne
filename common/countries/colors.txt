@@ -137,6 +137,10 @@ BRA = {
 	color = rgb { 76 145 63 }
 	color_ui = rgb { 99 189 82 }
 }
+BYZ = {
+	color = rgb { 141 35 171 }
+	color_ui = rgb { 141 35 171 }
+}
 CAN = {
 	color = rgb { 233  59  59 }
 	color_ui = rgb { 155 62 51 }

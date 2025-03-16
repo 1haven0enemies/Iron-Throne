@@ -1,0 +1,32 @@
+state = {
+	id = 1022
+	name = "STATE_1022"
+	manpower = 6144743
+	resources = {
+	}
+
+	state_category = megalopolis #was metropolis, 2 slots diff
+	
+	history = {
+
+		owner = HAI
+		add_core_of = HAI
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 4 #WAS 2
+			air_base = 3
+			
+		}
+		victory_points = {
+			13376 5
+		}
+	}
+
+	provinces = {
+		13376
+	}
+	
+	local_supplies = 0.0 
+}

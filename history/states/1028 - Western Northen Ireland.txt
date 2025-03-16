@@ -1,0 +1,29 @@
+state = {
+	id = 1028
+	name = "STATE_1028"
+	manpower = 100000
+	resources = {
+	}
+
+	state_category = megalopolis #was metropolis, 2 slots diff
+	
+	history = {
+
+		owner = IRE
+		add_core_of = IRE
+
+		buildings = {
+
+		}
+		victory_points = {
+			385 1 # Londonderry
+		}
+	}
+	
+
+	provinces = {
+		385 11257
+	}
+	
+	local_supplies = 0.0 
+}

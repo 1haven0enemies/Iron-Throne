@@ -2,7 +2,7 @@ state={
 	id=797
 	name="STATE_797"
 	provinces={
-		9833 11829 
+		9833 
 	}
 	manpower = 1042276
 	resources={
@@ -13,7 +13,7 @@ state={
 	state_category = city
 
 	history= {
-		owner = TUR
+		owner = BYZ
 		victory_points = {
 			9833 25
 		}
@@ -34,15 +34,10 @@ state={
                 }
 			}
 		}
-		add_core_of = TUR
-		if = {
-			limit = { has_dlc = "Battle for the Bosporus"}
-			set_demilitarized_zone = yes
-		}
+		add_core_of = BYZ
 		
-		1936.11.9 = {
-			set_demilitarized_zone = no
-		}
+		
+		
 	}
 
 	local_supplies=0.0 

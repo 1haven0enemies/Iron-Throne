@@ -42,8 +42,8 @@ AUS = {
 	color_ui = rgb { 255 255 255 }
 }
 LIT = {
-	color = rgb { 219 219 119 }
-	color_ui = rgb { 255 255 155 }
+	color = rgb { 214 102 139 }
+	color_ui = rgb { 255 120 138 }
 }
 EST = {
 	color = rgb { 50 135 175 }
@@ -373,8 +373,8 @@ ICE = {
 }
 
 UKR = {
-	color = rgb { 0  80  230 }
-	color_ui = rgb { 0  80  230 }	
+	color = rgb { 214 102 139 }
+	color_ui = rgb { 255 120 138 }	
 }
 
 AZR = {
@@ -423,8 +423,8 @@ MNT = {
 }
 
 BLR = {
-	color = rgb { 180 220 190 }
-	color_ui = rgb { 180 220 190 }
+	color = rgb { 214 102 139 }
+	color_ui = rgb { 255 120 138 }
 }
 MAN = {
 	color = rgb { 255 120 71 }

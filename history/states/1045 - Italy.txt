@@ -1,6 +1,6 @@
 state = {
-	id = 1044
-	name = "STATE_1044"
+	id = 1045
+	name = "STATE_1045"
 	manpower = 100000
 	resources = {
 	}
@@ -9,17 +9,20 @@ state = {
 	
 	history = {
 
-		owner = FRA
-		add_core_of = FRA
+		owner = ITA
+		add_core_of = ITA
 
 		buildings = {
+		}
+		victory_points = {
+			778 1 # Annecy
 		}
 		
 	}
 	
 
 	provinces = {
-		764 9736 13385 6975 3764
+		13386 9745 778 9603 11573 6609
 	}
 	
 	local_supplies = 0.0 

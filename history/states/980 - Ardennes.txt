@@ -14,7 +14,6 @@ state = {
 		add_core_of = BEL
 		add_core_of = HOL
 
-		
 
 		buildings = {
 			infrastructure = 1
@@ -22,19 +21,11 @@ state = {
 
 			
 		}
-
-		victory_points = {
-			3516 5 # Namur
-		}
-
-		victory_points = {
-			11519 10 # Liege
-		}
 		
 	}
 
 	provinces = {
-		6537 11519 3516
+		6537   11562
 	}
 
 	local_supplies = 14.0 

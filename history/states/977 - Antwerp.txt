@@ -15,12 +15,15 @@ state = {
 		add_core_of = HOl
 		add_core_of = BEL
 
-		victory_points = { 
-			6598 30 
+		victory_points = {
+			3516 5 # Namur
 		}
 
 		victory_points = { 
 			13068 1 
+		}
+		victory_points = {
+			11519 10 # Liege
 		}
 
 		buildings = {
@@ -28,15 +31,13 @@ state = {
 			arms_factory = 2
 			industrial_complex = 3
 			air_base = 1
-			6598 = {
-				naval_base = 8
-			}
+			
 		}
 	
 	}
 
 	provinces = {
-		6598 9574 13068 11419
+		 9574 13068 11419 11519 3516
 	}
 
 	local_supplies = 0.0 

@@ -9,17 +9,18 @@ state = {
 	
 	history = {
 
-		owner = SOV
-		add_core_of = SOV
+		owner = BLR
+		add_core_of = BLR
 
 		buildings = {
+			infrastructure = 3
 		}
 		
 	}
 	
 
 	provinces = {
-		6326 6249 9323 323
+		323 354 387 6326 6249 6293 9323 9386 
 	}
 	
 	local_supplies = 0.0 

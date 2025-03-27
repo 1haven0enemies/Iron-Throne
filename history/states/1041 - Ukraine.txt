@@ -9,8 +9,8 @@ state = {
 	
 	history = {
 
-		owner = SOV
-		add_core_of = SOV
+		owner = SUK
+		add_core_of = SUK
 
 		buildings = {
 		}

@@ -273,7 +273,8 @@ THU = "countries/Thuringia.txt"
 HES = "countries/Hesse.txt"
 RHI = "countries/Rhineland.txt"
 UBD = "countries/United Baltic Duchy.txt"
-
+RUT = "countries/Ruthenia.txt"
+SUK = "countries/SOV_Ukraine.txt"
 
 
 # REICHSKOMMISSARIATS (no cores) (European)

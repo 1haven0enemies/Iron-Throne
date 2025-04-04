@@ -1286,6 +1286,14 @@ set_popularities = {
 	fascism = 2
 	communism = 88
 }
+set_autonomy = {
+	target = SUK
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = BLR
+	autonomous_state = autonomy_integrated_puppet
+}
 
 create_faction = Comintern
 add_to_faction = SOV

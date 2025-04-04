@@ -1,0 +1,19 @@
+state={
+	id=1048
+	name="STATE_1048"
+	provinces={
+		335 3279 3362 6273 6387 9272 9318 9382 9399 11254 11384 
+	}
+	state_category = rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3 
+		}
+		add_core_of = SOV
+	}
+	manpower=35615
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

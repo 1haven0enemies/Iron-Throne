@@ -1115,6 +1115,13 @@ KUR = {
 	color = rgb { 234 179 30 }
 	color_ui = rgb { 255 153 0 }	
 }
-
+RUT = {
+	color = rgb { 200 179 230 }
+	color_ui = rgb { 200 179 230 }	
+}
+SUK = {
+	color = rgb { 67 140 227 }
+	color_ui = rgb { 67 140 227 }	
+}
 
 

@@ -9,8 +9,8 @@ state = {
 	
 	history = {
 
-		owner = BLR
-		add_core_of = BLR
+		owner = RUT
+		add_core_of = RUT
 
 		buildings = {
 		}

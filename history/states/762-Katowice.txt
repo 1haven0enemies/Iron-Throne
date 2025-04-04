@@ -19,6 +19,10 @@ state = {
 		add_claim_by = PRE
 
 		victory_points = {
+			11467 5 # Gleiwitz
+		}
+
+		victory_points = {
 			6464 5 # Katovice
 		}
 
@@ -30,7 +34,7 @@ state = {
 	}
 
 	provinces = {
-		506 6464
+		479 506 6464 11467
 	}
 
 	local_supplies = 0.0 

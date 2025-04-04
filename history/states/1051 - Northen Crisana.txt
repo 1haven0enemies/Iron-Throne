@@ -1,0 +1,26 @@
+state={
+	id=1051
+	name="STATE_1051"
+	provinces={
+		713 3709 3696 746 9687
+	}
+	manpower = 322780
+	
+	state_category = city
+	
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+		add_core_of = ROM
+		add_core_of = TRA
+		victory_points = {
+			9670 1 
+		}
+		set_demilitarized_zone = yes
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000 
+}

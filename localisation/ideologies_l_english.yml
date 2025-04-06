@@ -1,0 +1,1127 @@
+﻿l_english:
+ accelerationism:0 "Accelerationist"
+ accelerationism_noun:0 "Accelerationism"
+ state_humanism:0 "State Humanist"
+ state_humanism_noun:0 "State Humanism"
+ communism:0 "Communist"
+ communism_noun:0 "Communism"
+ reactionary_socialism:0 "Reactionary Socialist"
+ reactionary_socialism_noun:0 "Reactionary Socialism"
+ revolutionary_socialism:0 "Revolutionary Socialist"
+ revolutionary_socialism_noun:0 "Revolutionary Socialism"
+ progressivism:0 "Progressive"
+ progressivism_noun:0 "Progressivism"
+ liberalism:0 "Liberal"
+ liberalism_noun:0 "Liberalism"
+ economic_liberalism:0 "Economic Liberal"
+ economic_liberalism_noun:0 "Economic Liberalism"
+ conservatism:0 "Conservative"
+ conservatism_noun:0 "Conservatism"
+ authoritarianism:0 "Authoritarian"
+ authoritarianism_noun:0 "Authoritarianism"
+ monarchism:0 "Monarchist"
+ monarchism_noun:0 "Monarchism"
+ theocratical:0 "Theocratical"
+ theocratical_noun:0 "Theocracy"
+ primordialism:0 "Primordialist"
+ primordialism_noun:0 "Primordialism"
+ classical_nationalism:0 "Classical Nationalist"
+ classical_nationalism_noun:0 "Classical Nationalism"
+ revolutionary_nationalism:0 "Revolutionary Nationalist"
+ revolutionary_nationalism_noun:0 "Revolutionary Nationalism"
+ racial_darwinism:0 "Racial Darwinist"
+ racial_darwinism_noun:0 "Racial Darwinism"
+ anarchism:0 "Anarchist"
+ anarchism_noun:0 "Anarchism"
+ accelerationism_desc:0 "Modernist Outlook"
+ state_humanism_desc:0 "Modernist Outlook"
+ communism_desc:0 "Socialist Outlook"
+ reactionary_socialism_desc:0 "Socialist Outlook"
+ revolutionary_socialism_desc:0 "Socialist Outlook"
+ progressivism_desc:0 "Democratic Outlook"
+ liberalism_desc:0 "Democratic Outlook"
+ economic_liberalism_desc:0 "Democratic Outlook"
+ conservatism_desc:0 "Democratic Outlook"
+ authoritarianism_desc:0 "Authoritarian Outlook"
+ monarchism_desc:0 "Traditionalist Outlook"
+ theocratical_desc:0 "Traditionalist Outlook"
+ primordialism_desc:0 "Traditionalist Outlook"
+ classical_nationalism_desc:0 "Nationalist Outlook"
+ revolutionary_nationalism_desc:0 "Nationalist Outlook"
+ racial_darwinism_desc:0 "Nationalist Outlook"
+ anarchism_desc:0 "Anarchist Outlook"
+ 
+ #Accelerationist Sub-ideologies#
+ anarcho_absurdism:0 "Anarcho-Absurdism"
+ anarcho_absurdism_desc:0 "Anarcho-Absurdism is an anarchist ideology rooted in the philosophy of absurdism, which has its roots in the works of the 19th-century Danish philosopher Søren Kierkegaard. According to absurdist thought, the universe is irrational and meaningless. It states that trying to find meaning leads people into conflict with a seemingly meaningless world. This conflict can be between rational man and an irrational universe, between intention and outcome, or between subjective assessment and objective worth, but the precise definition of the term is disputed. Absurdism claims that, due to one or more of these conflicts, existence as a whole is absurd. Absurdists don't necessarily reject the search for meaning, but instead, they embrace the absurdity of the human condition and strive to find meaning within the meaningless. This mentality is shared with the Anarcho-Absurdists, who reject the state, religion, tradition, and other institutions in the hopes of establishing a creative, individualistic anarchist society free from coercion where people are able to live their own lives and find meaning in an absurd, random world."
+ anarcho_primitivism:0 "Anarcho-Primitivism"
+ anarcho_primitivism_desc:0 "Anarcho-Primitivism is  a political and ethical movement that combines anarchist principles with a critique of civilization, advocating for a return to non-civilized ways of life through deindustrialization and the abolition of societal structures. Adherents of this ideology believe that before the widespread use of agriculture, humans lived in egalitarian hunter-gatherer tribes. They believe that after the introduction of agriculture, humans slowly began to become obsessed with technology, and divisions of labour began to cause inequality. They disagree on whether they should return to hunter-gatherer tribes, use permaculture, or both."
+ anarcho_surrealism:0 "Anarcho-Surrealism"
+ anarcho_surrealism_desc:0 "Anarcho-Surrealism is an avant-garde anarchist ideology that has its roots in the artistic and philosophical movement known as Surrealism, explores the subconscious and irrational to challenge conventional reality, often featuring dreamlike imagery, unexpected juxtapositions, and a focus on the unconscious mind. As a political movement, Anarcho-Surrealists aim for the total revolt against hierarchy, traditionalism, religion, the state, and reality itself, seeking to create a 'society of the surreal' and bring about a new cultural revolution that would explore the unconscious and free humanity of the oppressive chains of the real."
+ apocalypticism:0 "Apocalypticism"
+ apocalypticism_desc:0 "Apocalypticism refers to a broad collection of cult-like religious ideologies that preach about the end of days, even within one's own lifetime, though exactly how it would play out depends on the speifici religion and beliefs of the cult in question. This belief is usually accompanied by the idea that civilization will soon come to a tumultuous end due to some sort of catastrophic global event. Apocalypticism is one aspect of eschatology in certain religions, the part of theology concerned with the final events of human history, or the ultimate destiny of humanity (societal collapse, human extinction, and so on)."
+ ascensionism:0 "Ascensionism"
+ ascensionism_desc:0 
+ avant_garde_nationalism:0 "Avant-Garde Nationalism"
+ avant_garde_nationalism_desc:0 "Avant-Garde Nationalism combines the cultural radicalism of the avant-garde movement of the art world with a deeply nationalistic devotion to one's fatherland. By combining the yearning of a radical cultural revolution with a sens eof national pride and duty to one's soil, it can be best be described as a sort of chauvinistc form of artistic modernism that seeks to do away with religion, rationality, socialism, capitalism, and traditional family norms. To what extent that the believers of Avant-Garde Nationalism are willing to go to realize their aims depends on what specific movement within the avant-garde art community and country they belong to."
+ cosmicism:0 "Cosmicism"
+ cosmicism_desc:0 "Cosmicism refers to an ideology that integrates science, religion, and metaphysics into a unified worldview. It is characterized by the belief in humanity’s cosmic destiny, the potential for immortality, and the use of scientific and technological advancements to achieve control over nature and explore space."
+ futurism:0 "Futurism"
+ futurism_desc:0 
+ hegemonism:0 "Hegemonism"
+ hegemonism_desc:0
+ marxist_accelerationism:0 "Marxist Accelerationism"
+ marxist_accelerationism_desc:0 
+ marxist_gastevism:0 "Marxist-Gastevism"
+ marxist_gastevism_desc:0 
+ nouvelle_revolution_nationale:0 "Nouvelle Révolution Nationale"
+ nouvelle_revolution_nationale_desc:0 
+ oligarchal_collectivism:0 "Oligarchal Collectivism"
+ oligarchal_collectivism_desc:0 
+ plasirism:0 "Plasirism"
+ plasirism_desc:0 "Plasirism is an ideology developed by the French philosopher Georges Bataille that pushes for the pursuit of sovereignty through the transgression of norms, the embrace of unproductive expenditure, and a radical reevaluation of meaning and human experience rooted in the sacred as excess eroticism, and sacrifice. Hedonistic in nature, Plasirism derives from the French word for 'pleasure,' indicaitng its aims of relaizing its vision for society. It also believes that sacrifice is not simply an act of destruction but a profound experience of openness, one that disrupts the closed and stable boundaries that define human existence."
+ premillennialism:0 "Premillenialism"
+ premillennialism_desc:0 "Premillenialism  is the belief that Jesus will physically return to the Earth via the Second Coming before the Millennium, heralding a literal thousand-year messianic age of peace. This is based off of a literal interpretation of the Book of Revelation and its followers are known to holding a cult mentality and, in rare and extreme cases, would sometimes perform human sacrifices via 'expiation' as a means of seeking the redeeming grace of God."
+ social_darwinism:0 "Social Darwinism"
+ social_darwinism_desc:0 "Social Darwinism is a ruthless ideology that attempts to apply Darwin's theory of natural selection to human societies, arguing that some groups are inherently superior and destined to dominate others, often used to justify social inequalities and discrimination. Social Darwinism believes that human groups and races are subject to the same natural selection laws as plants and animals. It also posited that the weak diminished while the strong gained power and cultural influence, summarizing human society as a "survival of the fittest" struggle. Proponents like Spencer, Walter Bagehot, and William Graham Sumner believed natural selection led to the survival of the best competitors, improving populations over time."
+ spiritualist_collectivism:0 "Spiritual Collectivism"
+ spiritual_collectivism_desc:0 
+ state_isolationism:0 "State Isolationism"
+ state_isolationism_desc:0 
+ ultramilitarism:0 "Ultramilitarism"
+ ultramilitarism_desc:0 
+ utopian_feudalism:0 "Utopian Feudalism"
+ utopian_feudalism_desc:0 
+ volkisch_primitivism:0 "Völkisch Primitivism"
+ volkisch_primitivism_desc:0 "Völkisch Primitivism is a primtivist interpretation of Esoteric Naitonal Socialism created by the German artist Fidus that incorporates mysticism, Germanic paganism, organic farming, alternative medicine, prehistory, and the Wandervogel movement into its ideological framework. Holding a deeply anti-industrial, anti-civilizational interpretation of National Socialist ideology, it aims to bring the Germanic people back into a kind of 'primitive innocence' devoid of the constraints of civilization and urban society so that their racial hygiene can be maintained and remain free from what it percieves as 'genetic contamination.' It is also known to have deeply anti-Christian bias that goes hand-in-hand with both its antisemitism and its rejection of modern technology."
+
+ #State Humanist Sub-ideologies#
+ arab_humanism:0 "Arab Humanism"
+ arab_humanism_desc:0 
+ atheistic_warlordism:0 "Atheist Warlordism"
+ atheistic_warlordism_desc:0
+ biological_statism:0 "Biological Statism"
+ biological_statism_desc:0
+ communitarian_humanism:0 "Communitarian Humanism"
+ communitarian_humanism_desc:0 
+ conservational_humanism:0 "Conservational Humanism"
+ conservational_humanism_desc:0 
+ einsteinism:0 "Einsteinism"
+ einsteinism_desc:0 
+ enlightened_despotism:0 "Enlightened Despotism"
+ enlightened_despotism_desc:0 
+ enlightened_oligarchy:0 "Enlightened Oligarchy"
+ enlightened_oligarchy_desc:0
+ eurohumanism:0 "Eurohumanism"
+ eurohumanism_desc:0 
+ humean_republicanism:0 "Humean Republicanism"
+ humean_republicanism_desc:0 
+ huxleyism:0 "Huxleyism"
+ huxleyism_desc:0 
+ lysenkoism:0 "Lysenkoism"
+ lysenkoism_desc:0
+ malthusian_statism:0 "Malthusian Statism"
+ malthusian_statism_desc:0 
+ mentzelite_national_socialism:0 "Mentzelite National Socialism"
+ mentzelite_national_socialism_desc:0
+ militant_atheism:0 "Militant Atheism"
+ militant_atheism_desc:0 
+ monumentalism:0 "Monumentalism"
+ monumentalism_desc:0
+ neo_mohism:0 "Neo-Mohism"
+ neo_mohism_desc:0 
+ palingenetic_humanism:0 "Palingenetic Humanism"
+ palingenetic_humanism_desc:0 
+ popular_atheism:0 "Popular Atheism"
+ popular_atheism_desc:0 "Popular Atheism, or Atheist Populism, refers to broad collection of anti-religious, staunchly atheistic populist movements that reject the belief in divine beings and religious tradition while promoting the complete secularization of society while under the influence of charismatic demagogues who hold anti-clerical views. Those who refer to themselves as "Popular Atheists" often hold firmly in a corporatist economy rooted in science, technological innovation, and logic, combined with a belief in direct democracy." 
+ promethean_technocracy: "Promethean Technocracy"
+ promethean_technocracy_desc:0 "Promethean Technocracy refers to a utopian ideology that advocates for the establishment of a technocratic humanist state run by an enlightened regime, be it an autocracy or an oligarchy, while staunchly rejecting religion under the belief that it exists only as a source of misery, division, and strife. It is a staunchly atheistic ideology that seeks to establish a scientific vanguard to guide the human race towards ultimate perfection by any means necessary, aiming to achieve a post-scarcity economy beyond capitalism, socialism, communis, and corporatism, and purging society of any and all religious beliefs and mystical superstitions. Critics of this ideology, hoever, would often criticize the Promethan Technocratic movement of promoting totalitarian rule, oppresive heirarchies, and an outright rejection of ethical restraint.""
+ rational_aristocracy:0 "Rational Aristocracy"
+ rational_aristocracy_desc:0
+ rational_corporatism:0 "Rational Corporatism"
+ rational_corporatism_desc:0 
+ rational_democracy:0 "Rational Democracy"
+ rational_democracy_desc:0 
+ rondonism:0 "Rondonism"
+ rondonism_desc:0 
+ scientific_utopianism:0 "Scientific Utopianism"
+ scientific_utopianism_desc:0 "Scienftific Utopianism refers to a movement that aims to establish a utopian society rooted in science, technology, and human reason. It espouses for a rationalsitic society which, while not hostile to religion, ultimately rejects religious inteference in political affairs while aiming to create an egalitarian society rooted in class collaboration, moral universialism, and belief in the human spirit. Some members of this movement hold authoritarian tendencies while others hold democratic or anarchist political beliefs." 
+ scientific_feminism:0 "Scientific Feminism"
+ scientific_feminism_desc:0 
+ secular_zionism:0 "Secular Zionism"
+ secular_zionism_desc:0 
+ societalism:0 "Societalism"
+ societalism_desc:0 "Societalism is a totalitarian collectivist ideology rooted in militant atheism and the normative ethical theories of utilitarianism, which promote actions that maximize happiness and well-being for the affected individuals. Believing that actions that lead to the greatest good for the greatest number are the only means of bringing about further progress for the human race, Societalists strongly reject religion, individualism, class conflict, racism, and sexism to the point where they find such things as being an existential threat towards the entire human species as a whole. In some cases, this would invovle a systematic purging of these very elements within society that they find to be too dangerous and, therefore, detrimental to the progress and prosperity of the collective whole."
+ state_deism:0 "State Deism"
+ state_deism_desc:0 
+ teslaism:0
+ teslaism_desc:0
+ unitary_technocracy:0 "Unitary Technocracy"
+ unitary_technocracy_desc:0 
+
+ #Communist sub-ideologies#
+ archeio_marxism:0 "Archeio-Marxism"
+ archeio_marxism_desc:0
+ barracks_communism:0 "Barracks Communism"
+ barracks_communism_desc:0 
+ bordigism:0 "Bordigism"
+ bordigism_desc:0
+ bukharinism:0 "Bukharinism"
+ bukharinism_desc:0
+ centrist_marxism:0 "Centrist Marxism"
+ centrist_marxism_desc:0
+ christian_communism:0 "Christian Communism"
+ council_communism:0 "Council Communism"
+ democratic_marxism:0 "Democratic Marxism"
+ democratic_marxism_desc:0
+ hardliner_leninism:0 "Hardliner Leninism"
+ hardliner_leninism_desc:0
+ indigenous_marxism:0 "Indigenous Marxism"
+ indigenous_marxism_desc:0
+ islamobolshevism:0 "Islamobolshevism"
+ islamobolshevism_desc:0
+ juche:0 "Juche"
+ juche_desc:0
+ luxemburgism:0 "Luxemburgism"
+ luxemburgism_desc:0
+ maoism:0 "Maoism"
+ maoism_desc:0
+ mariateguismo:0 "Mariáteguismo"
+ mariateguismo_desc:0
+ marxist_bundism:0 "Marxist-Bundism"
+ marxist_bundism_desc:0
+ marxist_heathenism:0 "Marxist-Heathenism"
+ marxist_neathenism_desc:0
+ marxist_jacobinism:0 "Marxist-Jacobinism"
+ marxist_jacobinism_desc:0
+ marxist_leninism:0 "Marxist-Leninism"
+ marxist_leninism_desc:0
+ national_bolshevism:0 "National Bolshevism"
+ national_bolshevism_desc:0
+ national_communism:0 "National Communism"
+ national_communism_desc:0
+ orthodox_marxism:0 "Orthodox Marxism"
+ orthodox_marxism_desc:0
+ red_futurism:0 "Red Futurism"
+ red_futurism_desc:0 
+ rykovism:0 "Rykovism"
+ rykovism_desc:0
+ sarvodaya_socialism:0 "Sarvodaya Socialism"
+ sarvodaya_socialism_desc:0
+ securocratic_communism:0 "Securocratic Communism"
+ spartacism:0 "Spartacism"
+ spartacism_desc:0
+ stalinism:0 "Stalinism"
+ stalinism_desc:0
+ stratocratic_communism:0 "Stratocratic Communism"
+ stratocratic_communism_desc:0
+ syndical_bolshevism:0 "Syndical Bolshevism"
+ tkachevism:0 "Tkachevism"
+ tkachevism_desc:0
+ trotskyism:0 "Trotskyism"
+ trotskyism_desc:0
+ western_marxism:0 "Western Marxism"
+ western_marxism_desc:0
+ vanguardism:0 "Vanguardism"
+ zinovievism:0 "Zinovievism"
+ zinovievism_desc:0
+
+ #Reactionary Socialist Sub-ideologies#
+ authenticism:0 "Authenticism"
+ authenticism_desc:0 "Authenticism refers to a collection of reactionary socialist ideologies within Africa, South America, Central America, Oceania, and the Southern Pacific that vehemently rejects Western culture and society while stressing for a traditionalist, collectivist society that aims to 'decolonize' the 'oppressed' peoples and return to a pre-colonial, pre-Western state of civilization mixed with a socialistic economy. Inspired by the works of Oswald Spengler, Authenticism aims to liberate the oppressed tribes of the world and root out the yoke of Western imperialism from their rightful ancestral lands and reawaken the cultural and spiritual ways of their ancestors."
+ byzantine_socialism:0 "Byzantine Socialism"
+ byzantine_socialism_desc:0
+ celestial_socialism:0 "Celestial Socialism"
+ celestial_socialism_desc:0
+ fitzhughism:0 "Fitzhughism"
+ fitzhughism_desc:0
+ georgian_socialism:0 "Georgian Socialism"
+ georgian_socialism_desc:0 
+ germanic_socialism:0 "Germanic Socialism"
+ germanic_socialism_desc:0
+ isigodism:0 "Isigodism"
+ isigodism_desc:0
+ left_integralism:0 "Left Integralism"
+ left_integralism_desc:0
+ left_islamism:0 "Left Islamism"
+ left_islamism_desc:0
+ luddite_socialism:0 "Luddite Socialism"
+ luddite_socialism_desc:0
+ mazdakite_socialism:0 "Mazdakite Socialism"
+ mazdakite_socialism_desc:0
+ mormon_socialism:0 "Mormon Socialism"
+ mormon_socialism_desc:0
+ pagan_socialism:0 "Pagan Socialism"
+ pagan_socialism_desc:0
+ platonic_socialism:0 "Platonic Socialism"
+ platonic_socialism_desc:0
+ reactionary_indigenous_communitarianism:0 "Reactionary Indigenous Communitarianism"
+ reactionary_indigenous_communitarianism_desc:0
+ reactionary_monarcho_socialism:0 "Reactionary Monarcho-Socialism"
+ reactionary_monarcho_socialism_desc:0
+ red_shogunism:0 "Red Shogunism"
+ red_shogunism_desc:0
+ spenglerism:0 "Spenglerism"
+ spenglerism_desc:0
+ volkisch_communitarianism:0 "Völkisch Communitarianism"
+ volkisch_communitarianism_desc:0
+ xiquanism:0 "Xiuquanism"
+ xiquanism_desc:0
+
+ #Revolutionary Socialist sub-ideologies#
+ agrarian_socialism:0 "Agrarian Socialism"
+ agrarian_socialism_desc:0
+ autocratic_socialism:0 "Autocratic Socialism"
+ autocratic_socialism_desc:0
+ barracks_socialism:0 "Barracks Socialism"
+ barracks_socialism_desc:0
+ black_nationalism:0 "Black Nationalism"
+ black_nationalism_desc:0
+ buddhist_socialism:0 "Buddhist Socialism"
+ buddhist_socialism_desc:0
+ centralized_syndicalism:0 "Centralized Syndicalism"
+ centralized_syndicalism_desc:0
+ crony_socialism:0 "Crony Socialism"
+ crony_socialism_desc:0
+ custodian_socialism:0 "Custodian Socialism"
+ custodian_socialism_desc:0
+ de_leonism:0 "De Leonism"
+ de_leonism_desc:0
+ developing_socialism:0 "Developing Socialism"
+ developing_socialism_desc:0
+ guild_socialism:0 "Guild Socialism
+ guild_socialism_desc:0
+ indigenous_communitarianism:0 "Indigenous Communitarianism"
+ indigenous_communitarianism_desc:0
+ islamic_socialism:0 "Islamic Socialism"
+ islamic_socialism_desc:0
+ lassallism:0 "Lassallism"
+ lassallism_desc:0
+ left_internationalism:0 "Left Internationalism"
+ left_internationalism_desc:0
+ left_nationalism:0 "Left Nationalism"
+ left_nationalism_desc:0
+ left_wing_tridemism:0 "Left-WIng Tridemism"
+ left_wing_tridemism_desc:0
+ machiavellian_socialism:0 "Machiavellian Socialism"
+ machiavellian_socialism_desc:0
+ mafioso_socialism:0 "Mafioso Socialism"
+ mafioso_socialism_desc:0
+ maximato:0 "Maximato"
+ maximato_desc:0
+ negritude:0 "Négritude"
+ negritude_desc:0
+ paternal_socialism:0 "Paternal Socialism"
+ paternal_socialism_desc:0
+ radical_democratic_socialism:0 "Radical Democratic Socialism"
+ radical_democratic_socialism_desc:0
+ rational_socialism:0 "Rational Socialism"
+ rational_socialism_desc:0
+ red_constitutional_dictatorship:0 "Red Constitutional Dictatorship"
+ red_constitutional_dictatorship_desc:0
+ red_jacobinism:0 "Red Jacobinism"
+ red_jacobinism_desc:0
+ red_military_dictatorship:0 "Red Military Dictatorship"
+ red_military_dictatorship_desc:0
+ red_social_credit:0 "Red Social Credit"
+ red_social_credit_desc:0
+ red_warlordism:0 "Red Warlordism"
+ red_warlordism_desc:0
+ revolutionary_christian_socialism:0 "Revolutionary Christian Socialism"
+ revolutionary_christian_socialism_desc:0
+ revolutionary_narodism:0 "Revolutionary Narodism"
+ revolutionary_narodism_desc:0
+ revolutionary_zionism:0 "Revolutionary Zionism"
+ revolutionary_zionism_desc:0
+ sandinismo:0 "Sandinismo"
+ sandinismo_desc:0
+ sinclairism:0
+ sinclairism_desc:0
+ sorelianism:0 "Sorelianism"
+ sorelianism_desc:0
+ stratocratic_socialism:0 "Stratocratic Socialism"
+ stratocratic_socialism_desc:0
+ syndicalism:0 "Syndicalism"
+ syndicalism_desc:0
+ technocratic_socialism:0 "Technocratic Socialism"
+ technocratic_socialism_desc:0
+ tribal_socialism:0 "Tribal Socialism"
+ tribal_socialism_desc:0
+ utopian_socialism:0 "Utopian Socialism"
+ utopian_socialism_desc:0
+ workerism:0 "Workerism"
+ workerism_desc:0
+ zapatismo:0 "Zapatismo"
+ zapatismo_desc:0
+
+ #Progressive Sub-Ideologies#
+ austromarxism:0 "Austromarxism"
+ austromarxism_desc:0
+ bernsteinism:0 "Bernsteinism"
+ bernsteinism_desc:0
+ christian_humanism:0 "Christian Humanism"
+ christian_humanism_desc:0
+ christian_socialism:0 "Christian Socialism"
+ christian_socialism_desc:0
+ democratic_socialism:0 "Democratic Socialism"
+ democratic_socialism_desc:0
+ fabianism:0 "Fabianism"
+ fabianism_desc:0
+ georgism:0 "Georgism"
+ georgism_desc:0
+ jadidism:0 "Jadidism"
+ jadidism_desc:0
+ jewish_left:0 "Jewish Left"
+ jewish_left_desc:0
+ labour_democracy:0 "Labour Democracy"
+ labour_democracy_desc:0
+ left_wing_populism:0 "Left-Wing Populism"
+ left_wing_populism_desc:0
+ left_sikh_democracy:0 "Left Sikh Democracy"
+ left_sikh_democracy_desc:0
+ liberal_socialism:0 "Liberal Socialism"
+ liberal_socialism_desc:0
+ longism:0 "Longism"
+ longism_desc:0
+ market_socialism:0 "Market Socialism"
+ market_socialism_desc:0
+ meritocracy:0 "Meritocracy:
+ meritocracy_desc:0
+ narodism:0 "Narodism"
+ parrotism:0 "Parrotism"
+ parrotism_desc:0
+ progressive_corporatism:0 "Progressive Corporatism"
+ progressive_corporatism_desc:0
+ progressive_hindusim:0 "Progressive Hinduism"
+ progressive_hindusim_desc:0
+ progressive_sichism:0 "Progressive Sichism"
+ progressive_sichism_desc:0
+ progressive_technocracy:0 "Progressive Technocracy"
+ progressive_technocracy_desc:0
+ quacker_socialism:0 "Quacker Socialism"
+ quacker_socialism_desc:0
+ radical_progressivism:0 "Radical Progressivism"
+ radical_progressivism_desc:0
+ radical_social_liberalism:0 "Radical Social Liberalism"
+ radical_social_liberalism_desc:0
+ reformed_getulioism:0 "Reformed Getúlioism"
+ reformed_getulioism_desc:0
+ revisionist_marxism:0 "Revisionist Marxism"
+ revisionist_marxism_desc:0
+ social_agrarianism:0 "Social Agrarianism"
+ social_agrarianism_desc:0 "Social Agrarianism"
+ social_catholicism:0 
+ social_catholicism_desc:0
+ social_democracy:0 "Social Democracy"
+ social_democracy_desc:0
+ social_gospel:0 "Social Gospel"
+ social_gospel_desc:0
+ social_nationalism:0 "Social Nationalism"
+ social_nationalism_desc:0
+ social_warlordism:0 "Social Warlordism"
+ social_warlordism_desc:0
+ vardamanism:0 "Vardamanism"
+ vardamanism_desc:0
+ zionist_socialism:0 "Zionist Socialism"
+ zionist_socialism_desc:0
+
+ #Liberal sub-ideologies#
+ classical_liberalism:0 "Classical Liberalism"
+ classical_liberalism _desc:0
+ constitutionalism:0 "Constitutionalism"
+ constitutionalism_desc:0
+ dynastic_liberalism:0 "Dynastic Liberalism"
+ dynastic_liberalism_desc:0
+ liberal_centrism:0 "Liberal Centrism"
+ liberal_centrism_desc:0
+ liberal_conservatism:0 "Liberal Conservatism"
+ liberal_conservatism_desc:0
+ liberal_internationalism:0 "Liberal Internationalism"
+ liberal_internationalism_desc:0
+ liberal_oligarchism:0 "Liberal Oligarchism"
+ liberal_oligarchism_desc:0
+ muscular_liberalism:0 "Muscular Liberalism"
+ muscular_liberalism_desc:0
+ national_liberalism:0 "National Liberalism"
+ national_liberalism_desc:0
+ ordoliberalism:0 "Ordoliberalism"
+ ordoliberalism_desc:0
+ radical_liberalism:0 "Radical Liberalism"
+ radical_liberalism_desc:0 
+ social_liberalism:0 "Social Liberalism"
+ social_liberalism_desc:0
+ technoliberalism:0 "Technoliberalism"
+ technoliberalism_desc:0
+ zionist_liberalism:0 "Zionist Liberalism"
+ zionist_liberalism_desc:)
+
+ #Economic Liberal sub-ideologies#
+ agrarian_capitalism:0 "Agrarian Capitalism"
+ agrarian_capitalism_desc:0
+ anarcho_capitalism:0 "Anarcho-Capitalism"
+ anarcho_capitalism_desc:0 "Anarcho-Capitalism, sometimes known as Anarcho-Liberalism, is an anarchist school of thought that combines the principles of anarchism with classical liberal conceptions of property rights and individualism, aiming for the elimination of the state in favor of a free-market capitalist form of anarchism that replaces centralized bureaucratic governance with a voluntary free associations. Most Anarcho-Capitalists adhere to the rejection of all physical aggression in favor of the non-aggresison principle (NAP), which views violence and force as illegitimate and should be prohibited for the sake of property rights and individual freedoms."
+ austrian_school:0 "Austrian School"
+ austrian_school_desc:0 "The Austrial School is a heterodox school of economic thought originating from Vienna in 1871 that advocates strict adherence to methodological individualism, the concept that social phenomena result primarily from the motivations and actions of individuals along with their self interest. Austrian-school theorists hold that economic theory should be exclusively derived from basic principles of human action."
+ christian_libertarianism:0 "Christian Libertarianism"
+ christian_libertarianism_desc:0
+ distributism:0 "Distributism"
+ distributism_desc:0
+ economic_darwinism:0 "Economic Darwinism"
+ economic_darwinism_desc:0 "Economic Darwinism refers to an individualist capitalist ideology based on the philosophical works of the British philosopher Herbet Spencer, who coined the term 'survivial of the fittest' and sought to implement Darwin's theories to human society. It also promotes individualism and believes that the role of the state should be maximally limited, allowing for laissez-faire capitalism to take root and that individuals would be free to pursue their goals and have civil liberties without intervention of the state. It staunchly opposes welfare and believes that the state should only protect individuals from violence and fraud."
+ fiscal_conservatism:0 "Fiscal Conservatism"
+ fiscal_conservatism_desc:0
+ free_market_centrism:0
+ free_market_centrism_desc:0
+ free_market_democracy:0
+ free_market_democracy_desc:0
+ free_market_nationalism:0
+ free_market_nationalism_desc:0
+ free_market_nordic_model:0 "Free-Market Nordic Model"
+ free_market_nordic_model_desc:0
+ liberal_corporatism:0 "Liberal Corporatism"
+ liberal_corporatism_desc:0
+ libertarianism:0 "Libertarianism"
+ libertarianism_desc:0 "Libertarianism is a political philosophy that holds freedom, personal sovereignty, and liberty as primary values. It believes in a very limited government and the individual's natural self evident rights of life, liberty, and property. In regards to economics, it strongly supports laissez-faire capitalism as the ideal economic system for society, believing that a free society cannot be achieved without a free market. Its theory of individual rights generally follows the homestead principle and the labor theory of property, stressing self-ownership and that people have an absolute right to the property that their labor produces."
+ market_populism:0 "Market Populism"
+ market_populism_desc:0
+ mercantile_oligarchy:0 "Mercantile Oligarchy"
+ mercantile_oligarchy_desc:0
+ objectivism:0 "Objectivism"
+ objectivism_desc:0
+ progressive_capitalism:0 "Progressive Capitalism"
+ progressive_capitalism_desc:0 
+ social_capitalism:0 "Social Capitalism"
+ social_capitalism_desc:0
+ social_libertarianism:0 "Social Libertarianism"
+ social_libertarianism_desc:0 "Social Libertarianism, much like its more classical counterpart, is a political philosophy that holds freedom, personal sovereignty, and liberty as primary values. It believes in a very limited government and the individual's natural self evident rights of life, liberty, and property. In regards to economics, it strongly supports laissez-faire capitalism as the ideal economic system for society, believing that a free society cannot be achieved without a free market. Its theory of individual rights generally follows the homestead principle and the labor theory of property, stressing self-ownership and that people have an absolute right to the property that their labor produces. What distinguishes it from its more classical verison, however, is that it promotes culturally progressive reforms and a market-friendly approach towards welfare."
+ 
+ #Conservative sub-ideologies#
+ american_christian_right:0 "American Christian Right"
+ american_christian_right_desc:0
+ aristocratic_conservatism:0 "Aristocratic Conservatism"
+ aristocratic_conservatism_desc:0
+ christian_democracy:0 "Christian Democracy"
+ christian_democracy_desc:0
+ christian_technocracy:0 "Christian Technocracy"
+ christian_technocracy_desc:0
+ conservative_corporatism:0 "Conservative Corporatism"
+ conservative_corporatism_desc:0
+ conservative_getulioism:0 "Conservative Getúlioism"
+ conservative_getulioism_desc:0
+ conservative_liberalism:0 "Conservative Liberalism"
+ conservative_liberalism_desc:0
+ conservative_oligarchism:0 "Conservative Oligarchism"
+ conservative_oligarchism_desc:0
+ conservative_populism:0 "Conservative Populism"
+ conservative_populism_desc:0
+ conservative_warlordism:0 "Conservative Warlordism"
+ conservative_warlordism_desc:0
+ hindu_democracy:0 "Hindu Democracy"
+ hindu_democracy_desc:0
+ islamic_democracy:0 "Islamic Democracy"
+ islamic_democracy_desc:0
+ libertarian_conservatism:0 "Libertarian Conservatism"
+ libertarian_conservatism_desc:0
+ moderate_authoritarianism:0 "Moderate Authoritarianism"
+ moderate_authoritarianism_desc:0
+ national_conservatism:0 "National Conservatism"
+ national_conservatism_desc:0
+ paternalistic_conservatism:0 "Paternalistic Conservatism"
+ paternalistic_conservatism_desc:0
+ progressive_conservatism:0 "Progressive Conservatism"
+ progressive_conservatism_desc:0
+ right_sikh_democracy:0 "Right Sikh Democracy"
+ right_sikh_democracy_desc:0
+ tribal_republicanism:0 "Tribal Republicanism"
+ tribal_republicanism_desc:0
+ toryism:0 "Toryism"
+ toryism_desc:0
+ zionist_conservatism:0 "Zionist Conservatism"
+ zionist_conservatism_desc:0
+
+ #Authoritarian sub-ideologies#
+ anocracy:0 "Anocracy"
+ anocracy_desc:0
+ aristocratic_republicanism:0 "Aristocratic Republicanism"
+ aristocratic_republicanism_desc:0
+ authoritarian_christian_democracy:0 "Authoritarian Christian Democracy"
+ authoritarian_christian_democracy_desc:0
+ authoritarian_democracy:0 "Authoritarian Democracy"
+ authoritarian_democracy_desc:0 "Authoritarian Democracy is an ideology that combines strong executive power with a rigged democratic political system, typically a "representative" elected body. The aim of these regimes is to maintain national stability as well as providing the people both a popular and effective government.  Because of their previously stated belief Authoritarian Democratic regimes generally allow certain freedoms and democratic institutions to exist if these don't constitute a threat to their dominance but instead represent a tool to popularize their regime among the masses. However they seek to squash any real opposition, frequently propping up a controlled one to give the populace an illusion of opposition."
+ authoritarian_islamic_democracy:0 "Authoritarian Islamic Democracy"
+ authoritarian_islamic_democracy_desc:0
+ authoritarian_longism:0 "Authoritarian Longism"
+ authoritarian_longism_desc:0
+ caponian_autocracy:0 "Caponian Autocracy"
+ caponian_autocracy_desc:0
+ caudillo_populism:0 "Caudillo Populism"
+ caudillo_populism_desc:0
+ chiang_kai_shek_thought:0 "Chiang Kai Shek Thought"
+ chiang_kai_shek_thought_desc:0
+ classical_totalitarianism:0 "Classical Totalitarianism"
+ classical_totalitarianism_desc:0 "Classical Totalitarianism, also known as Generic Totalitarianism or Personalist Totalitarianism, is an extremely authoritarian ideology that revolves around either a cult of personality around a dictator or a heavily centralized oligarchy based on the belief that the state should permeate all facets of society, that society must be run for the state by the state, and that all opposition should be banned."
+ clerical_autocracy:0 "Clerical Autocracy"
+ clerical_autocracy_desc:0
+ colonial_government:0
+ colonial_government_desc:0
+ constitutional_dictatorship:0 "Constitutional Dictatorship"
+ constitutional_dictatorship_desc:0
+ controlled_democracy:0 "Controlled Democracy"
+ controlled_democracy_desc:0
+ corporatocracy:0 "Corporatocracy"
+ corporatocracy_desc:0
+ despotism:0 "Despotism"
+ despotism_desc:0
+ feudalism:0 "Feudalism"
+ feudalism_desc:0
+ filibusterism:0 "Filibusterism"
+ filibusterism_desc:0
+ imperial_presidentialism:0 "Imperial Presidentialism"
+ imperial_presidentialism_desc:0
+ interim_government:0 "Interim Government"
+ interim_government_desc:0
+ kemalism:0 "Kemalism"
+ kemalism_desc:0
+ kleptocracy:0 "Kleptocracy"
+ kleptocracy_desc:0
+ kritarchy:0 "Kritarchy"
+ kritarchy_desc:0
+ macarthurism:0 "MacArthurism"
+ macarthurism_desc:0
+ mafia_statism:0 "Mafia Statism"
+ mafia_statism_desc:0
+ managerial_statism:0 "Managerial Statism"
+ managerial_statism_desc:0
+ military_dictatorship:0 "Military Dictatorship"
+ military_dictatorship_desc:0
+ oligarchy:0 "Oligarchy"
+ oligarchy_desc:0
+ partisan_movement:0 "Partisan Movement"
+ partisan_movement_desc:0
+ pirate_republicanism:0 "Pirate Republicanism"
+ pirate_republicanism_desc:0
+ provisional_government:0 "Provisional Government"
+ provisional_government_desc:0
+ sich_democracy:0 "Sich Democracy"
+ sich_democracy_desc:0
+ social_authoritarianism:0 "Social Authoritarianism"
+ social_authoritarianism_desc:0
+ social_credit:0 "Social Credit"
+ social_credit_desc:0
+ technocracy:0 "Technocracy"
+ technocracy_desc:0
+ technocratic_capitalism:0 "Technocratic Capitalism"
+ technocratic_capitalism_desc:0
+ totalitarian_capitalism:0 "Totalitarian Capitalism"
+ totalitarian_capitalism_desc:0
+ traditional_populism:0
+ traditional_populism_desc:0
+ transitioning_democracy:0 "Transitioning Democracy"
+ transitioning_democracy_desc:0
+ tribal_despotism:0 "Tribal Despotism"
+ tribal_despotism_desc:0
+ trumpism:0 "Trumpism"
+ trumpism_desc:0
+ wang_jingwei_thought:0 "Wang Jingwei Thought"
+ wang_jingwei_thought_desc:0
+ warlordism:0 "Warlordism"
+ warlordism_desc:0
+ xunzheng:0 "Xunzheng"
+ xunzheng_desc:0
+
+ #Monarchist Sub-Ideologies"
+ american_caesarism:0 "American Caesarism"
+ american_caesarism_desc:0
+ american_monarchism:0 "American Monarchism"
+ american_monarchism_desc:0
+ bonapartism:0 "Bonapartism"
+ bonapartism_desc:0
+ byzantine_restorationism:0 "Byzantine Resorationism"
+ byzantine_restorationism_desc:0
+ carlism:0 "Carlism"
+ carlism_desc:0
+ classical_absolutism:0 "Classcial Absolutism"
+ classical_absolutism_desc:0
+ constitutional_monarchism:0 "Constitutional Monarchism"
+ constitutional_monarchism_desc:0
+ cossack_hetmanate:0 "Cossack Hetmanate"
+ cossack_hetmanate_desc:0
+ crowned_republicanism:0 "Crowned Republicanism"
+ crowned_republicanism_desc:0
+ diarchy:0 "Diarchy"
+ diarchy_desc:0
+ dual_monarchism:0 "Dual Monarchism"
+ dual_monarchism_desc:0
+ duchy:0 "Duchy"
+ duchy_desc:0
+ elective_monarchism:0 "Elective Monarchism"
+ elective_monarchism_desc:0
+ emirate:0 "Emirate"
+ emirate_desc:0
+ enlightened_absolutism:0 "Enlightened Absolutism"
+ enlightened_absolutism_desc:0
+ ethnarchy:0 "Ethnarchy"
+ ethnarchy_desc:0
+ federal_monarchism:0 "Federal Monarchism"
+ federal_monarchism_desc:0
+ free_market_absolutism:0 "Free-Market Absolutism"
+ free_market_absolutism_desc:0
+ hegemonic_absolutism:0 "Hegemonic Absolutism"
+ hegemonic_absolutism_desc:0
+ ilyinism:0 "Ilyinism"
+ ilyinism_desc:0
+ jagiellonian_revivalism:0 "Jagiellonian Revivalism"
+ jagiellonian_revivalism_desc:0
+ khanate:0 "Khanate"
+ khanate_desc:0
+ legalism:0 "Legalism"
+ legalism_desc:0
+ longist_monarchism:0 "Longist Monarchism"
+ longist_monarchism_desc:0
+ monarcho_socialism:0 "Monarcho-Socialism"
+ monarcho_socialism_desc:0
+ monarcho_syndicalism:0 "Monarcho-Syndicalism"
+ monarcho_syndicalism_desc:0
+ neo_imperial_federalism:0 "Neo-Imperial Federalism"
+ neo_imperial_federalism_desc:0
+ pan_european_monarchism:0 "Pan-European Monarchism"
+ pan_european_monarchism_desc:0
+ reactionary_absolutism:0 "Reactionary Absolutism"
+ reactionary_absolutism_desc:0
+ regency:0 "Regency"
+ regency_desc:0
+ royal_pharaohism:0 "Royal Pharaohism"
+ royal_pharaohism_desc:0
+ showa_socialism:0 "Showa Socialism"
+ showa_socialism_desc:0
+ showa_state_capitalism:0 "Showa State Capitalism"
+ showa_state_capitalism_desc:0
+ showa_statism:0 "Showa Statism"
+ showa_statism_desc:0
+ showa_technocracy:0 "Showa Technocracy"
+ showa_technocracy_desc:0
+ social_absolutism:0 "Social Absolutism"
+ social_absolutism_desc:0
+ stratocratic_absolutism:0 "Stratocratic Absolutism"
+ stratocratic_absolutism_desc:0
+ tetrarchy:0 "Tetrarchy"
+ tetrarchy_desc:0
+ theocratic_absolutism:0 "Theocratic Absolutism"
+ theocratic_absolutism_desc:0
+ tory_absolutism:0 "Tory Absolutism"
+ tory_absolutism_desc:0
+ triumvirate:0 "Triumvirate"
+ triumvirate_desc:0
+ tsarism:0 "Tsarism"
+ tsarism_desc:0
+ wrangelism:0 "Wrangelism"
+ wrangelism_desc:0
+
+ #Theocratical sub-ideologies#
+ animist_theocracy:0 "Animistic Theocracy"
+ animist_theocracy_desc:0
+ bahai_theocracy:0 "Baha'i Theocracy"
+ bahai_theocracy_desc:0
+ buddhist_theocracy:0 "Buddhist Theocracy"
+ buddhist_theocracy_desc:0
+ calvinist_theocracy:0 "Calvinist Theocracy"
+ calvinist_theocracy_desc:0
+ catholic_theocracy:0 "Catholic Theocracy"
+ catholic_theocracy_desc:0
+ christian_fundamentalism:0 "Christian Fundamentalism"
+ christian_fundamentalism_desc:0
+ confucian_theocracy:0 "Confucian Theocracy"
+ confucian_theocracy_desc:0
+ druidic_theocracy:0 "Druidic Theocracy"
+ druidic_theocracy_desc:0
+ druze_theocracy:0 "Druze "Theocracy"
+ druze_theocracy_desc:0
+ eastern_orthodox_theocracy:0 "Eastern Orthodox Theocracy"
+ eastern_orthodox_theocracy_desc:0
+ hasidic_theocracy:0 "Hasidic Theocracy"
+ hasidic_theocracy_desc:0
+ hermetic_theocracy:0 "Hermetic Theocracy"
+ hermetic_theocracy_desc:0
+ hindu_theocracy:0 "Hindu Theocracy"
+ hindu_theocracy_desc:0
+ ibadi_theocracy:0 "Ibadi Theocracy"
+ ibadi_theocracy_desc:0
+ islamism:0 "Islamism"
+ islamism_desc:0
+ jain_theocracy:0 "Jain Theocracy"
+ jain_theocracy_desc:0
+ jewish_theocracy:0 "Jewish Theocracy"
+ jewish_theocracy_desc:0
+ lutheran_theocracy:0 "Lutheran Theocracy"
+ lutheran_theocracy_desc:0
+ oriental_orthodox_theocracy:0 "Oriental Orthodox Theocracy"
+ oriental_orthodox_theocracy_desc:0
+ pagan_theocracy:0 "Pagan Theocracy"
+ pagan_theocracy_desc:0
+ puritanism:0 "Puritanism"
+ puritanism_desc:0
+ santeria_theocracy:0 "Santeria Theocracy"
+ santeria_theocracy_desc:0
+ shamanistic_theocracy:0 "Shamanistic Theocracy"
+ shamanistic_theocracy_desc:0
+ shia_theocracy:0 "Shia Theocracy"
+ shia_theocracy_desc:0
+ sikh_theocracy:0 "Sikh Theocracy"
+ sikh_theocracy_desc:0
+ state_shintoism:0 "State Shintoism"
+ state_shintoism_desc:0
+ sunni_theocracy:0 "Sunni Theocracy"
+ sunni_theocracy_desc:0
+ theodemocracy:0 "Theodemocracy"
+ theodemocracy_desc:0
+ theostratocracy:0 "Theostratocracy"
+ theostratocracy_desc:0
+ voodoo_theocracy:0 "Voodoo Theocracy"
+ voodoo_theocracy_desc:0
+ zoroastrian_theocracy:0 "Zoroastrian Theocracy"
+ zoroastrian_theocracy_desc:0
+
+ #Primordialist sub-ideologies#
+ anthroposophy:0 "Anthroposophy"
+ anthroposophy_desc:0
+ ariosophy:0 "Ariosophy"
+ ariosophy_desc:0
+ black_esotericism:0 "Black Esotericism"
+ black_esotericism_desc:0
+ dark_romanticism:0 "Dark Romanticism"
+ dark_romanticism_desc:0
+ death_worship "Death Worship"
+ death_worship_desc:0
+ esoteric_darwinism:0 "Esoteric Darwinism"
+ esoteric_darwinism_desc:0
+ esotetric_populism:0 "Esoteric Populism"
+ esotetric_populism_desc:0
+ esoteric_socialism:0 "Esoteric Socialism"
+ esoteric_socialism_desc:0
+ esoteric_totalitarianism:0 "Esoteric Totalitarianism"
+ esoteric_totalitarianism_desc:0
+ evolaism:0 "Evolaism"
+ evolaism_desc:0
+ gnostic_collectivism:0 "Gnostic Collectivism"
+ gnostic_collectivism_desc:0
+ gnostic_theocracy:0 "Gnostic Theocracy"
+ gnostic_theocracy_desc:0
+ huitzilopochtli_cult:0 "Huitzilopochtli Cult"
+ huitzilopochtli_cult_desc:0
+ hyperboreanism:0 "Hyperboreanism"
+ hyperboreanism_desc:0
+ hyperborean_vitalism:0 "Hyperborean Vitalism"
+ hyperborean_vitalism_desc:0
+ kabbalistic_theocracy:0 "Kabbalistic Theocracy"
+ kabbalistic_theocracy_desc:0
+ leopard_society:0 "Leopard Society"
+ leopard_society_desc:0
+ lovecraftism:0 "Lovecraftism"
+ lovecraftism_desc:0
+ masonic_oligarchy:0 "Masonic Oligarchy"
+ masonic_oligarchy_desc:0
+ national_mysticism:0 "National Mysticism"
+ national_mysticism_desc:0
+ neo_folkism:0 "Neo-Folkism"
+ neo_folkism_desc:0
+ roerichism:0 "Roerichism"
+ roerichism_desc:0
+ rosicrucianism:0 "Rosicrucianism"
+ rosicrucianism_desc:0
+ sanguism:0 "Sanguism"
+ sanguism_desc:0
+ satanism:0 "Satanism"
+ satanism_desc:0
+ scythianism:0 "Scythianism"
+ scythianism_desc:0
+ spiritualist_movement:0 "Spiritualist Movement"
+ spiritualist_movement_desc:0
+ thelema:0 "Thelema"
+ thelema_desc:0
+ theosophy:0 "Theosophy"
+ theosophy_desc:0
+ volkism:0 "Völkism"
+ volkism_desc:0
+ wiccan_theocracy:0 "Wiccan Theocracy"
+ wiccan_theocracy_desc:0
+
+ #Classical Nationalist sub-ideologies#
+ agrarian_nationalism:0 "Agrarian Nationalism"
+ agrarian_nationalism_desc:0
+ aristocratic_nationalism:0 "Aristocratic Nationalism"
+ aristocratic_nationalism_desc:0
+ austropopulism:0 "Austropopulism"
+ austropopulism_desc:0
+ buddhist_nationalism:0 "Buddhist Nationalism"
+ buddhist_nationalism_desc:0
+ chetnik_nationalism:0 "Chetnik Nationalism"
+ chetnik_nationalism_desc:0
+ christian_nationalism:0 "Christian Nationalism"
+ christian_nationalism_desc:0
+ civic_nationalism:0 "Civic Nationalism"
+ civic_nationalism_desc:0
+ classical_pharaohism:0 "Classical Pharaohism"
+ clerical_national_romanticism:0 "Clerical National Romanticism"
+ clerical_national_romanticism_desc:0
+ confucian_nationalism:0 "Confucian Nationalism"
+ confucian_nationalism_desc:0
+ ethnic_nationalism:0 "Ethnic Nationalism"
+ ethnic_nationalism_desc:0
+ flemish_movement:0 "Flemish Movement"
+ flemish_movement_desc:0
+ hispanism:0 "Hispanism"
+ hispanism_desc:0
+ islamic_nationalism:0 "Islamic Nationalism"
+ islamic_nationalism_desc:0
+ indigenous_nationalism:0 "Indigenous Nationalism"
+ indigenous_nationalism_desc:0
+ integralism:0 "Integralism"
+ integralism_desc:0
+ klan_nationalism:0 "Klan Nationalism"
+ klan_nationalism_desc:0
+ martial_neo_paganism:0 "Martial Neo-Paganism"
+ martial_neo_paganism_desc:0
+ maurrassisme:0 "Maurrassisme"
+ maurrassisme_desc:0
+ metaxism:0 "Metaxism"
+ metaxism_desc:0
+ monarcho_legionism:0 "Monarcho-Legionism"
+ monarcho_legionism_desc:0
+ nation_of_islam:0 "Nation of Islam"
+ nation_of_islam_desc:0
+ national_carlism:0 "National Carlism"
+ national_carlism_desc:0
+ national_capitalism:0 "National Capitalism"
+ national_capitalism_desc:0
+ national_catholicism:0 "National Catholicism"
+ national_catholicism_desc:0
+ national_democracy:0 "National Democracy"
+ national_democracy_desc:0
+ national_feudalism:0 "National Feudalism"
+ national_feudalism_desc:0
+ national_populism:0 "National Populism"
+ national_populism_desc:0 "National Populism is a broad term for political ideologies associated with authoritarian ultranationalism involving a rejection of liberalism and socialism in favor of a traditionalist, militaristic, and one-party authoritarian state. A common consensus among various organizations under the National Populist umbrella is that only a strong figure of authority can unify a nation and its people under the state. Regimes under the National Populist label tend to have a monopoly on power within the state, having control or influence over the police, military, legislature, and general political scene. Within the system they use state resources to inflict terror upon their people through various means, ranging from an omnipresent network of secret informants, the mass surveillance of large sections of the population, or through the establishment of concentration camps to be able to guard against any potentially suspicious individuals or groups."
+ national_romanticism:0 "National Romanticism"
+ national_romanticism_desc:0 "National Romanticism is a far-right, reactionary, ultranationalist ideology founded by C.S Lewis in 1923 that holds a strict adherence towards traditionalism, anti-capitalism, anti-feminism, anti-esotericism, anti-socialism, militarism, and aristocracy. It is a staunchly totalitarian form of conservative nationalism that espouses a national collectivist community with a strong emphasis on patriarchal family norms, cultural chauvinism, passion, intuition, the celebration of the heroic, and undying loyalty to the fatherland. Economically, it promotes a corporatist economic system that espouses class collaboration while, ironically, holding an elitist and hierarchical view of society."
+ national_salvation_movement:0 "National Salvation Movement"
+ national_salvation_movement_desc:0
+ nationalist_warlordism:0 "Nationalist Warlordism"
+ nationalist_warlordism_desc:0
+ nordicism:0 "Nordicism"
+ nordicism_desc:0 "Nordicism is an ideology which views the "Nordic race" as an endangered and superior racial group, stressing the notion that they alone are destined to rule over the rest of humanity. It also supports the idea that people of Nordic stock, including the Anglo-Saxons, Northern French, Germanics, Balts, Baltic Finns, Scandinavians, and Celts, are even superior to the other European phenotypes. Nordicists claim that Nordics had formed upper tiers of ancient civilisations, even in the Mediterranean civilisations of antiquity, which had declined once this dominant race had been assimilated. Many of the Nordicists' ideas were popularized by thinkers such as Madison Grant, Arthur de Gobineau, Lothrop Stoddard, and Houston Stewart Chamberlain."
+ panchayat_system:0 "Panchayat System"
+ panchayat_system_desc:0
+ patriot_populism:0 "Patriot Populism"
+ patriot_populism_desc:0
+ reactionary_modernism:0 "Reactionary Modernism"
+ reactionary_modernism_desc:0
+ reactionary_nationalism:0 "Reactionary Nationalism"
+ reactionary_nationalism_desc:0
+ religious_zionism:0 "Religious Zionism"
+ religious_zionism_desc:0
+ right_wing_populism:0 "Right-Wing Populism"
+ right_wing_populism_desc:0
+ sanationism:0 "Sanationism"
+ sanationism_desc:0
+ sikh_nationalism:0 "Sikh Nationalism"
+ sikh_nationalism_desc:0
+ solidarism:0 "Solidarism"
+ solidarism_desc:0
+ tseghakronism:0 "Tseghakronism"
+ tseghakronism_desc:0
+ zionism:0 "Zionism"
+ zionism_desc:0 "Zionism is a nationalist ideology that emerged in Europe in the late 19th century that believes that the best solution to the "Jewish question" is to create a nation for Jews in the Holy Land. Zionism initially emerged in Central and Eastern Europe as a secular nationalist movement in the late 19th century, in reaction to newer waves of antisemitism and in response to the Haskalah, or Jewish Enlightenment. Fundamental to Zionism is the belief that Jews constitute a nation, and have a moral and historic right and need for self-determination in Palestine. This belief developed out of the experiences of European Jewry, which the early Zionists believed demonstrated the danger inherent to their status as a minority. In contrast to the Zionist notion of nationhood, the Judaic sense of being a nation was rooted in religious beliefs of unique chosenness and divine providence, rather than in ethnicity."
+ zoroastrian_national_revivalism:0 "Zoroastrian National Revivalism"
+ zoroastrian_national_revivalism_desc:0
+
+ #Revolutionary Nationalist sub-ideologies#
+ anti_colonialism:0 "Anti-Colonialism"
+ anti_colonialism_desc:0
+ baathism:0 "Ba'athism"
+ baathism_desc:0
+ bolivarianism:0 "Bolivarianism"
+ bolivarianism_desc:0
+ bulgarian_legionarism:0 "Bulgarian Legionarism"
+ bulgarian_legionarism_desc:0 
+ clerical_national_jacobinism:0 "Clerical National Jacobinism"
+ clerical_national_jacobinism_desc:0
+ deseret_nationalism:0 "Deseret Nationalism"
+ deseret_nationalism_desc:0
+ falangism:0 "Falangism"
+ falangism_desc:0
+ green_chauvinism:0 "Green Chauvinism"
+ green_chauvinism_desc:0
+ iberonationalism:0 "Iberonationalism"
+ iberonationalism_desc:0
+ identitarianism:0 "Identitarianism"
+ identitarianism_desc:0
+ karbyshevism:0 "Karbyshevism"
+ karbyshevism_desc:0
+ legionary_national_jacobinism:0 "Legionary National Jacobinism"
+ legionary_national_jacobinism_desc:0
+ libertarian_nationalism:0 "Libertarian Nationalism"
+ libertarian_nationalism_desc:0
+ mexicayotl:0 "Mexicayotl"
+ mexicayotl_desc:0
+ monarcho_falangism:0 "Monarcho-Falangism"
+ monarcho_falangism_desc:0
+ mosleyism:0 "Mosleyism"
+ mosleyism_desc:0
+ national_bonapartism:0 "National Bonapartism"
+ national_bonapartism_desc:0
+ national_jacobinism:0 "National Jacobinism"
+ national_jacobinism_desc:0
+ national_radicalism:0 "National Radicalism"
+ national_radicalism_desc:0
+ national_syndicalism:0 "National Syndicalism"
+ national_syndicalism_desc:0
+ neo_kemalism:0 "Neo-Kemalism"
+ neo_kemalism_desc:0
+ noirisme:0 "Noirisme"
+ noirisme_desc:0
+ palingenetic_national_capitalism:0 "Palingenetic National Capitalism"
+ palingenetic_national_capitalism_desc:0
+ pan-celticism:0 "Pan-Celticism"
+ pan-celticism_desc:0
+ pelleyism:0 "Pelleyism"
+ pelleyism_desc:0
+ peronism:0 "Peronism"
+ peronism_desc:0
+ primal_feminism:0 "Primal Feminism"
+ primal_feminism_desc:0
+ revisionist_maximalism:0 "Revisionist Maximalism"
+ revisionist_maximalism_desc:0
+ revolution_nationale:0 "Révolution Nationale"
+ revolution_nationale_desc:0
+ saadehism:0 "Saadehism"
+ saadehism_desc:0
+ savinkovism:0 "Savinkovism"
+ savinkovism_desc:0
+ synarchism:0 "Synarchism"
+ synarchism_desc:0
+ techno_falangism:0 "Techno-Falangism"
+ techno_falangism_desc:0
+ volkische_jacobinism:0 "Völkische Jacobinism"
+ volkische_jacobinism_desc:0
+
+ #Racial Darwinist sub-ideologies#
+ agrarian_national_socialism:0 "Agrarian National Socialism"
+ agrarian_national_socialism_desc:0
+ anarcho_volkism:0 "Anarcho-Völkism"
+ anarcho_volkism_desc:0
+ anglo_saxon_supremacy:0 "Anglo-Saxon Supremacy"
+ anglo_saxon_supremacy_desc:0
+ aryan_futurism:0 "Aryan Futurism"
+ aryan_futurism_desc:0
+ black_darwinism:0 "Black Darwinism"
+ black_darwinism_desc:0
+ clerical_national_eurasianism:0 "Clerical National Eurasianism"
+ clerical_national_eurasianism_desc:0
+ clerical_national_socialism:0 "Clerical National Socialism"
+ clerical_national_socialism_desc:0
+ codreanuism:0 "Codreanusim"
+ codreanuism_desc:0 "Codreanuism, or Romanian Legionarism, is an ultranationalist, religious, social Darwinist ideology that ties its sense of national pride and unity with the Eastern Orthodox faith. Despite its strict adherence to racialized Darwinian principles, it calls for a revolutionary "new man", though this is not defined in physical terms, as with the National Socialists in Germany or the Franco-Darwinists in France, but is aimed at recreating and purifying oneself to bring the whole nation closer to God. Thus, Codreanuism can best be described a kind of palingenetic ultranationalist Christianity with characteristics of both social Darwinism, eugenics, Romanian chauvinism, and national mysticism added to the mix."
+ darwinian_synarchism:0 "Darwinian Synarchism"
+ darwinian_synarchism_desc:0
+ drexlerite_national_socialism:0 "Drexlerite National Socialism"
+ drexlerite_national_socialism_desc:0
+ esoteric_national_caesarism:0 "Esoteric National Caesarism"
+ esoteric_national_caesarism_desc:0
+ esoteric_national_socialism:0 "Esoteric National Socialism"
+ esoteric_national_socialism_desc:0
+ finnodarwinism:0  "Finnodarwinism"
+ finnodarwinism_desc:0
+ franco_darwinism:0 "Franco-Darwinism"
+ franco_darwinism_desc:0
+ han_darwinism:0 "Han Darwinism"
+ han_darwinism_desc:0
+ hellenic_darwinism:0 "Hellenic Darwinism"
+ hellenic_darwinism_desc:0
+ hindu_national_socialism:0 "Hindu National Socialism"
+ hindu_national_socialism_desc:0
+ ilminism:0 "Ilminism"
+ ilminism_desc:0
+ imperial_national_socialism:0 "Imperial National Socialism"
+ imperial_national_socialism_desc:0
+ messianic_national_socialism:0 "Messianic National Socialism"
+ messianic_national_socialism_desc:0
+ national_caesarism:0 "National Caesarism"
+ national_caesarism_desc:0
+ national_eurasianism:0 "National Eurasianism"
+ national_eurasianism_desc:0
+ national_pharaohism:0 "National Pharaohism"
+ national_pharaohism_desc:0
+ neo_qing_system:0 "Neo-Qing System"
+ neo_qing_system_desc:0
+ orthodox_national_socialism:0 "Orthodox National Socialism"
+ orthodox_national_socialism_desc:0
+ phibunism:0 "Phibunism"
+ phibunism_desc:0
+ rosenberg_system:0 "Rosenberg System"
+ rosenberg_system_desc:0
+ showa_national_socialism:0 "Showa National Socialism"
+ showa_national_socialism_desc:0
+ slavo_aryanism:0 "Slavo-Aryanism"
+ slavo_aryanism_desc:0
+ stratocratic_national_socialism:0 "Stratocratic National Socialism"
+ stratocratic_national_socialism_desc:0
+ strasserism:0 "Strasserism"
+ strasserism_desc:0 
+ technocratic_national_socialism:0 "Technocratic National Socialism"
+ technocratic_national_socialism_desc:0
+ tsarist_national_eurasianism:0 "Tsarist National Eurasianism"
+ tsarist_national_eurasianism_desc:0
+ turanism:0 "Turanism"
+ turanism_desc:0
+ ustaseism:0 "Ustašeism"
+ ustaseism_desc:0
+ white_darwinism:0 "White Darwinism"
+ white_darwinism_desc:0
+ zadruga:0 "Zadruga"
+ zadruga_desc:0
+
+ #Anarhcist sub-ideologies#
+ anarcho_bolshevism:0 "Anarcho-Bolshevism"
+ anarcho_bolshevism_desc:0
+ anarcho_communism:0 "Anarcho-Communism"
+ anarcho_communism_desc:0
+ anarcho_falangism:0 "Anarcho-Falangism"
+ anarcho_falangism_desc:0
+ anarcho_hinduism:0 "Anarcho-Hinduism"
+ anarcho_hinduism_desc:0
+ anarcho_individualism:0 "Anarcho-Individualism"
+ anarcho_individualism_desc:0
+ anarcho_syndicalism:0 "Anarcho-Syndicalism"
+ anarcho_syndicalism_desc:0
+ aristocratic_anarchism:0 "Aristocratic Anarhcism"
+ aristocratic_anarchism_desc:0
+ black_anarchism:0 "Black Anarchism"
+ black_anarchism_desc:0
+ buddhist_anarchism:0 "Buddhist Anarchism"
+ buddhist_anarchism_desc:0
+ christian_anarchism:0 "Christian Anarchism"
+ christian_anarchism_desc:0
+ collective_anarchism:0 "Collective Anarchism"
+ collective_anarchism_desc:0
+ illegalism:0 "Illegalism"
+ illegalism_desc:0
+ islamic_anarchism:0 "Islamic Anarchism"
+ islamic_anarchism_desc:0
+ jewish_anarchism:0 "Jewish Anarchism"
+ jewish_anarchism_desc:0
+ makhaevism:0 "Makhaevism"
+ makhaevism_desc:0
+ mutualism:0 "Mutualism"
+ mutualism_desc:0
+ mystical_anarchism:0 "Mystical Anarchism"
+ mystical_anarchism_desc:0
+ national_anarchism:0 "National Anarchism"
+ national_anarchism_desc:0
+ nechayevism:0 "Nechayevism"
+ nechayevism_desc:0
+ vanguard_anarchism:0 "Vanguard Anarchism"
+ vanguard_anarchism_desc:0
+ wobblyism:0 "Wobblyism"
+ wobblyism_desc:0
+ zen_anarchism:0 "Zen Anarchism"
+ zen_anarchism_desc:0

@@ -1,0 +1,57 @@
+scripted_gui = {
+	magic_buttons = {
+		context_type = player_context
+		parent_window_token = politics_tab
+		window_name = "magic_buttons_containter"
+
+		properties = {
+		}
+		
+		visible = {
+			THIS = {
+				exists = yes
+			}
+		}
+		
+		effects = {
+			manage_parliament_button_click = {
+				if = {
+					limit = {
+					has_country_flag = open_parliament
+					}
+					clr_country_flag = open_parliament
+				}
+				else = {
+					set_country_flag = open_parliament
+				}
+			}
+			manage_religion_button_click = {
+				if = {
+					limit = {
+					has_country_flag = open_religion
+					}
+					clr_country_flag = open_religion
+				}
+				else = {
+					set_country_flag = open_religion
+				}
+			}
+			manage_lon_button_click = {
+				if = {
+					limit = {
+					has_country_flag = open_lon
+					}
+					clr_country_flag = open_lon
+				}
+				else = {
+					set_country_flag = open_lon
+				}
+			}
+		}
+		
+		triggers = {
+			
+		}
+	}
+}
+

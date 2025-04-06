@@ -1,0 +1,14 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_categories"
+		texturefile = "gfx\\interface\\idea_categories.dds"
+		noOfFrames = 22	
+	}
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_tiled_window_2b_border"
+		texturefile = "gfx\\interface\\tiles\\tiled_window_2b_border.dds"
+	}
+}

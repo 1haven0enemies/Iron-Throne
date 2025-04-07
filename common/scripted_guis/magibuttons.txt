@@ -47,6 +47,18 @@ scripted_gui = {
 					set_country_flag = open_lon
 				}
 			}
+
+			manage_party_button_click = {
+				if = {
+					limit = {
+					has_country_flag = open_party
+					}
+					clr_country_flag = open_party
+				}
+				else = {
+					set_country_flag = open_party
+				}
+			}
 		}
 		
 		triggers = {

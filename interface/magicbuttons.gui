@@ -1,19 +1,20 @@
 guiTypes = {
 	containerWindowType = {
 		name = "magic_buttons_containter"
-		position = { x = 0 y = 430 }
-		size = { width=732 height=40 }
+		position = { x = 0 y = 239 }
+		size = { width=750 height=412 }
+		clipping = yes
 	
 		background = {
 			name = "Background"
 			#quadTextureSprite ="GFX_tiled_window_2b_border"
 			#quadTextureSprite ="GFX_tiled_window_1b_border"
-			quadTextureSprite ="GFX_tiled_window_2b_border"
+			
 		}
 
 		buttonType = {
 			name = "manage_religion_button"
-			position = { x = 40 y = -2 }
+			position = { x = 40 y = 260 }
 			quadTextureSprite = "GFX_button_148x31"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
@@ -21,7 +22,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "manage_religion_button_text"
-			position = { x = 53 y = 4 }
+			position = { x = 53 y = 266 }
 			font = "hoi_16mbs"
 			text = "Manage Faith"
 			Orientation = "UPPER_LEFT"
@@ -32,7 +33,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "manage_lon_button"
-			position = { x = 300 y = -2 }
+			position = { x = 300 y = 260 }
 			quadTextureSprite = "GFX_button_148x31"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
@@ -40,7 +41,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "manage_lon_button_text"
-			position = { x = 313 y = 4 }
+			position = { x = 313 y = 266 }
 			font = "hoi_16mbs"
 			text = "League of Nations"
 			Orientation = "UPPER_LEFT"
@@ -51,7 +52,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "manage_parliament_button"
-			position = { x = 560 y = -2 }
+			position = { x = 560 y = 260 }
 			quadTextureSprite = "GFX_button_148x31"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
@@ -59,7 +60,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "manage_parliament_button_text"
-			position = { x = 573 y = 4 }
+			position = { x = 573 y = 266 }
 			font = "hoi_16mbs"
 			text = "Parliament"
 			Orientation = "UPPER_LEFT"
@@ -67,5 +68,27 @@ guiTypes = {
 			alwaystransparent = yes
 			format = center
 		}
+
+		buttonType = {
+			name = "manage_party_button"
+			position = { x = 360 y = 120 }
+			clipping = no
+			quadTextureSprite = "GFX_button_148x31"
+			buttonFont = "hoi_16mbs"
+			Orientation = "UPPER_LEFT"
+		}
+
+		instantTextboxType = {
+			name = "manage_party_button_text"
+			position = { x = 360 y = 126 }
+			font = "hoi_16mbs"
+			text = "Party"``
+			Orientation = "UPPER_LEFT"
+			maxWidth = 123
+			alwaystransparent = yes
+			format = center
+		}
+
+		
 	}
 }

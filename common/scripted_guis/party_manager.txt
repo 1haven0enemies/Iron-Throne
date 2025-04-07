@@ -1,0 +1,25 @@
+scripted_gui = {
+	party_manager = {
+		context_type = player_context
+		parent_window_token = top_bar
+		window_name = "party_manager_container"
+
+		properties = {
+		}
+		
+		visible = {
+			has_country_flag = open_party
+		}
+		
+		effects = {
+			close_button_click = {
+				clr_country_flag = open_party
+			}
+		}
+		
+		triggers = {
+			
+		}
+	}
+}
+

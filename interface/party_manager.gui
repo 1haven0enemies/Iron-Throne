@@ -23,19 +23,68 @@ guiTypes = {
 			clicksound = click_close
 			pdx_tooltip = "CLOSE"
 		}
+
+		containerWindowType = {
+		    name = "party_mangager_window"
+		    position = { x = -356 y = 78 }	
+		    show_position = { x = 2 y = 37 }
+		    show_animation_type = decelerated
+		    hide_animation_type = accelerated
+			size = { width=548 height=100%% }
+			clipping = yes
+			verticalScrollbar = "right_vertical_slider"
+
+		
+			background = {
+				name = "Background"
+				quadTextureSprite = "GFX_tiled_window_1b_border"
+			}
+
+			containerWindowType = {
+				name = "ideology_list_holder"
+				position = { x = 0 y = 0 }
+				size = { width = 380 height = 1000 } # Make this large enough to hold all entries
+				
+				iconType ={
+					name ="communism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 20 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="communism_icon"
+					spriteType = "GFX_communism_icon"
+					position = { x= 12 y = 20 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_communism"
+					position = { x = 95 y = 65 }
+					size = { width = 350 height = 30 }
+					text = "Communism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_communism"
+					position = { x = 95 y = 30 }
+					size = { width = 350 height = 30 }
+					text = "[?party@communism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_communism"
+					position = { x = 363 y = 49 }
+					size = { width = 350 height = 30 }
+					text = "Popularity: [?party_popularity@communism|%0]"
+				}
+		
+
+			}
+
+		}
+
 	}
-	containerWindowType = { 
-		name = "chart_explanation" 
-		position = { x = 100 y = 297 } 
-		size = { width = 216 height = 80 } 
-		clipping = no
-        
-        gridBoxType = {
-            name = "parties_grid"
-            position = { x = 0 y = 0 }
-            size = { width = 100%% height = 100%% }
-            slotsize = { width = 230 height = 16 }
-            format = "UPPER_LEFT"
-        }
-    }
+	
 }

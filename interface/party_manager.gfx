@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideologies_entry_bg"
+		texturefile = "gfx/interface/ideologies/ideologies_entry_bg.dds"
+	}
+
+	
+}

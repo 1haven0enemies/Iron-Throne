@@ -69,6 +69,7 @@ guiTypes = {
 			format = center
 		}
 
+		
 		buttonType = {
 			name = "manage_party_button"
 			position = { x = 360 y = 120 }

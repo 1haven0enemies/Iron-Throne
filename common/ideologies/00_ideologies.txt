@@ -1426,6 +1426,9 @@ ideologies = {
             royal_pharaohism  = {
 			}
 
+			semi_theocratic_monarchism = {
+			}
+
 			showa_socialism  = {
 			}
 
@@ -2400,4 +2403,3 @@ ideologies = {
 		ai_give_core_state_control_threshold = 10000
 	}
 }
-

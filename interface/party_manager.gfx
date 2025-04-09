@@ -4,6 +4,90 @@ spriteTypes = {
 		name = "GFX_ideologies_entry_bg"
 		texturefile = "gfx/interface/ideologies/ideologies_entry_bg.dds"
 	}
-
 	
+	spriteType = {
+		name = "GFX_accelerationism_icon"
+		texturefile = "gfx/interface/ideologies/accelerationism_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_state_humanism_icon"
+		texturefile = "gfx/interface/ideologies/state_humanism_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_communism_icon"
+		texturefile = "gfx/interface/ideologies/communism_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_reactionary_socialism_icon"
+		texturefile = "gfx/interface/ideologies/reactionary_socialism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_revolutionary_socialism_icon"
+		texturefile = "gfx/interface/ideologies/revolutionary_socialism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_progressivism_icon"
+		texturefile = "gfx/interface/ideologies/progressivism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_liberalism_icon"
+		texturefile = "gfx/interface/ideologies/liberalism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_economic_liberalism_icon"
+		texturefile = "gfx/interface/ideologies/economic_liberalism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_conservatism_icon"
+		texturefile = "gfx/interface/ideologies/conservatism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_authoritarianism_icon"
+		texturefile = "gfx/interface/ideologies/authoritarianism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_monarchism_icon"
+		texturefile = "gfx/interface/ideologies/monarchism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_theocratical_icon"
+		texturefile = "gfx/interface/ideologies/theocratical_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_primordialism_icon"
+		texturefile = "gfx/interface/ideologies/primordialism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_classical_nationalism_icon"
+		texturefile = "gfx/interface/ideologies/classical_nationalism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_revolutionary_nationalism_icon"
+		texturefile = "gfx/interface/ideologies/revolutionary_nationalism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_racial_darwinism_icon"
+		texturefile = "gfx/interface/ideologies/racial_darwinism_icon.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_anarchism_icon"
+		texturefile = "gfx/interface/ideologies/anarchism_icon.dds"
+	}
+
 }

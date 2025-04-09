@@ -75,9 +75,289 @@ guiTypes = {
 
 				instantTextBoxType = {
 					name = "ideology_popularity_communism"
-					position = { x = 363 y = 49 }
+					position = { x = 358 y = 49 }
 					size = { width = 350 height = 30 }
-					text = "Popularity: [?party_popularity@communism|%0]"
+					text = "Popularity:[?party_popularity@communism|%0]"
+				}
+
+				iconType ={
+					name ="reactionary_socialism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 100 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="reactionary_socialism_icon"
+					spriteType = "GFX_reactionary_socialism_icon"
+					position = { x= 12 y = 100 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_reactionary_socialism"
+					position = { x = 95 y = 145 }
+					size = { width = 350 height = 30 }
+					text = "Reactionary Socialism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_reactionary_socialism"
+					position = { x = 95 y = 110 }
+					size = { width = 350 height = 30 }
+					text = "[?party@reactionary_socialism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_reactionary_socialism"
+					position = { x = 358 y = 129 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@reactionary_socialism|%0]"
+				}
+
+				iconType ={
+					name ="revolutionary_socialism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 180 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="revolutionary_socialism_icon"
+					spriteType = "GFX_revolutionary_socialism_icon"
+					position = { x= 12 y = 180 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_revolutionary_socialism"
+					position = { x = 95 y = 225 }
+					size = { width = 350 height = 30 }
+					text = "Revolutionary Socialism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_revolutionary_socialism"
+					position = { x = 95 y = 190 }
+					size = { width = 350 height = 30 }
+					text = "[?party@revolutionary_socialism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_revolutionary_socialism"
+					position = { x = 358 y = 209 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@revolutionary_socialism|%0]"
+				}
+
+				iconType ={
+					name ="progressivism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 260 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="progressivism_icon"
+					spriteType = "GFX_progressivism_icon"
+					position = { x= 12 y = 260 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_progressivism"
+					position = { x = 95 y = 305 }
+					size = { width = 350 height = 30 }
+					text = "Progressivism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_progressivism"
+					position = { x = 95 y = 270 }
+					size = { width = 350 height = 30 }
+					text = "[?party@progressivism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_progressivism"
+					position = { x = 358 y = 289 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@progressivism|%0]"
+				}
+
+				iconType ={
+					name ="liberalism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 340 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="liberalism_icon"
+					spriteType = "GFX_liberalism_icon"
+					position = { x= 12 y = 340 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_liberalism"
+					position = { x = 95 y = 385 }
+					size = { width = 350 height = 30 }
+					text = "Liberalism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_liberalism"
+					position = { x = 95 y = 350 }
+					size = { width = 350 height = 30 }
+					text = "[?party@liberalism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_liberalism"
+					position = { x = 358 y = 369 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@liberalism|%0]"
+				}
+
+				iconType ={
+					name ="economic_liberalism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 420 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="economic_liberalism_icon"
+					spriteType = "GFX_economic_liberalism_icon"
+					position = { x= 12 y = 420 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_economic_liberalism"
+					position = { x = 95 y = 465 }
+					size = { width = 350 height = 30 }
+					text = "Economic Liberalism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_economic_liberalism"
+					position = { x = 95 y = 430 }
+					size = { width = 350 height = 30 }
+					text = "[?party@economic_liberalism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_economic_liberalism"
+					position = { x = 358 y = 449 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@economic_liberalism|%0]"
+				}
+
+				iconType ={
+					name ="conservatism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 500 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="conservatism_icon"
+					spriteType = "GFX_conservatism_icon"
+					position = { x= 12 y = 500 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_conservatism"
+					position = { x = 95 y = 545 }
+					size = { width = 350 height = 30 }
+					text = "Conservatism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_conservatism"
+					position = { x = 95 y = 510 }
+					size = { width = 350 height = 30 }
+					text = "[?party@conservatism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_conservatism"
+					position = { x = 358 y = 529 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@conservatism|%0]"
+				}
+
+				iconType ={
+					name ="authoritarianism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 580 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="authoritarianism_icon"
+					spriteType = "GFX_authoritarianism_icon"
+					position = { x= 12 y = 580 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_authoritarianism"
+					position = { x = 95 y = 625 }
+					size = { width = 350 height = 30 }
+					text = "Authortarianism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_authoritarianism"
+					position = { x = 95 y = 590 }
+					size = { width = 350 height = 30 }
+					text = "[?party@authoritarianism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_authoritarianism"
+					position = { x = 358 y = 609 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@authoritarianism|%0]"
+				}
+
+				iconType ={
+					name ="monarchism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 660 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="monarchism_icon"
+					spriteType = "GFX_monarchism_icon"
+					position = { x= 12 y = 660 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_monarchism"
+					position = { x = 95 y = 705 }
+					size = { width = 350 height = 30 }
+					text = "Monarchism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_monarchism"
+					position = { x = 95 y = 670 }
+					size = { width = 350 height = 30 }
+					text = "[?party@monarchism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_monarchism"
+					position = { x = 358 y = 689 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@monarchism|%0]"
 				}
 		
 

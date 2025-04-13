@@ -43,7 +43,77 @@ guiTypes = {
 			containerWindowType = {
 				name = "ideology_list_holder"
 				position = { x = 0 y = 0 }
-				size = { width = 380 height = 1000 } # Make this large enough to hold all entries
+				size = { width = 380 height = 2000 } # Make this large enough to hold all entries
+				
+				iconType ={
+					name ="accelerationism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 20 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="accelerationism_icon"
+					spriteType = "GFX_accelerationism_icon"
+					position = { x= 12 y = 20 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_accelerationism"
+					position = { x = 95 y = 65 }
+					size = { width = 350 height = 30 }
+					text = "Accelerationism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_accelerationism"
+					position = { x = 95 y = 30 }
+					size = { width = 350 height = 30 }
+					text = "[?party@accelerationism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_accelerationism"
+					position = { x = 358 y = 49 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@accelerationism|%0]"
+				}
+				
+				iconType ={
+					name ="state_humanism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 20 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="state_humanism_icon"
+					spriteType = "GFX_state_humanism_icon"
+					position = { x= 12 y = 20 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_state_humanism"
+					position = { x = 95 y = 65 }
+					size = { width = 350 height = 30 }
+					text = "State Humanism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_state_humanism"
+					position = { x = 95 y = 30 }
+					size = { width = 350 height = 30 }
+					text = "[?party@state_humanism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_state_humanism"
+					position = { x = 358 y = 49 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@state_humanism|%0]"
+				}
 				
 				iconType ={
 					name ="communism_ledger_party"
@@ -360,6 +430,215 @@ guiTypes = {
 					text = "Popularity:[?party_popularity@monarchism|%0]"
 				}
 		
+				iconType ={
+					name ="theocratical_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 740 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="theocratical_icon"
+					spriteType = "GFX_theocratical_icon"
+					position = { x= 12 y = 740 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_theocratical"
+					position = { x = 95 y = 785 }
+					size = { width = 350 height = 30 }
+					text = "Theocratical"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_theocratical"
+					position = { x = 95 y = 750 }
+					size = { width = 350 height = 30 }
+					text = "[?party@theocratical|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_theocratical"
+					position = { x = 358 y = 769 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@theocratical|%0]"
+				}
+		
+				iconType ={
+					name ="primordialism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 820 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="primordialism_icon"
+					spriteType = "GFX_primordialism_icon"
+					position = { x= 12 y = 820 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_primordialism"
+					position = { x = 95 y = 865 }
+					size = { width = 350 height = 30 }
+					text = "Primordialism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_primordialism"
+					position = { x = 95 y = 830 }
+					size = { width = 350 height = 30 }
+					text = "[?party@primordialism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_primordialism"
+					position = { x = 358 y = 849 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@primordialism|%0]"
+				}
+		
+				iconType ={
+					name ="classical_nationalism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 900 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="classical_nationalism_icon"
+					spriteType = "GFX_classical_nationalism_icon"
+					position = { x= 12 y = 900 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_classical_nationalism"
+					position = { x = 95 y = 945 }
+					size = { width = 350 height = 30 }
+					text = "Classical Nationalism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_classical_nationalism"
+					position = { x = 95 y = 910 }
+					size = { width = 350 height = 30 }
+					text = "[?party@classical_nationalism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_classical_nationalism"
+					position = { x = 358 y = 929 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@classical_nationalism|%0]"
+				}
+		
+				iconType ={
+					name ="revolutionary_nationalism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 980 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="revolutionary_nationalism_icon"
+					spriteType = "GFX_revolutionary_nationalism_icon"
+					position = { x= 12 y = 980 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_revolutionary_nationalism"
+					position = { x = 95 y = 1025 }
+					size = { width = 350 height = 30 }
+					text = "Revolutionary Nationalism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_revolutionary_nationalism"
+					position = { x = 95 y = 990 }
+					size = { width = 350 height = 30 }
+					text = "[?party@revolutionary_nationalism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_revolutionary_nationalism"
+					position = { x = 358 y = 1009 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@revolutionary_nationalism|%0]"
+				}
+		
+				iconType ={
+					name ="racial_darwinism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 1060 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="racial_darwinism_icon"
+					spriteType = "GFX_racial_darwinism_icon"
+					position = { x= 12 y = 1060 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_racial_darwinism"
+					position = { x = 95 y = 1105 }
+					size = { width = 350 height = 30 }
+					text = "Racial Darwinism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_racial_darwinism"
+					position = { x = 95 y = 1070 }
+					size = { width = 350 height = 30 }
+					text = "[?party@racial_darwinism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_racial_darwinism"
+					position = { x = 358 y = 1089 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@racial_darwinism|%0]"
+				}
+		
+				iconType ={
+					name ="anarchism_ledger_party"
+					spriteType = "GFX_ideologies_entry_bg"
+					position = { x= 12 y = 740 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType ={
+					name ="anarchism_icon"
+					spriteType = "GFX_anarchism_icon"
+					position = { x= 12 y = 740 }
+					Orientation = "UPPER_LEFT"
+				}
+				
+				instantTextBoxType = {
+					name = "ideology_entry_anarchism"
+					position = { x = 95 y = 785 }
+					size = { width = 350 height = 30 }
+					text = "Anarchism"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_party_anarchism"
+					position = { x = 95 y = 750 }
+					size = { width = 350 height = 30 }
+					text = "[?party@anarchism|party_name]"
+				}
+
+				instantTextBoxType = {
+					name = "ideology_popularity_anarchism"
+					position = { x = 358 y = 769 }
+					size = { width = 350 height = 30 }
+					text = "Popularity:[?party_popularity@anarchism|%0]"
+				}
 
 			}
 

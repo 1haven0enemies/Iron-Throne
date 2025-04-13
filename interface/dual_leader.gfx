@@ -48,4 +48,9 @@ spriteTypes = {
 		name = "GFX_ROM_Carol_II"
 		texturefile = "gfx/dual_leaders/ROM/ROM_Carol_II.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_HOL_HENDRIKUS_COLIJN"
+		texturefile = "gfx/dual_leaders/HOL/HOL_HENDRIKUS_COLIJN.dds"
+	}
 }

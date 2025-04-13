@@ -17,6 +17,13 @@ defined_text = {
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
 	text = {
+		trigger = {
+			original_tag = HOL
+			has_government = conservatism
+		}
+		localization_key = DEFAULT_FIRST_TITLE_PRESIDENT
+	}
+	text = {
 		localization_key = DEFAULT_FIRST_TITLE
 	}
 }
@@ -37,6 +44,13 @@ defined_text = {
 		}
 		localization_key = ENG_KING_TITLE
 	}
+	text = {
+		trigger = {
+			original_tag = HOL
+			has_government = conservatism
+		}
+		localization_key = HOL_VICEPRES_TITLE
+	}
 }
 
 defined_text = {
@@ -44,7 +58,7 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = ROM
-			has_government = neutrality
+			has_government = democratic
 		}
 		localization_key = ROM_CAROL_II
 	}
@@ -58,6 +72,13 @@ defined_text = {
 		localization_key = ENG_GEORGE_V
 	}
 	text = {
+		trigger = {
+			tag = HOL
+			has_government = conservatism
+		}
+		localization_key = HOL_HENDRIKUS_COLIJN
+	}
+	text = {
 		localization_key = DEFAULT_TITLE
 	}
 }
@@ -67,9 +88,9 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = ROM
-			has_government = neutrality
+			has_government = democratic
 		}
-		localization_key = GFX_ROM_Carol_II
+		localization_key = "GFX_ROM_Carol_II"
 	}
     text = {
         trigger = {
@@ -79,6 +100,13 @@ defined_text = {
 			}
         }
         localization_key = "GFX_ENG_George_V"
+	}
+	text = {
+        trigger = {
+			original_tag = HOL
+			has_government = conservatism
+        }
+        localization_key = "GFX_HOL_HENDRIKUS_COLIJN"
 	}
 	text = {
 		localization_key = "GFX_portrait_bg_blank"

@@ -5,6 +5,7 @@
  dual_leader_name:0 "[ROOT.GetDualLeaderName]"
  DEFAULT_TITLE:0 "Vacant"
  DEFAULT_FIRST_TITLE:0 "Leader"
+ DEFAULT_FIRST_TITLE_PRESIDENT:0 "President"
  DESCRIPTION_TEST:0 "His Majesty"
  second_leader_tt:0 "§Y[ROOT.GetDualLeaderName]§!"
  first_leader_diplo_tt:0 "§Y[From.GetLeader]§!\n[From.GetFirstTitle] of [From.GetNameDef]"
@@ -18,3 +19,5 @@
  ROM_PRIME_MINISTER_TITLE:0 "Prime Minister"
  ROM_MONARCH_TITLE:0 "Monarch"
  ROM_CAROL_II:0 "Carol II"
+ HOL_VICEPRES_TITLE:0 "Vice President"
+ HOL_HENDRIKUS_COLIJN:0 "Hendrikus Colijn"

@@ -478,7 +478,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 112 1 1 }
+		color = { 112 10 10 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger

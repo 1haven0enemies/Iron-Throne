@@ -1,0 +1,87 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_ideology_accelerationism_group"
+        texturefile = "gfx/interface/ideologies/accelerationism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_anarchism_group"
+        texturefile = "gfx/interface/ideologies/anarchism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_authoritarianism_group"
+        texturefile = "gfx/interface/ideologies/authoritarianism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_classical_nationalism_group"
+        texturefile = "gfx/interface/ideologies/classical_nationalism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_communism_group"
+        texturefile = "gfx/interface/ideologies/communism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_conservatism_group"
+        texturefile = "gfx/interface/ideologies/conservatism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_economic_liberalism_group"
+        texturefile = "gfx/interface/ideologies/economic_liberalism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_liberalism_group"
+        texturefile = "gfx/interface/ideologies/liberalism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_monarchism_group"
+        texturefile = "gfx/interface/ideologies/monarchism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_primordialism_group"
+        texturefile = "gfx/interface/ideologies/primordialism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_progressivism_group"
+        texturefile = "gfx/interface/ideologies/progressivism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_racial_darwinism_group"
+        texturefile = "gfx/interface/ideologies/racial_darwinism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_reactionary_socialism_group"
+        texturefile = "gfx/interface/ideologies/reactionary_socialism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_revolutionary_nationalism_group"
+        texturefile = "gfx/interface/ideologies/revolutionary_nationalism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_revolutionary_socialism_group"
+        texturefile = "gfx/interface/ideologies/revolutionary_socialism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_state_humanism_group"
+        texturefile = "gfx/interface/ideologies/state_humanism_icon.dds"
+    }
+
+    spriteType = {
+        name = "GFX_ideology_theocratical_group"
+        texturefile = "gfx/interface/ideologies/theocratical_icon.dds"
+    }
+}
+

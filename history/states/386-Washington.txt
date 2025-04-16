@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = USA
-		add_core_of = USA
+		owner = CAN
+		add_core_of = CAN
 
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -20,14 +20,6 @@ state = {
 			7315 = {
 				naval_base = 3
 			}
-
-			# Grand Coulee Dam
-			#10327 = { dam = 1 }
-
-		}
-		
-		victory_points = {
-			1690 1 # Spokane
 		}
 
 		victory_points = {

@@ -21,6 +21,14 @@ state={
 		victory_points = {
 			9616 1
 		}
+
+		victory_points = {
+			1690 1 # Spokane
+		}		
+
+		# Grand Coulee Dam
+		#10327 = { dam = 1 }
+
 	}
 
 	provinces={

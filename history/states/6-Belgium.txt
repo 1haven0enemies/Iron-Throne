@@ -13,21 +13,9 @@ state = {
 
 		owner = HOL
 		add_core_of = HOL
-		add_core_of = BEL
-
-		victory_points = { 
-			516 30 
-		}
-
-		victory_points = { 
-			6560 5 
-		}
 
 		victory_points = { 
 			3576 1 
-		}
-		victory_points = { 
-			6598 30 
 		}
 
 		buildings = {
@@ -35,12 +23,6 @@ state = {
 			arms_factory = 3
 			industrial_complex = 4
 			air_base = 2
-			6560 = {
-				naval_base = 3
-			}
-			6598 = {
-				naval_base = 8
-			}
 		}
 		
 		add_extra_state_shared_building_slots = 2
@@ -48,7 +30,7 @@ state = {
 	}
 
 	provinces = {
-		516 3576 6446 6560 6598
+		3576 6446
 	}
 
 	local_supplies = 0.0 

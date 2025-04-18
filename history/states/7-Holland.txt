@@ -1,6 +1,6 @@
 state={
 	id=7
-	name="STATE_7"
+	name="STATE_7" 
 	resources={
 		steel=4.000
 	}
@@ -15,6 +15,11 @@ state={
 		victory_points = {
 			9498 20 
 		}
+
+		victory_points = { 
+			6560 5 
+		}		
+
 		buildings = {
 			infrastructure = 3
 			arms_factory = 4
@@ -29,13 +34,16 @@ state={
 				naval_base = 10
 
 			}
+			6560 = {
+				naval_base = 3
+			}			
 
 		}
 
 	}
 
 	provinces={
-		68 3211 3314 9431 9498 480 13387
+		68 3211 3314 9431 9498 480 6560 13387
 	}
 	manpower=4123000
 	buildings_max_level_factor=1.000

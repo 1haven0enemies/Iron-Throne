@@ -5325,5 +5325,17 @@
  BLC_DEF: "Balochistan"
  BLC_ADJ: "Baloch"
 
+ SON_fascism: "Sonora"
+ SON_fascism_DEF: "Sonora"
+ SON_democratic: "Sonora"
+ SON_democratic_DEF: "Sonora"
+ SON_neutrality: "Sonora"
+ SON_neutrality_DEF: "Sonora"
+ SON_communism: "Sonora"
+ SON_communism_DEF: "Sonora"
+ SON: "Sonora"
+ SON_DEF: "Sonoran"
+ SON_ADJ: "Sonoran"
+
 
 

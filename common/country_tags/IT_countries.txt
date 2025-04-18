@@ -275,6 +275,7 @@ RHI = "countries/Rhineland.txt"
 UBD = "countries/United Baltic Duchy.txt"
 RUT = "countries/Ruthenia.txt"
 SUK = "countries/SOV_Ukraine.txt"
+SON = "countries/Sonora.txt"
 
 
 # REICHSKOMMISSARIATS (no cores) (European)

@@ -389,6 +389,11 @@ set_autonomy = {
 	target = PHI
 	autonomous_state =  autonomy_puppet
 }
+	set_autonomy = {
+		target = SON
+		autonomous_state = autonomy_puppet
+	}
+
 
 1939.1.1 = {
 	set_politics = {

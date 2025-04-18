@@ -259,8 +259,12 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	conservatism = 97
+	conservatism = 49
 	communism = 3
+	liberalism = 17
+	revolutionary_socialism = 5
+	progressivism = 25
+	reactionary_socialism = 4
 }
 
 set_convoys = 150

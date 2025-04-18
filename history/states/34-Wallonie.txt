@@ -19,6 +19,9 @@ state = {
 		victory_points = {
 			9536 3 # Charleroi
 		}
+		victory_points = {
+			3516 5 # Namur
+		}		
 
 		buildings = {
 			infrastructure = 3
@@ -30,7 +33,7 @@ state = {
 	}
 
 	provinces = {
-		 9536 13081 9444
+		 9536 13081 9444 3516 
 	}
 
 	local_supplies = 14.0 

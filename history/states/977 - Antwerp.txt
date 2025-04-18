@@ -14,9 +14,6 @@ state = {
 		owner = HOL
 		add_core_of = HOl
 
-		victory_points = {
-			3516 5 # Namur
-		}
 		victory_points = { 
 			6598 30 
 		}
@@ -38,7 +35,7 @@ state = {
 	}
 
 	provinces = {
-		 9574 11419 3516 6598 516 
+		 9574 11419 6598 516 
 	}
 
 	local_supplies = 0.0 

@@ -65,17 +65,17 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 30
-	neutrality = 30
+	progressivism = 30
+	liberalism = 30
 	communism = 20
-	fascism = 20
+	reactionary_socialism = 20
 }
 
 recruit_character = DON_vladimir_sidorin

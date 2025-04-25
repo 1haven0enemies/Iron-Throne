@@ -100,17 +100,17 @@ IF = {
 set_convoys = 60
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 30
-	fascism = 5
+	progressivism = 30
+	reactionary_socialism = 5
 	communism = 5
-	neutrality = 60
+	liberalism = 60
 }
 
 recruit_character = TOS_joseph_ferdinand_von_habsburg

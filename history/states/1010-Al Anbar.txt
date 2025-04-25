@@ -9,8 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = IRQ
-		add_core_of = IRQ
+		owner = RSH
+		add_core_of = RSH
 		victory_points = {
 			12413 1 # Rumadiyah
 		}

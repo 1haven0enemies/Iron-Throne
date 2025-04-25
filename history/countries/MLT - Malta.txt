@@ -67,14 +67,14 @@ recruit_character = MLT_nccr
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 50
-	fascism = 8
+	progressivism = 50
+	reactionary_socialism = 8
 	communism = 15
-	neutrality = 27
+	liberalism = 27
 }

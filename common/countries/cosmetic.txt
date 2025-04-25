@@ -1,0 +1,33 @@
+SOM_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+KEN_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+UGA_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+TZN_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+ZIM_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+BOT_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+EGY_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+ZAM_POR = {	
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+####

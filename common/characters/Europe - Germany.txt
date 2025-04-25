@@ -1,0 +1,15 @@
+characters = {
+	GER_William_Alfred_test = {
+		name = GER_William_Alfred_test
+		portraits = { civilian = { large = "gfx/leaders/GER/ae.dds"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = germanic_socialism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

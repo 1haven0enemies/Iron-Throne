@@ -292,15 +292,15 @@ if = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1935.10.14"
 	election_frequency = 60
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 98
-	fascism = 1
+	progressivism = 98
+	reactionary_socialism = 1
 	communism = 1
 }
 

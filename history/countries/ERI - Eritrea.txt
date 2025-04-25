@@ -78,14 +78,14 @@ recruit_character = ERI_acgs
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 55
-	fascism = 15
+	progressivism = 55
+	reactionary_socialism = 15
 	communism = 5
-	neutrality = 25
+	liberalism = 25
 }

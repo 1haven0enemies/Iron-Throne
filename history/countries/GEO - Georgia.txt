@@ -86,10 +86,10 @@ IF = {
 }
 
 set_popularities = {
-	democratic = 40
+	progressivism = 40
 	communism = 40
-	fascism = 10
-	neutrality = 10
+	reactionary_socialism = 10
+	liberalism = 10
 }
 
 recruit_character = GEO_noe_zhordania

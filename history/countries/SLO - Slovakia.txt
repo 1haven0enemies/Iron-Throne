@@ -135,13 +135,13 @@ recruit_character = SLO_anton_pulanick
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = reactionary_socialism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 5
-	fascism = 90
+	progressivism = 5
+	reactionary_socialism = 90
 	communism = 5
 }

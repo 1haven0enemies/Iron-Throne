@@ -86,15 +86,15 @@ recruit_character = BRD_stc
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 25
-	fascism = 15
+	progressivism = 25
+	reactionary_socialism = 15
 	communism = 5
-	neutrality = 55
+	liberalism = 55
 }

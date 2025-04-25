@@ -109,23 +109,23 @@ recruit_character = LUX_felix_of_luxembourg
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1934.6.3"
 	election_frequency = 36
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 70
-	neutrality = 15
-	fascism = 12
+	progressivism = 70
+	liberalism = 15
+	reactionary_socialism = 12
 	communism = 3
 }
 
 1939.1.1 = {
 
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = progressivism
 		last_election = "1937.6.6"
 		election_frequency = 36
 		elections_allowed = yes

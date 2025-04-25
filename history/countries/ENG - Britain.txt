@@ -134,13 +134,6 @@ IF = {
 	}
 }
 
-set_variable = { var = eng_gateway_to_europe_influence value = 0 }
-
-add_ideas = {
-	stiff_upper_lip
-	ENG_the_war_to_end_all_wars
-	george_v
-}
 	
 
 set_convoys = 1000
@@ -221,6 +214,34 @@ if = {
 		#puppet = EGY
 		puppet = KUW
 		puppet = OMA
+	}
+	set_autonomy = {
+		target = SOM
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = KEN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = UGA
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = TZN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = ZIM
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = BOT
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = EGY
+		autonomous_state = autonomy_integrated_puppet
 	}
 }
 
@@ -460,14 +481,14 @@ if = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes ##suspended through duration of war, which is handled via event
 }
 set_popularities = {
-	democratic = 97
-	fascism = 2
+	progressivism = 97
+	reactionary_socialism = 2
 	communism = 1
 }
 

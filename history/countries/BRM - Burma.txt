@@ -75,16 +75,16 @@ recruit_character = BRM_fascist_guy
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 72
-	fascism = 2
+	progressivism = 72
+	reactionary_socialism = 2
 	communism = 14
-	neutrality = 12
+	liberalism = 12
 }
 
 recruit_character = BRM_archibald_cochrane

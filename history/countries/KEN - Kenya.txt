@@ -10,7 +10,7 @@ set_technology = {
 }
 
 set_convoys = 5
-
+set_cosmetic_tag = KEN_ENG
 recruit_character = KEN_acas
 recruit_character = KEN_communist_guy
 recruit_character = KEN_ncs
@@ -71,13 +71,13 @@ recruit_character = KEN_acd2
 
 # A colony of Italy in 1939.  However, if independent it would have the same politics as in 1936
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	neutrality = 100
+	liberalism = 100
 }
 
 create_country_leader = {

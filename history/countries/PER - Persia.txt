@@ -42,7 +42,7 @@ IF = {
 	}
 	## This is a placeholder name until the player picks a fascist party to form
 	set_party_name = {
-		ideology = fascism
+		ideology = reactionary_socialism
 		name = PER_ultra_nationalists
 		long_name = PER_ultra_nationalists_long
 	}
@@ -306,14 +306,14 @@ IF = {
 
 set_convoys = 10
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = PER_democratic_popularity
-	fascism = PER_fascism_popularity
+	progressivism = PER_democratic_popularity
+	reactionary_socialism = PER_fascism_popularity
 	communism = PER_communism_popularity
-	neutrality = PER_neutrality_popularity
+	liberalism = PER_neutrality_popularity
 }

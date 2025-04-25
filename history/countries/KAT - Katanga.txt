@@ -56,16 +56,16 @@ set_convoys = 0
 #}
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 60
-	democratic = 20
+	liberalism = 60
+	progressivism = 20
 	communism = 15
-	fascism = 5
+	reactionary_socialism = 5
 }
 
 recruit_character = KAT_moise_tshombe

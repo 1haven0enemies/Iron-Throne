@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = OMA
-		add_core_of = OMA
+		owner = NEJ
+		add_core_of = NEJ
 
 		buildings = {
 			infrastructure = 1
@@ -24,7 +24,7 @@ state = {
 	}
 
 	provinces = {
-		2059 2103
+		2018 2059 2103
 	}
 
 	local_supplies = 0.0 

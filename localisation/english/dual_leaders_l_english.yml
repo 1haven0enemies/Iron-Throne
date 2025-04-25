@@ -1,0 +1,46 @@
+﻿l_english:
+    # GUI Localisation, do not edit! - Unless you know what you are doing
+ first_leader_diplo_tt:0 "§Y[From.GetLeader]§!\n[From.GetFirstTitle] of [From.GetNameDef]"
+ first_leader_title:0 "[ROOT.GetFirstTitle]"
+ first_leader_desc_tt:0 "§g[From.GetFirstLeaderDesc]§!"
+ 
+ 
+ dual_leader_name:0 "[ROOT.GetDualLeaderName]"
+ second_leader_diplo_tt:0 "§Y[From.GetDualLeaderName]§!\n[From.GetSecondTitle] of [From.GetNameDef]"
+ second_leader_title:0 "[ROOT.GetSecondTitle]"
+ second_leader_tt:0 "§Y[ROOT.GetDualLeaderName]§!"
+ dual_leader_desc_tt:0 "§g[From.GetDualLeaderDesc]§!"
+ 
+ 
+ 
+ #### FOLLOW CODE STANDARDIZATION OR RISK BREAKING THE LOC!!!####
+ #First Leader Title
+ ENG_FIRST_LEADER_TITLE:0 "Prime Minister"
+ ROM_FIRST_LEADER_TITLE:0 "Prime Minister"
+ DEFAULT_FIRST_TITLE:0 "Leader"
+ 
+ DEFAULT_TITLE:0 "Vacant"
+ DEFAULT_FIRST_TITLE_PRESIDENT:0 "President"
+ 
+ # Second Leader Title
+
+ ENG_SECOND_LEADER_TITLE:0 "Monarch"
+ ROM_SECOND_LEADER_TITLE:0 "Monarch"
+ HOL_SECOND_LEADER_TITLE:0 "Vice President"
+ 
+ USA_SECOND_LEADER_TITLE:0 "Captain"
+ 
+ # Second Leader Names
+ ROM_SECOND_LEADER_NAME_1:0 "Carol II"
+ ENG_SECOND_LEADER_NAME_2:0 "George V"
+ HOL_SECOND_LEADER_NAME_1:0 "Hendrikus Colijn"
+ 
+ USA_SECOND_LEADER_NAME_1:0 "John Price"
+ 
+ #Second Leader DESCRIPTION
+ 
+ ROM_SECOND_LEADER_DESCRIPTION_1:0 "He partied like crazy"
+ HOL_SECOND_LEADER_DESCRIPTION_1:0 "He govern stuff until he dead"
+ ENG_SECOND_LEADER_DESCRIPTION_2:0 "His Majesty"
+ 
+ USA_SECOND_LEADER_DESCRIPTION_1:0 "What kind of name is Soap?"

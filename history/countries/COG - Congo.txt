@@ -161,14 +161,14 @@ IF = {
 
 # Setup 1936 politics 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 80
-	democratic = 20
+	liberalism = 80
+	progressivism = 20
 }
 
 ### The 1939 Scenario ###
@@ -201,15 +201,15 @@ set_popularities = {
 
 		# Ideology and Politics 
 		set_politics = {
-			ruling_party = neutrality
+			ruling_party = liberalism
 			last_election = "1936.1.1"
 			election_frequency = 48
 			elections_allowed = no
 		}
 		set_popularities = {
-			neutrality = 70
-			democratic = 25
-			fascism = 0
+			liberalism = 70
+			progressivism = 25
+			reactionary_socialism = 0
 			communism = 5
 		}
 

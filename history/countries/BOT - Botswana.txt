@@ -9,7 +9,7 @@ set_technology = {
 }
 
 set_convoys = 5
-
+set_cosmetic_tag = BOT_ENG
 recruit_character = BOT_aa2
 recruit_character = BOT_awt
 recruit_character = BOT_coi
@@ -71,13 +71,13 @@ recruit_character = BOT_democratic_guy
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	liberalism = 100
 }
 
 create_country_leader = {

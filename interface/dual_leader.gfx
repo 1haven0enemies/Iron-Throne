@@ -38,19 +38,25 @@ spriteTypes = {
 	}
 
 	# Country Specific Portraits
-
+	#ENG
 	spriteType = {
-		name = "GFX_ENG_George_V"
+		name = "GFX_ENG_dual_leader_2"#George V
 		texturefile = "gfx/dual_leaders/ENG/ENG_George_V.dds"
 	}
-
+	#ROM
 	spriteType = {
-		name = "GFX_ROM_Carol_II"
+		name = "GFX_ROM_dual_leader_1" #Carol_II
 		texturefile = "gfx/dual_leaders/ROM/ROM_Carol_II.dds"
 	}
-	
+	#HOL
 	spriteType = {
-		name = "GFX_HOL_HENDRIKUS_COLIJN"
+		name = "GFX_HOL_dual_leader_1" #HENDRIKUS_COLIJN
 		texturefile = "gfx/dual_leaders/HOL/HOL_HENDRIKUS_COLIJN.dds"
+	}
+	
+	#USA
+	spriteType = {
+		name = "GFX_USA_dual_leader_1" #John Price
+		texturefile = "gfx/dual_leaders/USA/USA_John_Price.png"
 	}
 }

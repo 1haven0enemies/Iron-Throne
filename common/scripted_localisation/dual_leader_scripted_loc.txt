@@ -4,24 +4,9 @@ defined_text = {
 	name = GetFirstTitle
 	text = {
 		trigger = {
-			tag = ROM
-			has_government = neutrality
+			has_country_flag = unique_first_title
 		}
-		localization_key = ROM_PRIME_MINISTER_TITLE
-	}
-	text = {
-		trigger = {
-			original_tag = ENG
-			has_government = democratic
-		}
-		localization_key = ENG_PRIME_MINISTER_TITLE
-	}
-	text = {
-		trigger = {
-			original_tag = HOL
-			has_government = conservatism
-		}
-		localization_key = DEFAULT_FIRST_TITLE_PRESIDENT
+		localization_key = "[THIS.GetTag]_FIRST_LEADER_TITLE"
 	}
 	text = {
 		localization_key = DEFAULT_FIRST_TITLE
@@ -32,24 +17,9 @@ defined_text = {
 	name = GetSecondTitle
 	text = {
 		trigger = {
-			tag = ROM
-			has_government = neutrality
+			check_variable = {THIS.currentdualleader > 0 }
 		}
-		localization_key = ROM_MONARCH_TITLE
-	}
-	text = {
-		trigger = {
-			original_tag = ENG
-			has_government = democratic
-		}
-		localization_key = ENG_KING_TITLE
-	}
-	text = {
-		trigger = {
-			original_tag = HOL
-			has_government = conservatism
-		}
-		localization_key = HOL_VICEPRES_TITLE
+		localization_key = "[THIS.GetTag]_SECOND_LEADER_TITLE"
 	}
 }
 
@@ -57,26 +27,9 @@ defined_text = {
 	name = GetDualLeaderName
 	text = {
 		trigger = {
-			tag = ROM
-			has_government = democratic
+			check_variable = {THIS.currentdualleader > 0 }
 		}
-		localization_key = ROM_CAROL_II
-	}
-	text = {
-		trigger = {
-			original_tag = ENG
-			ENG = {
-				has_idea = george_v
-			}
-		}
-		localization_key = ENG_GEORGE_V
-	}
-	text = {
-		trigger = {
-			tag = HOL
-			has_government = conservatism
-		}
-		localization_key = HOL_HENDRIKUS_COLIJN
+		localization_key = "[THIS.GetTag]_SECOND_LEADER_NAME_[?currentdualleader]"
 	}
 	text = {
 		localization_key = DEFAULT_TITLE
@@ -87,28 +40,14 @@ defined_text = {
     name = GetDualLeaderPortrait
 	text = {
 		trigger = {
-			tag = ROM
-			has_government = democratic
+			check_variable = { THIS.currentdualleader > 0 }
 		}
-		localization_key = "GFX_ROM_Carol_II"
-	}
-    text = {
-        trigger = {
-			original_tag = ENG
-			ENG = {
-				has_idea = george_v
-			}
-        }
-        localization_key = "GFX_ENG_George_V"
+		localization_key = "GFX_[THIS.GetTag]_dual_leader_[?currentdualleader]"
 	}
 	text = {
-        trigger = {
-			original_tag = HOL
-			has_government = conservatism
-        }
-        localization_key = "GFX_HOL_HENDRIKUS_COLIJN"
-	}
-	text = {
+		trigger = {
+			check_variable = { currentdualleader = 0 }
+		}
 		localization_key = "GFX_portrait_bg_blank"
 	}
 }
@@ -118,12 +57,9 @@ defined_text = {
     
     text = {
         trigger = {
-			original_tag = ENG
-			ENG = {
-				has_idea = george_v
-			}
+			check_variable = { THIS.currentdualleader > 0 }
         }
-        localization_key = "DESCRIPTION_TEST"
+        localization_key = "[THIS.GetTag]_SECOND_LEADER_DESCRIPTION_[?currentdualleader]"
 	}
 }
 
@@ -133,9 +69,6 @@ defined_text = {
     text = {
         trigger = {
 			original_tag = ENG
-			ENG = {
-				has_idea = george_v
-			}
         }
         localization_key = "FIRST_LEADER_DESC_TEST"
 	}

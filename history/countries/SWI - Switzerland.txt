@@ -152,7 +152,7 @@ if = { #########   By Blood Alone Stuff
 
 	set_variable = { SWI_diplomatic_effort_cost = 30 } 
 
-	##### Absolute Neutrality Variables #####
+	##### Absolute liberalism Variables #####
 
 	set_variable = { SWI_small_opinion_change = 10 }
 	set_variable = { SWI_medium_opinion_change = 20 }
@@ -370,22 +370,22 @@ if = { #########   By Blood Alone Stuff
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1935.10.27"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 96
-	fascism = 2
+	progressivism = 96
+	reactionary_socialism = 2
 	communism = 2
 }
 
 #1939.1.1 = {
 #	#next election october 39
 #	set_popularities = {
-#		democratic = 95
-#		fascism = 2
+#		progressivism = 95
+#		reactionary_socialism = 2
 #		communism = 3
 #	}
 #}

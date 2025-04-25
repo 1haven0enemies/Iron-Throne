@@ -53,7 +53,7 @@ IF = {
 		has_dlc = "Gotterdammerung"
 	}
 	set_party_name = {
-	    ideology = fascism
+	    ideology = reactionary_socialism
 	    long_name = HUN_national_socialist_party_long
 	    name = HUN_national_socialist_party
 	}
@@ -327,15 +327,15 @@ add_opinion_modifier = {
 
 # SETUP HUNGARIAN POLITICS
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1935.3.31"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 25
-	fascism = 31
-	neutrality = 44
+	progressivism = 25
+	reactionary_socialism = 31
+	liberalism = 44
 }
 
 # RECRUITING HUNGARIAN CHARACTERS
@@ -499,14 +499,14 @@ add_breakthrough_progress = {
 		}
 
 		set_politics = {
-			ruling_party = fascism
+			ruling_party = reactionary_socialism
 			last_election = "1939.5.29"
 			election_frequency = 48
 			elections_allowed = yes
 		}
 		set_popularities = {
-			democratic = 27
-			fascism = 70
+			progressivism = 27
+			reactionary_socialism = 70
 			communism = 3
 		}
 
@@ -569,15 +569,15 @@ add_breakthrough_progress = {
 		}
 
 		set_politics = {
-			ruling_party = neutrality
+			ruling_party = liberalism
 			last_election = "1935.3.31"
 			election_frequency = 48
 			elections_allowed = no
 		}
 		set_popularities = {
-			neutrality = 74
-			democratic = 2
-			fascism = 24
+			liberalism = 74
+			progressivism = 2
+			reactionary_socialism = 24
 			communism = 0
 		}
 

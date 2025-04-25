@@ -67,16 +67,16 @@ recruit_character = MOL_ar
 	}
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 55
-	fascism = 1
+	progressivism = 55
+	reactionary_socialism = 1
 	communism = 30
-	neutrality = 14
+	liberalism = 14
 }
 
 #create_country_leader = {

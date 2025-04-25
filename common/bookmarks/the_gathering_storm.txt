@@ -28,7 +28,7 @@ bookmarks = {
 			}
 		"SOV"={
 			history = "SOV_TWILIGHT_OF_THE_INTERWAR_ERA_DESC"
-			ideology = democratic
+			ideology = rykovism
 			}
 		}
 	}

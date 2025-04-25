@@ -11,7 +11,7 @@ state = {
 
 	history = {
 
-		owner = OMA
+		owner = IMO
 		add_core_of = IMO
 		#add_core_of = OMA
 
@@ -26,7 +26,7 @@ state = {
 	}
 
 	provinces = {
-		2018 5049
+		 5049
 	}
 
 	local_supplies = 0.0 

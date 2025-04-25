@@ -144,27 +144,27 @@ IF = {
 	add_dynamic_modifier = { modifier = BRA_aftermath_of_the_coup }
 
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = progressivism
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 
 	set_popularities = {
-		democratic = 50
-		neutrality = 25
-		fascism = 15
+		progressivism = 50
+		liberalism = 25
+		reactionary_socialism = 15
 		communism = 10
 	}
 
 	set_party_name = {
-		ideology = neutrality
+		ideology = liberalism
 		name = BRA_military_party
 		long_name = BRA_military_party_long
 	}
 
 	set_party_name = {
-		ideology = democratic
+		ideology = progressivism
 		name = BRA_provisional_government
 		long_name = BRA_provisional_government_long
 	}
@@ -234,15 +234,15 @@ IF = {
 		}
 	}
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = progressivism
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 	set_popularities = {
-		democratic = 50
-		neutrality = 25
-		fascism = 15
+		progressivism = 50
+		liberalism = 25
+		reactionary_socialism = 15
 		communism = 10
 	}
 }
@@ -445,13 +445,13 @@ set_convoys = 40
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = liberalism
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		neutrality = 100
+		liberalism = 100
 	}
 }
 

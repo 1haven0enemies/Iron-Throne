@@ -11,7 +11,7 @@ state = {
 
 	history = {
 		
-		owner = ENG
+		owner = OMA
 		add_core_of = UAE
 
 		victory_points = {
@@ -28,7 +28,7 @@ state = {
 	}
 
 	provinces = {
-		2048 7960 8108 10904 
+		 7960   
 	}
 
 	local_supplies = 4.0 

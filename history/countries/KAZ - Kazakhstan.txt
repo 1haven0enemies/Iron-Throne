@@ -85,7 +85,7 @@ if = {
 }
 
 set_popularities = {
-	democratic = 60
+	progressivism = 60
 	communism = 40
 }
 

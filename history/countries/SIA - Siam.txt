@@ -170,25 +170,25 @@ set_convoys = 15
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 20
-	neutrality = 80
+	reactionary_socialism = 20
+	liberalism = 80
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = reactionary_socialism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		fascism = 100
+		reactionary_socialism = 100
 	}
 
 	recruit_character = SIA_plaek_phibunsongkhram

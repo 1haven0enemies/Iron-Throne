@@ -175,7 +175,7 @@ set_research_slots = 3
 store_core_states_on_game_start = yes
 #Set Kokoomus as Non-Aligned party
 set_party_name = {
-	ideology = neutrality
+	ideology = liberalism
 	name = FIN_neutrality_party_kokoomus
 	long_name = FIN_neutrality_party_kokoomus_long
 }
@@ -288,7 +288,7 @@ recruit_character = FIN_esko_riekki
 recruit_character = FIN_elias_simojoki
 recruit_character = FIN_ilmari_kianto
 recruit_character = FIN_miina_sillanpaa
-recruit_character = FIN_karl_august_fagerholm #Democratic Reformer
+recruit_character = FIN_karl_august_fagerholm #progressivism Reformer
 
 if = {
 	limit = {
@@ -585,7 +585,7 @@ set_convoys = 5
 	retire_country_leader = yes
 	#Set Maalaisliitto (Agrarian League) as Non-Aligned party
 	set_party_name = {
-		ideology = neutrality
+		ideology = liberalism
 		name = FIN_neutrality_party
 		long_name = FIN_neutrality_party_long
 	}
@@ -610,16 +610,16 @@ set_convoys = 5
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1931.3.2" #Represents Presidential elections (Country leader is President of the Republic, not Prime Minister)
 	election_frequency = 72
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 15
-	fascism = 19
+	progressivism = 15
+	reactionary_socialism = 19
 	communism = 1
-	neutrality = 65
+	liberalism = 65
 }
 add_stability = -0.1
 
@@ -629,16 +629,16 @@ country_event = { id = AAT_finland_political.02 days = 426 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = liberalism
 		last_election = "1937.3.1" #Represents Presidential elections (Country leader is President of the Republic, not Prime Minister)
 		election_frequency = 72
 		elections_allowed = yes
 	}
 	set_popularities = {
-		democratic = 4
-		fascism = 15
+		progressivism = 4
+		reactionary_socialism = 15
 		communism = 1
-		neutrality = 80
+		liberalism = 80
 	}
 }
 

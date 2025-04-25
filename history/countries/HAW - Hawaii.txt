@@ -46,15 +46,15 @@ set_convoys = 20
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 38
-	fascism = 6
+	progressivism = 38
+	reactionary_socialism = 6
 	communism = 6
-	neutrality = 50
+	liberalism = 50
 }
 
 create_country_leader = {

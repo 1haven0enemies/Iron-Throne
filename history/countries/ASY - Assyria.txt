@@ -17,9 +17,6 @@ if = {
 	set_technology = { camelry = 1 }
 }
 
-recruit_character = ASY_shimun_eshai
-recruit_character = ASY_benjamin_arsanis
-
 1939.1.1 = {
 
 	add_political_power = 1198
@@ -70,14 +67,14 @@ recruit_character = ASY_benjamin_arsanis
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 0
-	neutrality = 50
-	democratic = 30
+	reactionary_socialism = 0
+	liberalism = 50
+	progressivism = 30
 	communism = 20
 }

@@ -1,0 +1,32 @@
+﻿l_english:
+ SOM_ENG: "British Somaliland"
+ SOM_ENG_DEF: "British Somaliland"
+ SOM_ENG_ADJ: "Filipino"
+
+ KEN_ENG: "Dominion of Kenya"
+ KEN_ENG_DEF: "the Dominion of Kenya"
+ KEN_ENG_ADJ: "Kenyan"
+ 
+ UGA_ENG: "Uganda Colony"
+ UGA_ENG_DEF: "the Ugandan Colony"
+ UGA_ENG_ADJ: "Ugandan"
+ 
+ TZN_ENG: "Mandate of Tanganyika"
+ TZN_ENG_DEF: "the Mandate of Tanganyika"
+ TZN_ENG_ADJ: "Tanganyikan"
+ 
+ ZIM_ENG: "Colony of Rhodesia"
+ ZIM_ENG_DEF: "the Colony of Rhodesia"
+ ZIM_ENG_ADJ: "Rhodesian"
+ 
+ BOT_ENG: "Colony of Bechuanaland"
+ BOT_ENG_DEF: "the Colony of Bechuanaland"
+ BOT_ENG_ADJ: "Bechuanaland"
+ 
+ EGY_ENG: "Caliphate of Egypt"
+ EGY_ENG_DEF: "the Caliphate of Egypt"
+ EGY_ENG_ADJ: "Egyptian"
+ 
+ ZAM_POR: "Zambezi Basin Authority"
+ ZAM_POR_DEF: "the Zambezi Basin Authority"
+ ZAM_POR_ADJ: "Zambezi"

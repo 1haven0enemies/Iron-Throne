@@ -277,30 +277,30 @@ if = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 75
-	neutrality = 14
+	progressivism = 75
+	liberalism = 14
 	communism = 8
-	fascism = 3
+	reactionary_socialism = 3
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = progressivism
 		last_election = "1936.9.20"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 	set_popularities = {
-		democratic = 85
-		neutrality = 10
+		progressivism = 85
+		liberalism = 10
 		communism = 4
-		fascism = 1
+		reactionary_socialism = 1
 	}
 }
 
@@ -752,7 +752,7 @@ if = {
 	}
 
 	set_party_name = {
-		ideology = neutrality
+		ideology = liberalism
 		name = SWE_aat_hogern
 		long_name = SWE_aat_hogern_long
 	}

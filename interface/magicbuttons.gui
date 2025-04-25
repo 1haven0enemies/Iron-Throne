@@ -73,7 +73,6 @@ guiTypes = {
 		buttonType = {
 			name = "manage_party_button"
 			position = { x = 360 y = 120 }
-			clipping = no
 			quadTextureSprite = "GFX_button_148x31"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
@@ -83,7 +82,7 @@ guiTypes = {
 			name = "manage_party_button_text"
 			position = { x = 360 y = 126 }
 			font = "hoi_16mbs"
-			text = "Party"``
+			text = "Party"
 			Orientation = "UPPER_LEFT"
 			maxWidth = 123
 			alwaystransparent = yes

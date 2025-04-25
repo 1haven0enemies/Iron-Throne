@@ -1,0 +1,37 @@
+
+dual_leader_test = {
+	ENG = {
+		set_variable = { currentdualleader = 2}
+	}
+	ROM = {
+		set_variable = { currentdualleader = 1}
+	}
+	HOL = {
+		set_variable = { currentdualleader = 1}
+	}
+}
+setup_colony = {
+	SOM = {
+		set_cosmetic_tag = SOM_ENG
+	}
+	KEN = {
+		set_cosmetic_tag = KEN_ENG
+	}
+	UGA = {
+		set_cosmetic_tag = UGA_ENG
+	}
+	TZN = {
+		set_cosmetic_tag = TZN_ENG
+	}
+	ZIM = {
+		set_cosmetic_tag = ZIM_ENG
+	}
+	BOT = {
+		set_cosmetic_tag = BOT_ENG
+	}
+}
+
+
+
+
+

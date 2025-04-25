@@ -377,16 +377,16 @@ set_cosmetic_tag = RAJ_UK # British Raj
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberalism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 17
-	fascism = 2
+	progressivism = 17
+	reactionary_socialism = 2
 	communism = 1
-	neutrality = 80
+	liberalism = 80
 }
 
 if = {

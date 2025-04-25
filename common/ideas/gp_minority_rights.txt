@@ -9,8 +9,8 @@ ideas = {
             available = {
                 OR = {
                     NOT = {
-                        has_government = fascism
-                        has_government = neutrality
+                        
+                        
                     }
                     has_country_leader_ideology = anarchism
                 }
@@ -29,7 +29,7 @@ ideas = {
                 base = 10
                 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 30
                 }
 
@@ -50,7 +50,7 @@ ideas = {
 
             available = {
                 NOT = {
-                    has_government = fascism
+                    
                 }
             }
 
@@ -68,7 +68,7 @@ ideas = {
 
                 modifier = {
                     OR = {
-                        has_government = democratic
+                        
                         has_government = communism
                     }
                     add = 40
@@ -99,12 +99,12 @@ ideas = {
                 base = 30
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 70
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 20
                 }
 
@@ -136,17 +136,17 @@ ideas = {
                 base = 10
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 30
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 60
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     original_tag = ENG
                     add = 30
                 }
@@ -162,7 +162,7 @@ ideas = {
 
         racial_hierarchy = {
             available = {
-                has_government = fascism
+                
             }
 
             level = 1
@@ -179,18 +179,18 @@ ideas = {
                 base = 1
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 80
                 }
 
                 modifier = {
-                  has_government = fascism
+                  
                   original_tag = GER
                   add = 100
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     original_tag = JAP
                     add = 100
                 }

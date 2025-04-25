@@ -1,7 +1,7 @@
 ﻿l_english:
  SOM_ENG: "British Somaliland"
  SOM_ENG_DEF: "British Somaliland"
- SOM_ENG_ADJ: "Filipino"
+ SOM_ENG_ADJ: "Somalian"
 
  KEN_ENG: "Dominion of Kenya"
  KEN_ENG_DEF: "the Dominion of Kenya"
@@ -23,6 +23,18 @@
  BOT_ENG_DEF: "the Colony of Bechuanaland"
  BOT_ENG_ADJ: "Bechuanaland"
  
+ GHA_ENG: "Gold Coast Colony"
+ GHA_ENG_DEF: "the Gold Coast Colony"
+ GHA_ENG_ADJ: "Gold Coast"
+ 
+ NGA_ENG: "Protectorate of Southern Nigeria"
+ NGA_ENG_DEF: "the Protectorate of Southern Nigeria"
+ NGA_ENG_ADJ: "Nigerian"
+ 
+ GAM_ENG: "Gambia Protectorate"
+ GAM_ENG_DEF: "the Gambia Protectorate"
+ GAM_ENG_ADJ: "Gambian"
+ 
  EGY_ENG: "Caliphate of Egypt"
  EGY_ENG_DEF: "the Caliphate of Egypt"
  EGY_ENG_ADJ: "Egyptian"
@@ -30,3 +42,19 @@
  ZAM_POR: "Zambezi Basin Authority"
  ZAM_POR_DEF: "the Zambezi Basin Authority"
  ZAM_POR_ADJ: "Zambezi"
+ 
+ MAD_FRA: "Malagasy Protectorate"
+ MAD_FRA_DEF: "the Malagasy Protectorate"
+ MAD_FRA_ADJ: "Malagasy"
+
+ MOR_FRA: "French Protectorate in Morocco"
+ MAD_FRA_DEF: "the French Protectorate in Morocco"
+ MAD_FRA_ADJ: "Moroccan"
+
+ TUN_FRA: "Protectorate of Tunisia"
+ TUN_FRA_DEF: "the Protectorate of Tunisia"
+ TUN_FRA_ADJ: "Tunisian"
+ 
+ TOG_FRA: "Togoland"
+ TOG_FRA_DEF: "Togoland"
+ TOG_FRA_ADJ: "Togoland"

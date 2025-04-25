@@ -8,7 +8,7 @@ ideas = {
 
          available = {
             NOT = {
-                has_government = fascism
+                
             }
          }
 
@@ -28,7 +28,7 @@ ideas = {
             base = 10
            
             modifier = {
-                has_government = democratic 
+                 
                 add = 40
             }
             
@@ -49,7 +49,7 @@ ideas = {
        citizenship = {
         available = {
             NOT = {
-                has_government = fascism
+                
             }
         }
 
@@ -69,7 +69,7 @@ ideas = {
             base = 20
 
             modifier = {
-                has_government = democratic
+                
                 add = 40
             }
 
@@ -100,7 +100,7 @@ ideas = {
             base = 30
 
             modifier = {
-                has_government = neutrality
+                
                 add = 30
             }
 
@@ -116,7 +116,7 @@ ideas = {
        strict_immigration_controls = {
         available = {
             NOT = {
-             has_government = democratic
+             
             }
         }
 
@@ -135,12 +135,12 @@ ideas = {
             base = 10
 
             modifier = {
-                has_government = neutrality
+                
                 add = 30
             }
 
             modifier = {
-                has_government = fascism
+                
                 add = 60
             }
 
@@ -157,7 +157,7 @@ ideas = {
         available = {
             NOT = { 
                 OR = {
-                    has_government = democratic
+                    
                     has_government = communism
                 }
             }
@@ -175,7 +175,7 @@ ideas = {
             base = 5
             
             modifier = {
-                has_government = fascism
+                
                 add = 80
             }
 

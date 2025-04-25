@@ -31,7 +31,7 @@ ideas = {
                 base = 30
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 60
                 }
             }
@@ -86,7 +86,7 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = neutrality
+                    
                     NOT = {
                         has_country_leader_ideology = anarchism
                     }
@@ -101,7 +101,7 @@ ideas = {
 
             available = {
                 NOT = {
-                    has_government = democratic
+                    
                 }
             }
 
@@ -139,7 +139,7 @@ ideas = {
                     }
 
                     NOT = {
-                        has_government = democratic
+                        
                     }
                     add = 20
                 }
@@ -152,7 +152,7 @@ ideas = {
 
             available = {
                 NOT = {
-                    has_government = democratic
+                    
                 }
             }
 
@@ -181,7 +181,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 30
                 }
             }

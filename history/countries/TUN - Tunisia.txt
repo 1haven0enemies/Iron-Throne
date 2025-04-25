@@ -6,7 +6,7 @@ set_technology = {
 }
 
 set_convoys = 20
-
+set_cosmetic_tag = TUN_FRA
 recruit_character = TUN_acgs
 recruit_character = TUN_acr
 recruit_character = TUN_stc

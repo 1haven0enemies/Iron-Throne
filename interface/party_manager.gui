@@ -62,21 +62,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_accelerationism"
 					position = { x = 120 y = 65 }
-					size = { width = 350 height = 30 }
+					
 					text = "Accelerationism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_accelerationism"
 					position = { x = 120 y = 30 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@accelerationism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_accelerationism"
 					position = { x = 400 y = 49 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@accelerationism|%0]"
 				}
 				
@@ -97,21 +97,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_state_humanism"
 					position = { x = 120 y = 145 }
-					size = { width = 350 height = 30 }
+					
 					text = "State Humanism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_state_humanism"
 					position = { x = 120 y = 110 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@state_humanism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_state_humanism"
 					position = { x = 400 y = 129 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@state_humanism|%0]"
 				}
 				
@@ -132,21 +132,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_communism"
 					position = { x = 120 y = 225 }
-					size = { width = 350 height = 30 }
+					
 					text = "Communism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_communism"
 					position = { x = 120 y = 30 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@communism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_communism"
 					position = { x = 400 y = 209 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@communism|%0]"
 				}
 
@@ -167,21 +167,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_reactionary_socialism"
 					position = { x = 120 y = 305 }
-					size = { width = 350 height = 30 }
+					
 					text = "Reactionary Socialism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_reactionary_socialism"
 					position = { x = 120 y = 110 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@reactionary_socialism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_reactionary_socialism"
 					position = { x = 400 y = 289 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@reactionary_socialism|%0]"
 				}
 
@@ -202,21 +202,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_revolutionary_socialism"
 					position = { x = 120 y = 385 }
-					size = { width = 350 height = 30 }
+					
 					text = "Revolutionary Socialism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_revolutionary_socialism"
 					position = { x = 120 y = 190 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@revolutionary_socialism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_revolutionary_socialism"
 					position = { x = 400 y = 369 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@revolutionary_socialism|%0]"
 				}
 
@@ -237,21 +237,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_progressivism"
 					position = { x = 120 y = 465 }
-					size = { width = 350 height = 30 }
+					
 					text = "Progressivism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_progressivism"
 					position = { x = 120 y = 270 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@progressivism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_progressivism"
 					position = { x = 400 y = 449 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@progressivism|%0]"
 				}
 
@@ -272,21 +272,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_liberalism"
 					position = { x = 120 y = 545 }
-					size = { width = 350 height = 30 }
+					
 					text = "Liberalism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_liberalism"
 					position = { x = 120 y = 350 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@liberalism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_liberalism"
 					position = { x = 400 y = 529 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@liberalism|%0]"
 				}
 
@@ -307,21 +307,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_economic_liberalism"
 					position = { x = 120 y = 625 }
-					size = { width = 350 height = 30 }
+					
 					text = "Economic Liberalism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_economic_liberalism"
 					position = { x = 120 y = 430 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@economic_liberalism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_economic_liberalism"
 					position = { x = 400 y = 609 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@economic_liberalism|%0]"
 				}
 
@@ -342,21 +342,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_conservatism"
 					position = { x = 120 y = 705 }
-					size = { width = 350 height = 30 }
+					
 					text = "Conservatism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_conservatism"
 					position = { x = 120 y = 510 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@conservatism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_conservatism"
 					position = { x = 400 y = 689 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@conservatism|%0]"
 				}
 
@@ -377,21 +377,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_authoritarianism"
 					position = { x = 120 y = 785 }
-					size = { width = 350 height = 30 }
+					
 					text = "Authortarianism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_authoritarianism"
 					position = { x = 120 y = 590 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@authoritarianism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_authoritarianism"
 					position = { x = 400 y = 769 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@authoritarianism|%0]"
 				}
 
@@ -412,21 +412,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_monarchism"
 					position = { x = 120 y = 865 }
-					size = { width = 350 height = 30 }
+					
 					text = "Monarchism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_monarchism"
 					position = { x = 120 y = 670 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@monarchism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_monarchism"
 					position = { x = 400 y = 849 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@monarchism|%0]"
 				}
 		
@@ -447,21 +447,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_theocratical"
 					position = { x = 120 y = 945 }
-					size = { width = 350 height = 30 }
+					
 					text = "Theocratical"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_theocratical"
 					position = { x = 120 y = 750 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@theocratical|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_theocratical"
 					position = { x = 400 y = 929 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@theocratical|%0]"
 				}
 		
@@ -482,21 +482,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_primordialism"
 					position = { x = 120 y = 1025 }
-					size = { width = 350 height = 30 }
+					
 					text = "Primordialism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_primordialism"
 					position = { x = 120 y = 830 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@primordialism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_primordialism"
 					position = { x = 400 y = 1009 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@primordialism|%0]"
 				}
 		
@@ -517,21 +517,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_classical_nationalism"
 					position = { x = 120 y = 1105 }
-					size = { width = 350 height = 30 }
+					
 					text = "Classical Nationalism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_classical_nationalism"
 					position = { x = 120 y = 910 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@classical_nationalism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_classical_nationalism"
 					position = { x = 400 y = 1089 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@classical_nationalism|%0]"
 				}
 		
@@ -552,21 +552,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_revolutionary_nationalism"
 					position = { x = 120 y = 1185 }
-					size = { width = 350 height = 30 }
+					
 					text = "Revolutionary Nationalism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_revolutionary_nationalism"
 					position = { x = 120 y = 990 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@revolutionary_nationalism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_revolutionary_nationalism"
 					position = { x = 400 y = 1169 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@revolutionary_nationalism|%0]"
 				}
 		
@@ -587,21 +587,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_racial_darwinism"
 					position = { x = 120 y = 1265 }
-					size = { width = 350 height = 30 }
+					
 					text = "Racial Darwinism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_racial_darwinism"
 					position = { x = 120 y = 1070 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@racial_darwinism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_racial_darwinism"
 					position = { x = 400 y = 1249 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@racial_darwinism|%0]"
 				}
 		
@@ -622,21 +622,21 @@ guiTypes = {
 				instantTextBoxType = {
 					name = "ideology_entry_anarchism"
 					position = { x = 120 y = 1345 }
-					size = { width = 350 height = 30 }
+					
 					text = "Anarchism"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_party_anarchism"
 					position = { x = 120 y = 750 }
-					size = { width = 350 height = 30 }
+					
 					text = "[?party@anarchism|party_name]"
 				}
 
 				instantTextBoxType = {
 					name = "ideology_popularity_anarchism"
 					position = { x = 400 y = 1329 }
-					size = { width = 350 height = 30 }
+					
 					text = "Popularity:[?party_popularity@anarchism|%0]"
 				}
 

@@ -60,7 +60,7 @@
                 base = 40
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 40
                 }
 
@@ -114,12 +114,12 @@
                 base = 20
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 40
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 20
                 }
 
@@ -137,7 +137,7 @@
 
                 NOT = {
                     has_government = communism
-                    has_government = fascism
+                    
                 }
             }
 
@@ -159,24 +159,24 @@
                 base = 30
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 40
                 }
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 10
                 }
 
                 modifier = {
                     tag = USA
-                    has_government = democratic
+                    
                     add = 100
                 }
 
                 modifier = {
                     tag = ENG
-                    has_government = democratic
+                    
                     add = 100
                 } 
 
@@ -220,7 +220,7 @@
 
             available = {
                 NOT = {
-                    has_government = democratic
+                    
                 }
             }
 
@@ -242,17 +242,17 @@
                 base = 20
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 40
                 }
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 10
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     OR = {
                         tag = GER
                         tag = ITA
@@ -273,7 +273,7 @@
             available = {
                 NOT = {
                     
-                    has_government = democratic  
+                      
                 }
             }
 
@@ -298,7 +298,7 @@
                 base = 20
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 20
                 }
 

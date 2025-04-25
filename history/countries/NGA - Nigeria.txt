@@ -6,7 +6,7 @@ set_technology = {
 }
 
 set_convoys = 20
-
+set_cosmetic_tag = NGA_ENG
 recruit_character = NGA_ncs
 recruit_character = NGA_pot
 recruit_character = NGA_nccr

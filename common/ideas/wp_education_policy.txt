@@ -71,7 +71,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 20
                 }
 
@@ -103,7 +103,7 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = -20
                 }
 
@@ -127,7 +127,7 @@ ideas = {
                 
                 NOT = {
                     has_government = communism
-                    has_government = democratic
+                    
                     has_idea = welfare_capitalism
                     has_idea = planned_economy
                     has_idea = state_capitalism

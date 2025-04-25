@@ -222,8 +222,8 @@ PRU = {
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
-	color = rgb { 195 107 160 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 165 112 39 }
+	color_ui = rgb { 165 112 39 }
 }
 SAU = {
 	color = rgb { 171 190 152 }
@@ -1138,4 +1138,40 @@ BYZ = {
 TEF = {
 	color = rgb { 66 106 62 }
 	color_ui = rgb { 66 106 62 }
+}
+CYR = {
+	color = rgb { 69 94 86 }
+	color_ui = rgb { 69 94 86 }
+}
+FWA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+FEA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+CAP = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+NAT = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+SWA = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+ORA = {
+	color = rgb { 231 112 39 }
+	color_ui = rgb { 231 112 39 }
+}
+NYA = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+RSG = {
+	color = rgb { 103 130 24 }
+	color_ui = rgb { 103 130 24 }
 }

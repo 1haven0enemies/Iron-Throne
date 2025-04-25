@@ -80,7 +80,36 @@ if = {
 		puppet = LEB
 	}
 }
-
+set_autonomy = {
+	target = MAD
+	autonomous_state = autonomy_colony
+	freedom_level = 0.5
+}
+set_autonomy = {
+	target = FWA
+	autonomous_state = autonomy_colony
+	freedom_level = 0.5
+}
+set_autonomy = {
+	target = FEA
+	autonomous_state = autonomy_colony
+	freedom_level = 0.5
+}
+set_autonomy = {
+	target = TUN
+	autonomous_state = autonomy_colony
+	freedom_level = 0.5
+}
+set_autonomy = {
+	target = MOR
+	autonomous_state = autonomy_colony
+	freedom_level = 0.5
+}
+set_autonomy = {
+	target = TOG
+	autonomous_state = autonomy_colony
+	freedom_level = 0.5
+}
 set_research_slots = 3
 IF = {
 	limit = {

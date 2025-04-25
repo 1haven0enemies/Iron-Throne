@@ -1,0 +1,69 @@
+﻿l_english:
+ 
+ SON_fascism: "Sonora"
+ SON_fascism_DEF: "Sonora"
+ SON_democratic: "Sonora"
+ SON_democratic_DEF: "Sonora"
+ SON_neutrality: "Sonora"
+ SON_neutrality_DEF: "Sonora"
+ SON_communism: "Sonora"
+ SON_communism_DEF: "Sonora"
+ SON: "Sonora"
+ SON_DEF: "Sonoran"
+ SON_ADJ: "Sonoran"
+ 
+ SAF: "South African Republic"
+ SAF_DEF: "the South African Republic"
+ SAF_ADJ: "South African"
+ 
+ RSA: "Rassvet Governorate"
+ RSA_DEF: "the Rassvet Governorate"
+ RSA_ADJ: "Rassvet"
+ 
+ RSH: "Rashidi Emirate"
+ RSH_DEF: "the Rashidi Emirate"
+ RSH_ADJ: "Rashidi"
+ 
+ NEJ: "Emirate of Nejd and Hasa"
+ NEJ_DEF: "the Emirate of Nejd and Hasa"
+ NEJ_ADJ: "Nejd"
+ 
+ HEJ: "Kingdom of Hejaz"
+ HEJ_DEF: "the Kingdom of Hejaz"
+ HEJ_ADJ: "Hejaz"
+
+ TEF: "Terra Franciscana"
+ TEF_DEF: "the Terra Franciscana"
+ TEF_ADJ: "Italian"
+ 
+ ETH: "Empire of Abyssinia"
+ ETH_DEF: "the Empire of Abyssinia"
+ ETH_ADJ: "Ethiopian"
+ 
+ CYR: "Cyrenaica"
+ CYR_DEF: "Cyrenaica"
+ CYR_ADJ: "Cyrenaican"
+ 
+ FWA: "French West Africa"
+ FWA_DEF: "French West Africa"
+ FWA_ADJ: "French"
+ 
+ FEA: "French Equatorial Africa"
+ FEA_DEF: "French Equatorial Africa"
+ FEA_ADJ: "French"
+ 
+ CAP: "Dominion of the Cape"
+ CAP_DEF: "the Dominion of the Cape"
+ CAP_ADJ: "Cape"
+
+ NAT: "Colony of Natal"
+ NAT_DEF: "the Colony of Natal"
+ NAT_ADJ: "Natal"
+ 
+ NYA: "Nyasalan Colony"
+ NYA_DEF: "the Nyasalan Colony"
+ NYA_ADJ: "Nyasalan"
+ 
+ SWA: "Colony of Swaziland"
+ SWA_DEF: "the Colony of Swaziland"
+ SWA_ADJ: "Swaziland"

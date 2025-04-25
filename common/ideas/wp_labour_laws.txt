@@ -48,12 +48,12 @@ ideas = {
 
                 modifier = {
                     tag = ITA
-                    has_government = fascism
+                    
                     add = 40
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 100
                 }
             }
@@ -85,7 +85,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 10
                 }
 
@@ -119,7 +119,7 @@ ideas = {
                 base = 30
                 
                 modifier = {
-                    has_government = fascism
+                    
                     NOT = { 
                         
                         OR = {
@@ -134,7 +134,7 @@ ideas = {
                 modifier = {
                     
                     NOT = {
-                        has_government = democratic
+                        
                     }
                     OR = {
                         has_idea = laisezz_faire
@@ -148,7 +148,7 @@ ideas = {
 
                     NOT = {
 
-                          has_government = democratic
+                          
                           has_government = communism
                         
                     }
@@ -173,7 +173,7 @@ ideas = {
                 NOT = {
 
                     has_government = communism
-                    has_government = democratic
+                    
                 }
             }
 
@@ -193,7 +193,7 @@ ideas = {
                 base = 20
 
                 modifier = {
-                   has_government = fascism
+                   
 
                 OR = {
                     has_idea = laisezz_faire
@@ -218,8 +218,8 @@ ideas = {
                     has_idea = state_capitalism
                 }
                 OR = {
-                    has_government = fascism
-                    has_government = neutrality
+                    
+                    
                 }
             }
 
@@ -239,7 +239,7 @@ ideas = {
                 base = 10
 
                 modifier = {
-                    has_government = fascism
+                    
 
                     OR = {
                         has_idea = laisezz_faire

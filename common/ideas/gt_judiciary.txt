@@ -40,7 +40,7 @@ ideas = {
                     has_idea = communal_council
                     has_idea = workers_council
                     has_idea = federal_council
-                    has_government = democratic
+                    
                     }
                     add = 100
                 }
@@ -67,7 +67,7 @@ ideas = {
                     has_idea = monarch
                     has_idea = military_head
                     has_idea = chairman
-                    has_government = neutrality
+                    
                 }
             }
  
@@ -88,7 +88,7 @@ ideas = {
                    modifier = {
 
                     OR = {
-                        has_government = neutrality
+                        
                         has_idea = monarch
                     }
                     add = 80
@@ -115,7 +115,7 @@ ideas = {
            available = {
               
               OR = {
-                has_government = fascism
+                
                 has_government = communism
               }
            }
@@ -142,7 +142,7 @@ ideas = {
             }
 
             modifier = {
-                has_government = fascism
+                
                 add = 80
             }
 

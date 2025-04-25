@@ -5,5 +5,15 @@ SON = "countries/Sonora.txt"
 RSH = "countries/Saudi Arabia.txt"
 HEJ = "countries/Saudi Arabia.txt"
 NEJ = "countries/Saudi Arabia.txt"
-
+CYR = "countries/Libya.txt"
+FWA = "countries/Algeria.txt"
+FEA = "countries/Algeria.txt"
 TEF = "countries/Italy.txt"
+
+CAP = "countries/Kenya.txt"
+NAT = "countries/Kenya.txt"
+SWA = "countries/Kenya.txt"
+ORA = "countries/Kenya.txt"
+NYA = "countries/Kenya.txt"
+
+RSA = "countries/Soviet Union.txt"

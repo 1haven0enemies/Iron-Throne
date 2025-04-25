@@ -72,7 +72,7 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = fascism
+                    
                     has_idea = military_head
                     add = 40
                 }
@@ -131,7 +131,7 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 20
                 }
             }
@@ -144,7 +144,7 @@ ideas = {
             available = {
 
                 NOT = {
-                    has_government = democratic
+                    
                     has_idea = prime_minister
                     has_idea = president
                     has_idea = communal_council
@@ -172,7 +172,7 @@ ideas = {
                 }
                 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 40
                 }
             }

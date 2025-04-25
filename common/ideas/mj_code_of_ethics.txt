@@ -33,7 +33,7 @@ ideas = {
                 base = 20
 
                 modifier = {
-                    has_government = democratic
+                    
                     add  = 50
                 }
 
@@ -43,7 +43,7 @@ ideas = {
                 }
 
                 modifier  = {
-                    has_government = fascism
+                    
                     add = -20
                 }
             }
@@ -80,7 +80,7 @@ ideas = {
                 base = 30
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 60
                 }
 
@@ -90,7 +90,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = -30
                 }
             }
@@ -130,7 +130,7 @@ ideas = {
             available = {
 
                 NOT = {
-                    has_government = democratic
+                    
                 }
             }
 
@@ -150,7 +150,7 @@ ideas = {
                 base = 20
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 60
                 }
             }
@@ -163,7 +163,7 @@ ideas = {
             available = {
 
                 NOT = {
-                    has_government = democratic
+                    
                     has_government = communism
                 }
             }
@@ -184,12 +184,12 @@ ideas = {
                 base = 0
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 60
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     
                     OR = {
                         tag = GER

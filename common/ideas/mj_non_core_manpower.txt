@@ -28,7 +28,7 @@ ideas = {
 
                 modifier = {
                     has_idea = racial_segregation
-                    has_government = fascism
+                    
                     add = 50
                 }
                 
@@ -44,7 +44,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = -10
                 }
             }
@@ -80,7 +80,7 @@ ideas = {
                 }
                 
                 modifier = {
-                    has_government = democratic
+                    
                     tag = ENG 
                     add = 60
                 }
@@ -118,7 +118,7 @@ ideas = {
                 base = 30
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = -25
                 }
 
@@ -128,7 +128,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 20
                 }
             }

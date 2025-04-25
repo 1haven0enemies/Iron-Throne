@@ -28,7 +28,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 10
                 }
 
@@ -70,7 +70,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 10
                 }
             }

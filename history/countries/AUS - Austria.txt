@@ -16,26 +16,6 @@ set_technology = {
 	gw_artillery = 1
 }
 
-IF = {
-	limit = { has_dlc = "No Step Back" }
-	set_technology = {
-		gwtank_chassis = 1
-	}
-
-	ELSE = {
-		set_technology = {
-			gwtank = 1
-		}
-	}
-}
-
-IF = {
-	limit = { has_dlc = "La Resistance" }
-		set_technology = {
-			armored_car1 = 1
-		}
-}
-
 
 
 set_politics = {

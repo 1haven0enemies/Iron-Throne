@@ -46,7 +46,7 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = democratic 
+                     
                     add = 20
                 }
             }
@@ -58,7 +58,7 @@ ideas = {
             
             available = {
                 NOT = {
-                    has_government = democratic
+                    
                 }
             }
 
@@ -74,7 +74,7 @@ ideas = {
                 base = 10
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 10
                 }
 
@@ -90,7 +90,7 @@ ideas = {
         national_purity = {
 
             available = {
-                has_government = fascism
+                
             }
 
             level = 3
@@ -107,12 +107,12 @@ ideas = {
                 base = 0
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 60
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     OR = {
                         tag = GER 
                         tag = JAP 

@@ -30,7 +30,7 @@ replace_path="common/national_focus"
 replace_path="common/military_industrial_organization/organizations"
 
 replace_path="common/decisions/categories"
-replace_path="common/ideas"
+
 replace_path="events"
 replace_path="history/states"
 replace_path="history/general"

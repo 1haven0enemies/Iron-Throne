@@ -10,14 +10,14 @@ ideas = {
                  
                 OR = {
                     AND = {
-                       has_government = neutrality
+                       
                         NOT = {
                           tag = TUR 
                         }
                     
                     }
                     AND = {
-                        has_government = democratic
+                        
                         OR = {
                         tag = ENG
                         tag = CAN
@@ -40,7 +40,7 @@ ideas = {
                         
                     }
                     AND = {
-                        has_government = fascism
+                        
 
                         OR = {
                             tag = JAP
@@ -65,30 +65,30 @@ ideas = {
                 base = 20
 
                 modifier = {
-                    has_government = democratic
+                    
                     tag = ENG
                     add = 100
                 }
 
                 modifier = {
-                    has_government = neutrality 
+                     
                     add = 40
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     tag = JAP
                     add = 400
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     tag = MAN
                     add = 400
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     
                     OR = {
                         tag = DEN
@@ -112,7 +112,7 @@ ideas = {
 
             available = {
                NOT = {
-                has_government = fascism
+                
                }
             }
 
@@ -128,12 +128,12 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = -40
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
 
                     OR = {
                       
@@ -165,7 +165,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 20
                 }
 
@@ -183,7 +183,7 @@ ideas = {
                 OR = {
                   tag = TUR
                   NOT = {
-                    has_government = fascism
+                    
                     has_government = communism
                   }
                 }
@@ -202,18 +202,18 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = democratic
+                    
                     tag = USA
                     add = 200
                 }
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 80
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
                     
                     OR = {
                         tag = BRA
@@ -233,7 +233,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = neutrality
+                    
                     tag = TUR 
                     add = 100
                 }
@@ -250,7 +250,7 @@ ideas = {
 
             available = {
                 NOT = {
-                    has_government = democratic
+                    
                 }
             }
 
@@ -275,7 +275,7 @@ ideas = {
                 base = 0
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 80
                 }
 
@@ -330,7 +330,7 @@ ideas = {
             available = {
                 has_idea = sassy_federated_state
                 NOT = {
-                     has_government = fascism
+                     
                      #has_government #= #neutrality
                 }
             }
@@ -353,8 +353,8 @@ ideas = {
                  
                  modifier = {
                     NOT = {
-                        has_government = fascism
-                        has_government = neutrality
+                        
+                        
                     }
                     tag = SWI 
                     factor = 4000

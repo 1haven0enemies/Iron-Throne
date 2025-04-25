@@ -44,7 +44,7 @@ ideas = {
                 base = 20
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 10
                 }
 
@@ -105,7 +105,7 @@ ideas = {
                 base = 30
 
                 modifier = {
-                    has_government = democratic
+                    
                     add = 15
                 }
 
@@ -150,7 +150,7 @@ ideas = {
                     base = 40
 
                     modifier = {
-                        has_government = neutrality
+                        
                         add = 15
                     }
 

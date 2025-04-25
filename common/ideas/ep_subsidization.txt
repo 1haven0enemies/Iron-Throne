@@ -44,7 +44,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 40
                 }
             }
@@ -75,7 +75,7 @@ ideas = {
                 modifier = {
 
                     OR = {
-                        has_government = democratic
+                        
                         has_government = communism
                     }
                     add = 20

@@ -107,7 +107,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_government = democratic
+                    
 					has_capitulated = yes
 					has_war = yes
                     add = 80
@@ -122,7 +122,7 @@ ideas = {
             available = {
                 OR = {
                 has_war_support > 0.70
-                has_government = fascism
+                
                 }
             }
             
@@ -162,7 +162,7 @@ ideas = {
                      has_stability > 0.40
                     }
                     
-                    has_government = fascism
+                    
                     
                 }
             }
@@ -183,13 +183,13 @@ ideas = {
                 base = 15
 
                 modifier = {
-                    has_government = fascism 
+                     
                     add = 60
                     
                 }
 
                 modifier = {
-                    has_government = neutrality
+                    
                     add = 40
                 }
 

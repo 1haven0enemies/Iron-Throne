@@ -23,7 +23,7 @@ ideas = {
                 base = 40
 
                 modifier = {
-                    has_government = fascism
+                    
                     add = 100
                 }
 

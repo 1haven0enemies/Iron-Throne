@@ -1,0 +1,50 @@
+spriteTypes = {	
+	SpriteType = {
+		name = "GFX_goal_ITA_A_Holy_State"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_A_Holy_State.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Approach_France"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Approach_France.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Approach_Poland"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Approach_Poland.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Balancing_Foreign_Influence"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Balancing_Foreign_Influence.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Balancing_Modernization_with_Tradition"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Balancing_Modernization_with_Tradition.dds"			
+	}
+	SpriteType = {
+		name = "GFX_goal_ITA_Construction_and_Industry"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Construction_and_Industry.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Defense_of_the_Faith"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Defense_of_the_Faith.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Firm_Isolation"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Firm_Isolation.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Naval_Development"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Naval_Development.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Religious_Renaissance"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Religious_Renaissance.dds"			
+	}	
+	SpriteType = {
+		name = "GFX_goal_ITA_Sicurezza_Interna"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Sicurezza_Interna.dds"			
+	}
+	SpriteType = {
+		name = "GFX_goal_ITA_Strengthening_Papal_Rule"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Strengthening_Papal_Rule.dds"			
+	}	
+}

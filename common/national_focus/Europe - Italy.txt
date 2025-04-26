@@ -1,0 +1,312 @@
+focus_tree = {
+	id = Iron_Throne_ITA_Focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = ITA
+		}
+	}
+	
+	default = no
+	
+	focus = {
+	    id = ITA_a_holy_state
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 7
+		y = 0
+	
+		cost = 5
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_strengthen_papal_rule
+		icon = GFX_goal_ITA_Strengthening_Papal_Rule
+		x = 0
+		y = 1
+		relative_position_id = ITA_a_holy_state
+		cost = 5
+		
+		prerequisite = { focus = ITA_a_holy_state }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = ITA_defense_of_the_faith
+		icon = GFX_goal_ITA_Defense_of_the_Faith
+		x = -4
+		y = 1
+		relative_position_id = ITA_strengthen_papal_rule
+		cost = 2
+		
+		prerequisite = { focus = ITA_strengthen_papal_rule }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_naval_development
+		icon = GFX_goal_ITA_Naval_Development
+		x = 0
+		y = 1
+		relative_position_id = ITA_defense_of_the_faith
+		cost = 2
+		
+		prerequisite = { focus = ITA_defense_of_the_faith }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_sicurezza_interna
+		icon = GFX_goal_ITA_Sicurezza_Interna
+		x = 0
+		y = 1
+		relative_position_id = ITA_naval_development
+		cost = 2
+		
+		prerequisite = { focus = ITA_naval_development }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_balancing_foreign_influence
+		icon = GFX_goal_ITA_Balancing_Foreign_Influence
+		x = 0
+		y = 1
+		relative_position_id = ITA_strengthen_papal_rule
+		cost = 2
+		
+		prerequisite = { focus = ITA_strengthen_papal_rule }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_approach_spain
+		icon = GFX_goal_ITA_Approach_France
+		x = -2
+		y = 1
+		relative_position_id = ITA_balancing_foreign_influence
+		cost = 2
+		
+		prerequisite = { focus = ITA_balancing_foreign_influence }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_firm_isolation
+		icon = GFX_goal_ITA_Firm_Isolation
+		x = 0
+		y = 1
+		relative_position_id = ITA_balancing_foreign_influence
+		cost = 2
+		
+		prerequisite = { focus = ITA_balancing_foreign_influence }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_approach_austria
+		icon = GFX_goal_ITA_Approach_Poland
+		x = 2
+		y = 1
+		relative_position_id = ITA_balancing_foreign_influence
+		cost = 2
+		
+		prerequisite = { focus = ITA_balancing_foreign_influence }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_construction_and_industry
+		icon = GFX_goal_ITA_Construction_and_Industry
+		x = 4
+		y = 1
+		relative_position_id = ITA_strengthen_papal_rule
+		cost = 2
+		
+		prerequisite = { focus = ITA_strengthen_papal_rule }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_religious_renaissance
+		icon = GFX_goal_ITA_Religious_Renaissance
+		x = 0
+		y = 1
+		relative_position_id = ITA_construction_and_industry
+		cost = 2
+		
+		prerequisite = { focus = ITA_construction_and_industry }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	focus = {
+	    id = ITA_balancing_modernization_with_tradition
+		icon = GFX_goal_ITA_Balancing_Modernization_with_Tradition
+		x = 0
+		y = 1
+		relative_position_id = ITA_religious_renaissance
+		cost = 2
+		
+		prerequisite = { focus = ITA_religious_renaissance }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+		
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}

@@ -1,0 +1,30 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_idea_ITA_Army_of_the_Faithful"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_Army_of_the_Faithful_spirit.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_ITA_Ave_Christus_Rex"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_Ave_Christus_Rex_spirit.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ITA_Clerical_Influence_of_Industries"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_Clerical_Influence_of_Industries_spirit.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ITA_Holy_Neutrality"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_Holy_Neutrality_spirit.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ITA_Papal_Authority"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_Papal_Authority_spirit.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ITA_Sacred_Guardians_of_Tradition"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_Sacred_Guardians_of_Tradition_spirit.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ITA_The_ANI_Ascendant"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/ITA/ITA_The_ANI_Ascendant_spirit.dds"
+	}
+}

@@ -1,0 +1,97 @@
+ideas = {
+	country = {
+		ITA_Army_of_the_Faithful = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_Army_of_the_Faithful" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_Army_of_the_Faithful
+			modifier = {
+			}
+		}
+		ITA_Ave_Christus_Rex = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_Ave_Christus_Rex" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_Ave_Christus_Rex
+			modifier = {
+			}
+		}
+		ITA_Clerical_Influence_of_Industries = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_Clerical_Influence_of_Industries" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_Clerical_Influence_of_Industries
+			modifier = {
+			}
+		}
+		ITA_Holy_Neutrality = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_Holy_Neutrality" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_Holy_Neutrality
+			modifier = {
+			}
+		}
+		ITA_Papal_Authority = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_Papal_Authority" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_Papal_Authority
+			modifier = {
+			}
+		}
+		
+		ITA_Sacred_Guardians_of_Tradition = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_Sacred_Guardians_of_Tradition" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_Sacred_Guardians_of_Tradition
+			modifier = {
+			}
+		}
+		ITA_The_ANI_Ascendant = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea ITA_The_ANI_Ascendant" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = ITA_The_ANI_Ascendant
+			modifier = {
+			}
+		}
+	}
+}
+

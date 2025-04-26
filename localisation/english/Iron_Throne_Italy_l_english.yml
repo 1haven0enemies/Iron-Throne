@@ -1,0 +1,50 @@
+﻿l_english:
+  #Characters
+  ITA_Pius_XI: "Pius XI"
+  
+  
+  #national spirits
+  ITA_Army_of_the_Faithful: "Army of the Faithful"
+  ITA_Ave_Christus_Rex: "Ave Christus Rex"
+  ITA_Clerical_Influence_of_Industries: "Clerical Influence of Industries"
+  ITA_Holy_Neutrality: "Holy Neutrality"
+  ITA_Papal_Authority: "Papal Authority"
+  ITA_Sacred_Guardians_of_Tradition: "Sacred Guardians of Tradition"
+  ITA_The_ANI_Ascendant: "The ANI Ascendant"
+  
+  ITA_Army_of_the_Faithful_desc: ""
+  ITA_Ave_Christus_Rex_desc: ""
+  ITA_Clerical_Influence_of_Industries_desc: ""
+  ITA_Holy_Neutrality_desc: ""
+  ITA_Papal_Authority_desc: ""
+  ITA_Sacred_Guardians_of_Tradition_desc: ""
+  ITA_The_ANI_Ascendant_desc: ""
+  
+
+  
+  #focuses
+  ITA_a_holy_state: "A Holy State"
+  ITA_strengthen_papal_rule: "Strengthening Papal Rule"
+  ITA_defense_of_the_faith: "Defense of the Faith"
+  ITA_naval_development: "Naval Development"
+  ITA_sicurezza_interna: "Sicurezza Interna"
+  ITA_balancing_foreign_influence: "Balancing Foreign Influence"
+  ITA_approach_spain: "Approach Spain"
+  ITA_firm_isolation: "Firm Isolation"
+  ITA_approach_austria: "Approach Austria"
+  ITA_construction_and_industry: "Construction and Industry"
+  ITA_religious_renaissance: "Religious Renaissance"
+  ITA_balancing_modernization_with_tradition: "Balancing Modernization with Tradition"
+  
+  ITA_a_holy_state_desc: ""
+  ITA_strengthen_papal_rule_desc: ""
+  ITA_defense_of_the_faith_desc: ""
+  ITA_naval_development_desc: ""
+  ITA_sicurezza_interna_desc: ""
+  ITA_balancing_foreign_influence_desc: ""
+  ITA_approach_spain_desc: ""
+  ITA_firm_isolation_desc: ""
+  ITA_approach_austria_desc: ""
+  ITA_construction_and_industry_desc: ""
+  ITA_religious_renaissance_desc: ""
+  ITA_balancing_modernization_with_tradition_desc: ""

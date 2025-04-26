@@ -21,6 +21,16 @@ bookmarks = {
 		"ITA"={
 			history = "ITA_TWILIGHT_OF_THE_INTERWAR_ERA_DESC"
 			ideology = theocratical
+			ideas = {
+				ITA_Holy_Neutrality
+				ITA_Ave_Christus_Rex
+				ITA_Sacred_Guardians_of_Tradition
+			}
+			focuses = {
+				ITA_a_holy_state
+				ITA_defense_of_the_faith
+				ITA_firm_isolation
+			}
 			}
 		"ENG"={
 			history = "ENG_TWILIGHT_OF_THE_INTERWAR_ERA_DESC"

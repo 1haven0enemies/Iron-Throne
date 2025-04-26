@@ -99,3 +99,42 @@
  SWA: "Colony of Swaziland"
  SWA_DEF: "the Colony of Swaziland"
  SWA_ADJ: "Swaziland"
+ 
+ 
+ #South America
+ BRA: "Empire of Brazil"
+ BRA_DEF: "the Empire of Brazil"
+ BRA_ADJ: "Brazilian"
+ 
+ VEN: "United States of Venezuela"
+ VEN_DEF: "the United States of Venezuela"
+ VEN_ADJ: "Venezuelan"
+ 
+ COL: "Republic of Colombia"
+ COL_DEF: "the Republic of Colombia"
+ COL_ADJ: "Colombian"
+ 
+ ECU: "Quito Republic"
+ ECU_DEF: "the Quito Republic"
+ ECU_ADJ: "Quito"
+ 
+ PRU: "Republic of Peru"
+ PRU_DEF: "the Republic of Peru"
+ PRU_ADJ: "Peruvian"
+ 
+ BOL: "State of Bolivia"
+ BOL_DEF: "the State of Bolivia"
+ BOL_ADJ: "Bolivian"
+ 
+ ARG: "Federal Republic of Argentina"
+ ARG_DEF: "the Federal Republic of Argentina"
+ ARG_ADJ: "Argentinian"
+ 
+ CHL: "Republic of Chile"
+ CHL_DEF: "the Republic of Chile"
+ CHL_ADJ: "Chilean"
+
+ PAR: "Republic of Paraguay"
+ PAR_DEF: "the Republic of Paraguay"
+ PAR_ADJ: "Paraguay"
+ 

@@ -18,7 +18,7 @@ add_equipment_to_stockpile = {
 }
 set_autonomy = {
 	target = TEF
-	autonomous_state = autonomy_integrated_puppet
+	autonomous_state = autonomy_colony
 }
 set_politics = {
 	ruling_party = theocratical

@@ -15,10 +15,42 @@
  SAF: "South African Republic"
  SAF_DEF: "the South African Republic"
  SAF_ADJ: "South African"
+  
+ LBA: "Tripolitanian Republic"
+ LBA_DEF: "the Tripolitanian Republic"
+ LBA_ADJ: "Libyan"
  
  RSA: "Rassvet Governorate"
  RSA_DEF: "the Rassvet Governorate"
  RSA_ADJ: "Rassvet"
+ 
+ ZAI: "Zaian Confederation"
+ ZAI_DEF: "the Zaian Confederation"
+ ZAI_ADJ: "Zaian"
+  
+ ALA: "Alawi Sultanate"
+ ALA_DEF: "the Alawi Sultanate"
+ ALA_ADJ: "Alawi"
+ 
+ BST: "Basutoland"
+ BST_DEF: "Basutoland"
+ BST_ADJ: "Basutoland"
+ 
+ AFA: "Aussa"
+ AFA_DEF: "Aussa"
+ AFA_ADJ: "Aussa"
+ 
+ WDA: "Wadai"
+ WDA_DEF: "Wadai"
+ WDA_ADJ: "Wadai"
+ 
+ DRF: "Darfur"
+ DRF_DEF: "Darfur"
+ DRF_ADJ: "Darfur"
+ 
+ ORA: "Orange Freestate"
+ ORA_DEF: "the Orange Freestate"
+ ORA_ADJ: "Dutch"
  
  RSH: "Rashidi Emirate"
  RSH_DEF: "the Rashidi Emirate"

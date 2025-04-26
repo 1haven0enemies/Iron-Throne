@@ -1171,7 +1171,28 @@ NYA = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-RSG = {
+RSA = {
 	color = rgb { 103 130 24 }
 	color_ui = rgb { 103 130 24 }
+}
+
+ZAI = {
+	color = rgb { 226 31 31 }
+	color_ui = rgb { 226 31 31 }
+}
+ALA = {
+	color = rgb { 186 26 26 }
+	color_ui = rgb { 186 26 26 }
+}
+BST = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+DRF = {
+	color = rgb { 211 126 29 }
+	color_ui = rgb { 211 126 29 }
+}
+WDA = {
+	color = rgb { 23 111 165 }
+	color_ui = rgb { 23 111 165 }
 }

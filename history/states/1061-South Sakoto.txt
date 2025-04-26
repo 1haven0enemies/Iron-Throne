@@ -1,0 +1,22 @@
+state={
+	id=1061
+	name="STATE_1061"
+	state_category = pastoral
+	provinces={
+		1932 2025 8021 
+	}
+	history = {
+
+		owner = NGA
+		add_core_of = NGA
+		add_core_of = SOK
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	manpower=5153
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

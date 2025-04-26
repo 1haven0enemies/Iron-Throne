@@ -17,3 +17,10 @@ ORA = "countries/Kenya.txt"
 NYA = "countries/Kenya.txt"
 
 RSA = "countries/Soviet Union.txt"
+
+ALA = "countries/Morocco.txt"
+ZAI = "countries/Morocco.txt"
+BST = "countries/Kenya.txt"
+
+DRF = "countries/Kenya.txt"
+WDA = "countries/Kenya.txt"

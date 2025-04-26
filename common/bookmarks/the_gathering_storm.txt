@@ -20,7 +20,7 @@ bookmarks = {
 			}
 		"ITA"={
 			history = "ITA_TWILIGHT_OF_THE_INTERWAR_ERA_DESC"
-			ideology = democratic
+			ideology = theocratical
 			}
 		"ENG"={
 			history = "ENG_TWILIGHT_OF_THE_INTERWAR_ERA_DESC"
@@ -28,7 +28,7 @@ bookmarks = {
 			}
 		"SOV"={
 			history = "SOV_TWILIGHT_OF_THE_INTERWAR_ERA_DESC"
-			ideology = rykovism
+			ideology = communism
 			}
 		}
 	}

@@ -59,4 +59,15 @@ spriteTypes = {
 		name = "GFX_USA_dual_leader_1" #John Price
 		texturefile = "gfx/dual_leaders/USA/USA_John_Price.png"
 	}
+	
+	#SOV
+	spriteType = {
+		name = "GFX_SOV_dual_leader_1" #Maxim Gorky
+		texturefile = "gfx/dual_leaders/SOV/SOV_Maxim_Gorky_Portrait.png"
+	}
+	#ITA
+	spriteType = {
+		name = "GFX_ITA_dual_leader_1" #Stefano Cavazzoni
+		texturefile = "gfx/dual_leaders/ITA/ITA_Stefano_Cavazzoni.png"
+	}
 }

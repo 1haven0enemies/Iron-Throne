@@ -1,0 +1,22 @@
+state={
+	id=1065
+	name="STATE_1065"
+	provinces={
+		4822 10697 
+	}
+	history={
+		owner = ORA
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = {
+			4822 3 
+		}
+		add_core_of = ORA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

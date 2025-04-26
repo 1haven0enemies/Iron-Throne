@@ -213,7 +213,7 @@ ideas = {
                 }
 
                 modifier = {
-                    has_idea = neutrality
+                    
                     NOT = {
                         has_country_leader_ideology = anarchism
                     }

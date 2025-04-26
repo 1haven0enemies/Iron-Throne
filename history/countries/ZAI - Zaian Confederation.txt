@@ -1,0 +1,19 @@
+﻿capital = 1063
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	progressivism = 25
+	reactionary_socialism = 20
+	communism = 5
+	liberalism = 50
+}

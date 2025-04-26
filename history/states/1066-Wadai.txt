@@ -1,0 +1,22 @@
+state={
+	id=1066
+	name="STATE_1066"
+	provinces={
+		1473 3181 4978 7919 
+	}
+	history={
+		owner = WDA
+		add_core_of = WDA
+		victory_points = {
+			2081 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=15325
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

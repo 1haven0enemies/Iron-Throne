@@ -1,0 +1,15 @@
+characters = {
+	SOV_Alexey_Ivanovich_Rykov = {
+		name = SOV_Alexey_Ivanovich_Rykov
+		portraits = { civilian = { large = "gfx/leaders/SOV/SOV_Alexey_Ivanovich_Rykov_Portrait.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = rykovism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

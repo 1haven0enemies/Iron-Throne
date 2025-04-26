@@ -1,0 +1,15 @@
+characters = {
+	ITA_Pius_XI = {
+		name = ITA_Pius_XI
+		portraits = { civilian = { large = "gfx/leaders/ITA/ITA_Pius_XI_Portrait.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = catholic_theocracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

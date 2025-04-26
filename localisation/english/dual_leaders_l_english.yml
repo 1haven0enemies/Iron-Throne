@@ -17,6 +17,9 @@
  #First Leader Title
  ENG_FIRST_LEADER_TITLE:0 "Prime Minister"
  ROM_FIRST_LEADER_TITLE:0 "Prime Minister"
+ SOV_FIRST_LEADER_TITLE:0 "Premier"
+ ITA_FIRST_LEADER_TITLE:0 "Pope"
+ USA_FIRST_LEADER_TITLE:0 "President"
  DEFAULT_FIRST_TITLE:0 "Leader"
  
  DEFAULT_TITLE:0 "Vacant"
@@ -29,6 +32,8 @@
  HOL_SECOND_LEADER_TITLE:0 "Vice President"
  
  USA_SECOND_LEADER_TITLE:0 "Captain"
+ SOV_SECOND_LEADER_TITLE:0 "President"
+ ITA_SECOND_LEADER_TITLE:0 "Prime Minister"
  
  # Second Leader Names
  ROM_SECOND_LEADER_NAME_1:0 "Carol II"
@@ -36,6 +41,8 @@
  HOL_SECOND_LEADER_NAME_1:0 "Hendrikus Colijn"
  
  USA_SECOND_LEADER_NAME_1:0 "John Price"
+ SOV_SECOND_LEADER_NAME_1:0 "Maxim Gorky"
+ ITA_SECOND_LEADER_NAME_1:0 "Stefano Cavazzoni"
  
  #Second Leader DESCRIPTION
  
@@ -44,3 +51,5 @@
  ENG_SECOND_LEADER_DESCRIPTION_2:0 "His Majesty"
  
  USA_SECOND_LEADER_DESCRIPTION_1:0 "What kind of name is Soap?"
+ SOV_SECOND_LEADER_DESCRIPTION_1:0 "Gorky"
+ ITA_SECOND_LEADER_DESCRIPTION_1:0 "Stefano"

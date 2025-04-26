@@ -1,11 +1,11 @@
 state={
-	id=1058
-	name="STATE_1058"
+	id=1068
+	name="STATE_1068"
 	provinces={
-		10113 
+		10070 1194 
 	}
 	history={
-		owner = TNG
+		owner = SPR
 		add_core_of = MOR
 		add_core_of = RIF
 

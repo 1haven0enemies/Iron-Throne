@@ -2,7 +2,7 @@ state={
 	id=1063
 	name="STATE_1063"
 	provinces={
-		1152 1207 4154 4933 7173 10107 12042 
+		1152 1207 4154 4933 7173 10107 12042 8046
 	}
 	state_category = wasteland
 

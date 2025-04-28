@@ -432,7 +432,7 @@
  STATE_292:0 "Nejd"
  STATE_293: "North Yemen" # Was Yemen
  STATE_294: "Muscat" # Was Oman
- STATE_295: "Léopoldville"
+ STATE_295: "Urbs Leonis"
  STATE_296:0 "Portuguese Guinea"
  STATE_297:0 "Equatorial Guinea"
  STATE_298:0 "Liberia"
@@ -675,7 +675,7 @@
  STATE_535:0 "Koshinetsu"
  STATE_536:0 "Hokkaido"
  STATE_537:0 "South Sakhalin"
- STATE_538:1 "Coquilhatville"
+ STATE_538:1 "Città Lavigerie"
  STATE_539:0 "Gabon"
  STATE_540:2 "Luanda"
  STATE_541:1 "Khomas"
@@ -1055,7 +1055,7 @@
  STATE_887:0 "South Darfur"
  STATE_888:0 "Lusambo"
  STATE_889:0 "Elisabethville"
- STATE_890:0 "Costermansville"
+ STATE_890:0 "Città Minghetti"
  STATE_891:0 "Zambesi"
  STATE_892:0 "South West Angola"
  STATE_893:0 "Karas"

@@ -81,4 +81,3 @@ set_popularities = {
 	reactionary_socialism = 20
 }
 
-recruit_character = KUB_ivanis_vasily_nikolaevich

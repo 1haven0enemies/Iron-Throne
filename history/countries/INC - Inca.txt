@@ -42,12 +42,6 @@ IF = {
 	}
 }
 
-IF = {
-	limit = {
-		has_dlc = "Trial of Allegiance"
-	}
-	recruit_character = INC_inca_council
-}
 
 set_politics = {
 	ruling_party = liberalism

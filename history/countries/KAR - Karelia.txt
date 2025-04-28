@@ -99,12 +99,3 @@ set_popularities = {
 	liberalism = 0
 }
 
-recruit_character = KAR_peteris_irklis
-recruit_character = KAR_ukki_vainamoinen
-recruit_character = KAR_jalmari_takkinen
-
-
-
-
-
-

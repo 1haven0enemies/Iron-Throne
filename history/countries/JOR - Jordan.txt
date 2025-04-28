@@ -90,7 +90,6 @@ set_popularities = {
 	liberalism = 50
 }
 
-recruit_character = JOR_abdullah_bin_al_hussein
 
 create_country_leader = {
 	name = "Hashim Kheir"

@@ -113,8 +113,6 @@ set_popularities = {
 	liberalism = 60
 }
 
-recruit_character = TOS_joseph_ferdinand_von_habsburg
-
 ### VARIANTS ###
 # 1936 Start #
 #plane variants

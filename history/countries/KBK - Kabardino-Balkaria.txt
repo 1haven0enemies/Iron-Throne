@@ -96,7 +96,3 @@ set_popularities = {
 	liberalism = 0
 }
 
-
-recruit_character = KBK_betal_kalmyk
-
-

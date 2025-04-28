@@ -42,13 +42,6 @@ IF = {
 	}
 }
 
-IF = {
-	limit = {
-		has_dlc = "Trial of Allegiance"
-	}
-	recruit_character = INU_inuit_council
-}
-
 set_politics = {
 	ruling_party = liberalism
 	last_election = "1934.2.11"

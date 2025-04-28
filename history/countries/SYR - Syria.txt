@@ -88,26 +88,3 @@ set_popularities = {
 	communism = 10
 	liberalism = 30
 }
-
-recruit_character = SYR_mehemed_ali_abed
-recruit_character = SYR_hashim_al_atassi
-
-create_country_leader = {
-	name = "Antun Saadeh"
-	desc = ""
-	picture = GFX_portrait_Antun_Saadeh
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Khalid Bakdash"
-	desc = ""
-	picture = GFX_portrait_Khalid_Bakdash
-	ideology = leninism
-	traits = {
-		#
-	}
-}

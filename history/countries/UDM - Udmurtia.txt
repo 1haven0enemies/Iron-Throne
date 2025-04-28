@@ -95,7 +95,3 @@ set_popularities = {
 	liberalism = 10
 }
 
-
-recruit_character = UDM_boris
-
-

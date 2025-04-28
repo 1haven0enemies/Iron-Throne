@@ -1,0 +1,62 @@
+CAP = {
+	male = {
+		names = { Aage Adam Alber Anders Asmund Axel Carl Christian Edvard Edvin }
+	}
+	female = {
+		names = { Karen Alma Elsa Else Monica Grete Gerda Helga Jytte Kaja Asta Astrid Signe Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney Chikuk Elisapee Ila Lusa Nanouk Qimmiq Yura }
+	}
+	surnames = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso  Eberlin Falsen }
+	callsigns = { }
+}
+NAT = {
+	male = {
+		names = { Aage Adam Alber Anders Asmund Axel Carl Christian Edvard Edvin }
+	}
+	female = {
+		names = { Karen Alma Elsa Else Monica Grete Gerda Helga Jytte Kaja Asta Astrid Signe Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney Chikuk Elisapee Ila Lusa Nanouk Qimmiq Yura }
+	}
+	surnames = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso  Eberlin Falsen }
+	callsigns = { }
+}
+
+SWA = {
+	male = {
+		names = { Aage Adam Alber Anders Asmund Axel Carl Christian Edvard Edvin }
+	}
+	female = {
+		names = { Karen Alma Elsa Else Monica Grete Gerda Helga Jytte Kaja Asta Astrid Signe Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney Chikuk Elisapee Ila Lusa Nanouk Qimmiq Yura }
+	}
+	surnames = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso  Eberlin Falsen }
+	callsigns = { }
+}
+ORA = {
+	male = {
+		names = { Aage Adam Alber Anders Asmund Axel Carl Christian Edvard Edvin }
+	}
+	female = {
+		names = { Karen Alma Elsa Else Monica Grete Gerda Helga Jytte Kaja Asta Astrid Signe Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney Chikuk Elisapee Ila Lusa Nanouk Qimmiq Yura }
+	}
+	surnames = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso  Eberlin Falsen }
+	callsigns = { }
+}
+NYA = {
+	male = {
+		names = { Aage Adam Alber Anders Asmund Axel Carl Christian Edvard Edvin }
+	}
+	female = {
+		names = { Karen Alma Elsa Else Monica Grete Gerda Helga Jytte Kaja Asta Astrid Signe Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney Chikuk Elisapee Ila Lusa Nanouk Qimmiq Yura }
+	}
+	surnames = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso  Eberlin Falsen }
+	callsigns = { }
+}
+
+RSA = {
+	male = {
+		names = { Aage Adam Alber Anders Asmund Axel Carl Christian Edvard Edvin }
+	}
+	female = {
+		names = { Karen Alma Elsa Else Monica Grete Gerda Helga Jytte Kaja Asta Astrid Signe Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney Chikuk Elisapee Ila Lusa Nanouk Qimmiq Yura }
+	}
+	surnames = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso  Eberlin Falsen }
+	callsigns = { }
+}

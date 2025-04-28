@@ -80,12 +80,7 @@ if = {
 		basic_torpedo = 1
 	}
 }
-if = {
-	limit = {
-		has_dlc = "Graveyard of Empires"
-	}
-	recruit_character = RAJ_pratap_singh_rao_gaekwad
-}
+
 
 set_politics = {
 	ruling_party = liberalism

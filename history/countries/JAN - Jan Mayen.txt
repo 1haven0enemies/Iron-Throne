@@ -1,10 +1,5 @@
 ﻿capital = 914
 
-if = {
-	limit = { has_aat = yes }
-	recruit_character = JAN_grand_admiral_johan_mayen 
-}
-
 
 # Starting tech
 set_technology = {

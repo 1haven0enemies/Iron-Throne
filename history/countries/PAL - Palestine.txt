@@ -92,34 +92,3 @@ set_popularities = {
 	communism = 4 
 }
 
-recruit_character = PAL_harold_macmichael
-
-create_country_leader = {
-	name = "Ahmed Hilmi Pasha"
-	desc = ""
-	picture = GFX_portrait_Ahmed_Hilmi_Pasha
-	ideology = liberalism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Amin al-Husseini"
-	desc = ""
-	picture = GFX_portrait_Amin_al_Husseini
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Bulus Farah"
-	desc = ""
-	picture = GFX_portrait_Bulus_Farah
-	ideology = leninism
-	traits = {
-		#
-	}
-}

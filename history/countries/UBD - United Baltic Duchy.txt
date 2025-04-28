@@ -157,7 +157,6 @@ set_popularities = {
 	liberalism = 70
 }
 
-recruit_character = UBD_heinrich_schlobitten
 
 add_ideas = {
 }

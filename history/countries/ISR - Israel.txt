@@ -82,8 +82,6 @@ set_popularities = {
 	communism = 20
 }
 
-recruit_character = ISR_david_ben_gurion
-
 create_country_leader = {
 	name = "Itzhak Gaster"
 	desc = ""

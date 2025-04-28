@@ -98,10 +98,5 @@ set_popularities = {
 	liberalism = 0
 }
 
-recruit_character = KKP_islam_sadyk
-
-
-
-
 
 

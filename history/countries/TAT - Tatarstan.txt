@@ -94,7 +94,3 @@ set_popularities = {
 	communism = 20
 }
 
-
-recruit_character = TAT_alexandr_alemasov
-
-

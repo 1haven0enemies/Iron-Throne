@@ -22,9 +22,6 @@ ideologies = {
             ascensionism  = {
 			}
 
-			avant_garde_democracy = {
-			}
-
             avant_garde_nationalism  = {
 			}
 

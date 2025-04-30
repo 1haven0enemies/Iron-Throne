@@ -1,0 +1,53 @@
+spriteTypes = {
+	#Accelerationism
+	
+	#Anarchism
+	
+	#Authoritarianism
+	
+	#Classical Nationalism
+	
+	#Communism
+	spriteType = {
+        name = "GFX_ideology_rykovism"
+        texturefile = "gfx/interface/ideologies/subideologies/Communism/communism_Rykovism.png"
+    }
+	#Conservatism
+	
+	#Economic Liberalism
+	
+	#Liberalism
+	
+	#Monarchism
+	
+	#Primordialism
+	
+	#Progressivism
+	
+	#Racial Darwinism
+	
+	#Reactionary Socialism
+	 spriteType = {
+        name = "GFX_ideology_germanic_socialism"
+        texturefile = "gfx/interface/ideologies/subideologies/Reactionary Socialism/reactionary_socialism_Germanic_Socialism.png"
+    }
+	#Revolutionary Nationalism
+	
+	#Revolutionary Socialism
+	
+	#State Humanism
+	
+	#Theocratical
+	
+    spriteType = {
+        name = "GFX_ideology_catholic_theocracy"
+        texturefile = "gfx/interface/ideologies/subideologies/Theocratical/theocratical_Catholic_Theocracy.png"
+    }
+
+    
+
+   
+
+  
+}
+

@@ -1,7 +1,9 @@
 ﻿capital = 295 # Leopoldville/Kinshaasa
 
 set_oob = "COG_1936"
-
+set_variable = {currentdualleader = 1 }
+set_country_flag = unique_first_title
+recruit_character = TEF_Pietro_Simonecelli
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -13,19 +15,26 @@ set_technology = {
 	interwar_antitank = 1
 	tech_engineers = 1
 }
-
+add_ideas = {
+	TEF_Mission_of_Evangelization_Congo
+    TEF_Ghosts_in_the_Jungle_Congo
+    TEF_Simonecellis_Vision_Congo
+    TEF_Tarzan_of_the_Apes_Congo
+    TEF_The_Freest_Country_Congo
+    TEF_Kasa-Vubus_Influence_Congo
+}
 ### Set Base Values ###
 set_war_support = 0.4 
 set_stability = 0.35
 
 # Setup 1936 politics 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = theocratical
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	liberalism = 80
+	theocratical = 80
 	progressivism = 20
 }

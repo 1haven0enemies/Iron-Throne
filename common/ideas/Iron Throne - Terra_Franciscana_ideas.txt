@@ -1,0 +1,84 @@
+ideas = {
+	country = {
+		TEF_Ghosts_in_the_Jungle_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_Ghosts_in_the_Jungle_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_Ghosts_in_the_Jungle_Congo
+			modifier = {
+			}
+		}
+		TEF_Kasa-Vubus_Influence_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_Kasa-Vubus_Influence_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_Kasa-Vubus_Influence_Congo
+			modifier = {
+			}
+		}
+		TEF_Mission_of_Evangelization_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_Mission_of_Evangelization_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_Mission_of_Evangelization_Congo
+			modifier = {
+			}
+		}
+		TEF_Simonecellis_Vision_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_Simonecellis_Vision_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_Simonecellis_Vision_Congo
+			modifier = {
+			}
+		}
+		TEF_Tarzan_of_the_Apes_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_Tarzan_of_the_Apes_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_Tarzan_of_the_Apes_Congo
+			modifier = {
+			}
+		}
+		
+		TEF_The_Freest_Country_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_The_Freest_Country_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_The_Freest_Country_Congo
+			modifier = {
+			}
+		}
+	}
+}
+

@@ -1,6 +1,7 @@
 ﻿capital = 16 # Paris/Ile de France
 
-
+set_variable = {currentdualleader = 1 }
+recruit_character = FRA_Albert_Lebrun
 if = {
 	limit = {
 		OR = {
@@ -59,7 +60,7 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = progressivism
+	ruling_party = economic_liberalism
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes

@@ -1,0 +1,35 @@
+# By Yard1 and Scars
+
+guiTypes = {
+
+	containerWindowType = {
+		name = "countrypoliticsview_ideology_info"
+		position = { x = 93 y = 340 }
+		instantTextboxType = {
+			name = "ideology_gui"
+			position = { x = 5 y = 4 }
+			font = "hoi_18mbs"
+			text = "[GetSubIdeologyLoc]"
+			maxWidth = 155
+			maxHeight = 18
+			fixedsize = yes
+			alwaystransparent=yes
+		}
+	}
+	containerWindowType = {
+		name = "countrydiplomacyview_ideology_info"
+		position = { x = 389 y = 25 }
+		size = { width = 255 height = 60 }
+		clipping = no
+
+		instantTextboxType = {
+			name = "ideology_gui"
+			position = { x = 5 y = 119 }
+			font = "hoi_16mbs"
+			text = "[GetSubIdeologyLoc]"
+			maxWidth = 245
+			maxHeight = 20
+			alwaystransparent=yes
+		}
+	}
+}

@@ -1,0 +1,225 @@
+###IGNORE###
+defined_text = {
+	name = GetSubIdeologyLoc
+	text = {
+		trigger = { has_government = accelerationism }
+		localization_key = "[GetSubIdeologyLocAccelerationism]"
+	}
+	text = {
+		trigger = { has_government = state_humanism }
+		localization_key = "[GetSubIdeologyLocStateHumanism]"
+	}
+	text = {
+		trigger = { has_government = communism }
+		localization_key = "[GetSubIdeologyLocCommunism]"
+	}
+	text = {
+		trigger = { has_government = reactionary_socialism }
+		localization_key = "[GetSubIdeologyLocLiberalReactionarySocialism]"
+	}
+	text = {
+		trigger = { has_government = revolutionary_socialism }
+		localization_key = "[GetSubIdeologyLocRevolutionarySocialism]"
+	}
+	text = {
+		trigger = { has_government = progressivism }
+		localization_key = "[GetSubIdeologyLocProgressivism]"
+	}
+	text = {
+		trigger = { has_government = liberalism }
+		localization_key = "[GetSubIdeologyLocLiberalism]"
+	}
+	text = {
+		trigger = { has_government = economic_liberalism }
+		localization_key = "[GetSubIdeologyLocEconomicLiberalism]"
+	}
+	text = {
+		trigger = { has_government = conservatism }
+		localization_key = "[GetSubIdeologyLocConservatism]"
+	}
+	text = {
+		trigger = { has_government = authoritarianism }
+		localization_key = "[GetSubIdeologyLocAuthoritarianism]"
+	}
+	text = {
+		trigger = { has_government = monarchism }
+		localization_key = "[GetSubIdeologyLocMonarchism]"
+	}
+	text = {
+		trigger = { has_government = theocratical }
+		localization_key = "[GetSubIdeologyLocTheocratical]"
+	}
+	text = {
+		trigger = { has_government = primordialism }
+		localization_key = "[GetSubIdeologyLocPrimordialism]"
+	}
+	text = {
+		trigger = { has_government = classical_nationalism }
+		localization_key = "[GetSubIdeologyLocClassicalNationalism]"
+	}
+	text = {
+		trigger = { has_government = revolutionary_nationalism }
+		localization_key = "[GetSubIdeologyLocRevolutionaryNationalism]"
+	}
+	text = {
+		trigger = { has_government = racial_darwinism }
+		localization_key = "[GetSubIdeologyLocRacialDarwinism]"
+	}
+	text = {
+		trigger = { has_government = anarchism }
+		localization_key = "[GetSubIdeologyLocAnarchism]"
+	}
+}
+
+###UNIGNORE### 
+#           TEMPLATE
+#text = { 
+#		trigger = { has_country_leader_ideology = subid }
+#		localization_key = subid
+#	}
+defined_text = {
+	name = GetSubIdeologyLocAccelerationism
+	
+	text = {
+		localization_key = accelerationism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocStateHumanism
+	
+	text = {
+		localization_key = state_humanism
+	}
+}
+defined_text = {
+	name = GetSubIdeologyLocCommunism
+	text = {
+		trigger = { has_country_leader_ideology = rykovism }
+		localization_key = rykovism
+	}
+	text = {
+		localization_key = communism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocLiberalReactionarySocialism
+	text = {
+		trigger = { has_country_leader_ideology = germanic_socialism }
+		localization_key = germanic_socialism
+	}
+	text = {
+		localization_key = reactionary_socialism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocRevolutionarySocialism
+	
+	text = {
+		localization_key = revolutionary_socialism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocProgressivism
+	
+	text = {
+		localization_key = progressivism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocLiberalism
+	
+	text = {
+		localization_key = liberalism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocEconomicLiberalism
+	
+	text = {
+		localization_key = economic_liberalism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocConservatism
+	
+	text = {
+		localization_key = conservatism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocAuthoritarianism
+	
+	text = {
+		localization_key = authoritarianism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocMonarchism
+	
+	text = {
+		localization_key = monarchism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocTheocratical
+	text = {
+		trigger = { has_country_leader_ideology = catholic_theocracy }
+		localization_key = catholic_theocracy
+	}
+	text = {
+		localization_key = theocratical
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocPrimordialism
+	
+	text = {
+		localization_key = primordialism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocClassicalNationalism
+	
+	text = {
+		localization_key = classical_nationalism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocRevolutionaryNationalism
+	
+	text = {
+		localization_key = revolutionary_nationalism
+	}
+}
+
+defined_text = {
+	name = GetSubIdeologyLocRacialDarwinism
+	
+	text = {
+		localization_key = racial_darwinism
+	}
+}
+defined_text = {
+	name = GetSubIdeologyLocAnarchism
+	
+	text = {
+		localization_key = anarchism
+	}
+}
+
+
+
+

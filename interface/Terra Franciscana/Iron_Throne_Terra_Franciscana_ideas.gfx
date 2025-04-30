@@ -1,0 +1,26 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_idea_TEF_Ghosts_in_the_Jungle_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_Ghosts_in_the_Jungle_Congo.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_TEF_Kasa-Vubus_Influence_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_Kasa-Vubus_Influence_Congo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEF_Mission_of_Evangelization_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_Mission_of_Evangelization_Congo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEF_Simonecellis_Vision_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_Simonecellis_Vision_Congo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEF_Tarzan_of_the_Apes_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_Tarzan_of_the_Apes_Congo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_TEF_The_Freest_Country_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_The_Freest_Country_Congo.png"
+	}
+}

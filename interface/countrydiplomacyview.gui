@@ -47,7 +47,7 @@ guiTypes = {
 			iconType ={
 				name = "ideology_icon"
 				spriteType = "GFX_ideology_unknown"
-				position = { x = 151 y = 0 }
+				position = { x = 151 y = -5 }
 				Orientation = "UPPER_LEFT"
 				frame = 1
 			}
@@ -289,6 +289,7 @@ guiTypes = {
 					instantTextboxType = {
 						name = "ideology_name"
 						position = { x = 5 y = 10 }
+						hide = yes
 						font = "hoi_16mbs"
 						text = "ideology"
 						maxWidth = 245

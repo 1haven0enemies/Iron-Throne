@@ -1,0 +1,15 @@
+characters = {
+	FRA_Albert_Lebrun = {
+		name = FRA_Albert_Lebrun
+		portraits = { civilian = { large = "gfx/leaders/FRA/FRA_Albert_Lebrun.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = progressive_capitalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

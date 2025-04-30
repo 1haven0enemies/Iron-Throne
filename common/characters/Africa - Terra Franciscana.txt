@@ -1,0 +1,15 @@
+characters = {
+	TEF_Pietro_Simonecelli = {
+		name = TEF_Pietro_Simonecelli
+		portraits = { civilian = { large = "gfx/leaders/TEF/TEF_Pietro_Simonecelli.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = catholic_theocracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

@@ -70,4 +70,14 @@ spriteTypes = {
 		name = "GFX_ITA_dual_leader_1" #Stefano Cavazzoni
 		texturefile = "gfx/dual_leaders/ITA/ITA_Stefano_Cavazzoni.png"
 	}
+	#FRA
+	spriteType = {
+		name = "GFX_FRA_dual_leader_1" #Camille_Chautemps
+		texturefile = "gfx/dual_leaders/FRA/FRA_Camille_Chautemps.png"
+	}
+	#TEF
+	spriteType = {
+		name = "GFX_TEF_dual_leader_1" #Congolese_Episcopal_Conference
+		texturefile = "gfx/dual_leaders/TEF/TEF_Congolese_Episcopal_Conference.png"
+	}
 }

@@ -12,4 +12,75 @@ characters = {
 			id = -1
 		}
 	}
+	
+	
+	
+	
+	
+	#pie chart guys
+	TEF_Joseph_Kasa_Vubu = {
+		name = TEF_Joseph_Kasa_Vubu
+		portraits = { civilian = { large = "gfx/leaders/TEF/TEF_.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = national_catholicism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+	TEF_Congolese_Native_Tribes = {
+		name = TEF_Congolese_Native_Tribes
+		portraits = { civilian = { large = "gfx/leaders/TEF/TEF_.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = christian_anarchism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+	TEF_Mwami_Mwambutsa_iv = {
+		name = TEF_Mwami_Mwambutsa_iv
+		portraits = { civilian = { large = "gfx/leaders/TEF/TEF_.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = reactionary_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+	TEF_Paul_Panda_Farnana = {
+		name = TEF_Paul_Panda_Farnana
+		portraits = { civilian = { large = "gfx/leaders/TEF/TEF_.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = rational_democracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+	TEF_Buster_Crabbe = {
+		name = TEF_Buster_Crabbe
+		portraits = { civilian = { large = "gfx/leaders/TEF/TEF_.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = anarcho_primitivism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
 }

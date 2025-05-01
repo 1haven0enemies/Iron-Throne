@@ -1,6 +1,11 @@
 ﻿l_english:
   #Characters
   TEF_Pietro_Simonecelli: "Pietro Simonecelli"
+  TEF_Joseph_Kasa_Vubu: "Joseph Kasa-Vubu"
+  TEF_Congolese_Native_Tribes: "Congolese Native Tribes"
+  TEF_Mwami_Mwambutsa_iv: "Mwami Mwambutsa IV"
+  TEF_Paul_Panda_Farnana: "Paul Panda Farnana"
+  TEF_Buster_Crabbe: "Buster Crabbe"
   
   
   #national spirits
@@ -12,14 +17,60 @@
   TEF_The_Freest_Country_Congo: "The Freest Country"
 
   
-  TEF_Ghosts_in_the_Jungle_Congo_desc: "Though defeated, the remnants of Germany's African military forces still linger on in the form of an extremist movement known as the Deutsch-Kongo-Freie Soldatenliga, a terrorist organization made up of war veterans and those sympathetic to their cause who hailed from Germany, Austria, and the Baltic. Taking advantage of our neutrality during the Great War, along with the years of peace that followed, they have now only recently begun to cause trouble for us, especially with General Paul von Lettow-Vorbeck leading the organization with the aid from more radical factions such as the National Socialists lead by Theodor von Hippel and the Volkists led by Hans Hüttig. There are even rumors that von Lettow-Vorbeck plans on proclaiming himself the New Kaiser of Germany, as though he deems both the Hohenzollerns and the National Socialists back in Europe as illegitimate and unworthy to rule the fatherland. The fact that these deranged lunatics have now gained mch ground since their formation should be enough to raise alarms for our government in the Congo region."
-  TEF_Kasa-Vubus_Influence_Congo_desc: "While Terra Franciscana has been spared from many of the resistance groups found all across European colonies, there is still many who oppose the rule of the Church and the Italians among the vast territories of the Congo.\nMany of these resentful people have united under the charismatic leadership of Joseph Kasa-Vubu, a local convert to Christianity who has so far managed to stir the locals on a course of peaceful resistance to Papal rule, advocating for more equal governance, more welfare for the region and lesser restrictions. His public piety and regular usage of Christian vocabulary has made it very hard for us to rid ourselves of the Kasa-Vubu shaped torn on our side, as demonstrations and strikes have become regular occurance in the Congo. "
-  TEF_Mission_of_Evangelization_Congo_desc: "The origins of Terra Franciscana lie within a mission of converting and elevating the Congolese people and drive them away from their senseless practices, and we have yet to abandon that most holy goal. The goal to bring the New Testament into the very centre of Africa is already in progress, and many are already supporting the decision of the Holy Father; this has also allowed for many supporters for the Papal regime, regardless of social class or political affiliation, to unite under the common banner of Catholicism, strengthening the Papal regime. The holy religion of Catholicism is planned to become the most popular, if not the only one allowed, in the Papal Colony."
+  TEF_Ghosts_in_the_Jungle_Congo_desc: "Though defeated, the remnants of Germany's African military forces still linger on in the form of an extremist movement known as the Deutsch-Kongo-Freie Soldatenliga, a terrorist organization made up of war veterans and those sympathetic to their cause who hailed from Germany, Austria, and the Baltic.\n\nTaking advantage of our neutrality during the Great War, along with the years of peace that followed, they have now only recently begun to cause trouble for us, especially with General Paul von Lettow-Vorbeck leading the organization with the aid from more radical factions such as the National Socialists lead by Theodor von Hippel and the Volkists led by Hans Hüttig.\n\nThere are even rumors that von Lettow-Vorbeck plans on proclaiming himself the New Kaiser of Germany, as though he deems both the Hohenzollerns and the National Socialists back in Europe as illegitimate and unworthy to rule the fatherland. The fact that these deranged lunatics have now gained mch ground since their formation should be enough to raise alarms for our government in the Congo region."
+  TEF_Kasa-Vubus_Influence_Congo_desc: "While Terra Franciscana has been spared from many of the resistance groups found all across European colonies, there is still many who oppose the rule of the Church and the Italians among the vast territories of the Congo.\n\nMany of these resentful people have united under the charismatic leadership of Joseph Kasa-Vubu, a local convert to Christianity who has so far managed to stir the locals on a course of peaceful resistance to Papal rule, advocating for more equal governance, more welfare for the region and lesser restrictions.\n\nHis public piety and regular usage of Christian vocabulary has made it very hard for us to rid ourselves of the Kasa-Vubu shaped torn on our side, as demonstrations and strikes have become regular occurance in the Congo. "
+  TEF_Mission_of_Evangelization_Congo_desc: "The origins of Terra Franciscana lie within a mission of converting and elevating the Congolese people and drive them away from their senseless practices, and we have yet to abandon that most holy goal.\n\nThe goal to bring the New Testament into the very centre of Africa is already in progress, and many are already supporting the decision of the Holy Father; this has also allowed for many supporters for the Papal regime, regardless of social class or political affiliation, to unite under the common banner of Catholicism, strengthening the Papal regime. The holy religion of Catholicism is planned to become the most popular, if not the only one allowed, in the Papal Colony."
   TEF_Simonecellis_Vision_Congo_desc: "Apostolic Governor Pietro Simonecelli has dreamt of a newly modernized Terra Franciscana that not only remains faithful to the Catholic faith in Rome and its teachings of tolerance, mercy, and giving unto the poor, but would also bring about the introduction of modern science and technology unto the region, including railroads, Darwinian evolution, public education, affordable welfare, and a mass literacy program. He also wishes to desegregate society and introduce racial equality in order to fix the growing rift between the whites, Jews, and blacks that has long plagued the region since its establishment. After all, are we not all brothers and sisters in Christ? Of course, we will make sure to establish natural conservation preserves across this blessed country to protect the local wildlife while we bring the primitives living there out into civilized society and uplift them with the ways of Jesus Christ."
-  TEF_Tarzan_of_the_Apes_Congo_desc: "Deep within the wild, savage jungle of Terra Franciscana lies a an Anarcho-Primitivist movement led by the American-born Buster Crabbe, known among his followers and the indigenous black tribes as "Tarzan the Ape-Man," who left his old life as an American two-time Olympic swimmer, driven by the myth of the noble savage and his growing disillusion with both civilization and capitalism, and has now started a movement alongside like-mined young men and women of European stock who have grow sympathetic to the supposed plight of the natives. Already, these idealistic heretics have launched hit-and-run tactics upon vital mining operations and hampered our efforts in completing the evangelization of the region. Every now and then, especially during the night, there have been reports of wild hooting and shouting combined with the thundering sound of tribal drums and the blowing of horns as these once civilized people have danced around a fire and started making offerings to false idols made of wood. Unless things are done about it, our operations in the heart of Africa will be in grave danger."
-  TEF_The_Freest_Country_Congo_desc: ""
-
+  TEF_Tarzan_of_the_Apes_Congo_desc: "Deep within the wild, savage jungle of Terra Franciscana lies an Anarcho-Primitivist movement led by the American-born Buster Crabbe, known among his followers and the indigenous black tribes as "Tarzan the Ape-Man," who left his old life as an American two-time Olympic swimmer, driven by the myth of the noble savage and his growing disillusion with both civilization and capitalism, and has now started a movement alongside like-mined young men and women of European stock who have grow sympathetic to the supposed plight of the natives.\n\nAlready, these idealistic heretics have launched hit-and-run tactics upon vital mining operations and hampered our efforts in completing the evangelization of the region. Every now and then, especially during the night, there have been reports of wild hooting and shouting combined with the thundering sound of tribal drums and the blowing of horns as these once civilized people have danced around a fire and started making offerings to false idols made of wood.\n\n§RUnless things are done about it, our operations in the heart of Africa will be in grave danger.§!"
+  TEF_The_Freest_Country_Congo_desc: "The Congo..... The dark heart of Africa. A land filled with jungles, with rivers and streams, with the most exotic of creatures, with malaria infested mosquitos, with countless individual tribes with little hesitation for war and with only the bare minimum of influence over them... The Congo is one of the most unique and exotic territories in the whole wide world, attracting countless explorers, visitors and romantics; but also making stable governance a true testiment of perseverence and faith."
+  TEF_Kimbangus_Truth_Congo: "Kimbangu's Truth"
+  TEF_Kimbangus_Truth_Congo_desc: "Kimbangu and his fanatical cult of reactionaries have promoted a heretical sect of Christianity in which its founder is proclaimed the earthly embodiment of the Holy Spirit while falsely claiming to have performed miracle healings.\n\nThey cannot be reasoned with, as they made it abundantly clear that they reject our attempts at modernizing the region of Terra Franciscana and aim for nothing but the destruction of civilization and the bastardization of Christianity into a primitive, reactionary socialist mockery of God's word! And they even eschew science and technological innovation!\n\n§RUnless we find a means to crush these heathens, no good can come from it.§!"
   
 
   
   #focuses
+  TEF_Simonecellis_Vision: "Simonecelli's Vision"
+  TEF_Simonecellis_Vision_desc: "Apostolic Governor Pietro Simonecelli has ably led the Congo for years, achieving many of the aims of the Papal mission. Yet Simonecelli dreams of a grand Congo, educated, faithful, bountiful, modern... Simonecelli, for that purpose is planning on many investments, administrative and judicial reforms and negotiations to finally create a Congo worthy of its people!"
+  TEF_sword_of_the_shepherd: "Sword of the Shepherd"
+  TEF_shield_of_saint_michael: "Shield of Saint Michael"
+  TEF_on_the_hunt_for_ghosts: "On The Hunt for Ghosts"
+  TEF_missi_dominici: "Missi Dominici"
+  TEF_the_angelic_host: "The Angelic Host"
+  TEF_the_saint_smithy: "The Saint Smithy"
+  TEF_diplomatic_envoy_to_abyssinia: "Diplomatic Envoy to Abyssinia"
+  TEF_by_grace_and_concord: "By Grace and Concord"
+  TEF_voices_from_the_pulpit: "Voices from the Pulpit"
+  TEF_speak_to_the_ghosts: "Speak to the Ghosts"
+  TEF_divine_harmony_among_nations: "Divine Harmony among Nations"
+  TEF_monasteries_of_labor: "Monasteries of Labor"
+  TEF_fruits_of_the_sacred_soil: "Fruits of the Sacred Soil"  
+  TEF_divine_tools_earthly_gains: "Divine Tools; Earthly Gains"  
+  TEF_copper_for_the_cross: "Copper for the Cross"  
+  TEF_bread_from_blessed_land: "Bread from Blessed Land"  
+  TEF_the_missionary_rail_code: "The Missionary Railroad"  
+  TEF_the_congo_transiguration_plan: "The Congo Transfiguration Plan"
+  TEF_talk_to_kasa: "Talk to Kasa-Vubus"
+  
+  #Party names
+  TEF_theocratical_party: "DMC"
+  TEF_theocratical_party_long: "Divine Mandate of the Congo"
+  
+  TEF_classical_nationalism_party: "CPLC"
+  TEF_classical_nationalism_party_long: "Congo for the Congolese"
+  
+  TEF_anarchism_party: "CFT"
+  TEF_anarchism_party_long: "Council of Free Tribes"
+  
+  TEF_monarchism_party: "RUGL"
+  TEF_monarchism_party_long: "Royal Union of the Great Lakes"
+  
+  TEF_state_humanism_party: "PHL"
+  TEF_state_humanism_party_long: "Progressive Humanist League"
+  
+  TEF_accelerationism_party: "Waziri"
+  TEF_accelerationism_party_long: "Waziri"
+  
+  #Events
+  terra_franciscana.1.t: "A Most Pious Task"
+  terra_franciscana.1.d: "The Congo is a destitude land. It is a far away, foreign land. It is filled with millions of blacks devoid of the necessities of modern life; refrigerators, schools, hospitals.... When Pietro Simonecelli sees the assembled congregation, he sees men broken down from the harshness of the Congolese life. He sees children whom have grown skinny from hunger. He sees so many people with work injuries that, it reminds him of the descriptions of the Great War from the French veterans.\n\n"In the name of the Father and of the Son of the Holy Spirit. My dear brothers and sisters in the Risen Lord, it is with sadness that I greet Christ's faithful on this holy day. You blessed few are amongst the downtrodden, the meek and the forgotten, forsaken by all earthly forces. As a bishop of His Holyness the Pope, it is my holy task to lead the confused into the light of faith, yet how can men focus on prayer when his belly remains empty? I ask for forgiveness from you as the supposed shepherd of the Congolese people in all matters of state and faith. Yet rejoice, for as God have so often delivered grace to his faithfull, so shall he deliver you food, comfort and safety. With this I shall now recite from the Holy Bible, Matthews chapter 11:42...""
+  terra_franciscana.1.a: ""

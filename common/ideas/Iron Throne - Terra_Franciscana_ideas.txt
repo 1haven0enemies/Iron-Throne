@@ -11,6 +11,13 @@ ideas = {
 			removal_cost = -1
 			picture = TEF_Ghosts_in_the_Jungle_Congo
 			modifier = {
+				army_core_attack_factor = -0.1
+				army_core_defence_factor = -0.1
+				political_power_gain = -0.15
+				stability_factor = -0.10
+				conscription_factor = -0.01
+				production_speed_buildings_factor = -0.10
+				resistance_target = 0.25
 			}
 		}
 		TEF_Kasa-Vubus_Influence_Congo = {
@@ -24,6 +31,10 @@ ideas = {
 			removal_cost = -1
 			picture = TEF_Kasa-Vubus_Influence_Congo
 			modifier = {
+				political_power_gain = 0.10
+				compliance_growth = 0.05
+				resistance_target = 0.10
+				
 			}
 		}
 		TEF_Mission_of_Evangelization_Congo = {
@@ -37,6 +48,12 @@ ideas = {
 			removal_cost = -1
 			picture = TEF_Mission_of_Evangelization_Congo
 			modifier = {
+				political_power_gain = 0.10
+				stability_factor = 0.05
+				compliance_growth = 0.10
+				conscription_factor = 0.03
+				resistance_target = -0.10
+				army_org_factor = 0.05
 			}
 		}
 		TEF_Simonecellis_Vision_Congo = {
@@ -50,6 +67,11 @@ ideas = {
 			removal_cost = -1
 			picture = TEF_Simonecellis_Vision_Congo
 			modifier = {
+				resistance_target = -0.10
+				compliance_gain = 0.03
+				production_speed_industrial_complex_factor = 0.10
+				research_speed_factor = 0.05
+				weekly_manpower = 200
 			}
 		}
 		TEF_Tarzan_of_the_Apes_Congo = {
@@ -63,7 +85,12 @@ ideas = {
 			removal_cost = -1
 			picture = TEF_Tarzan_of_the_Apes_Congo
 			modifier = {
-			}
+				production_speed_infrastructure_factor = -0.10
+				local_resources_factor = -0.15
+				resistance_target = 0.20
+				enemy_operative_detection_chance = -10
+				land_night_attack = 0.10
+			}   
 		}
 		
 		TEF_The_Freest_Country_Congo = {
@@ -77,6 +104,25 @@ ideas = {
 			removal_cost = -1
 			picture = TEF_The_Freest_Country_Congo
 			modifier = {
+				production_speed_industrial_complex_factor = -0.10
+				production_speed_infrastructure_factor = -0.15 
+				consumer_goods_factor = 0.10
+				research_speed_factor = -0.10
+				trade_opinion_factor = -0.10
+			}
+		}
+		TEF_Kimbangus_Truth_Congo = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TEF_Kimbangus_Truth_Congo" }
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			picture = TEF_Kimbangus_Truth_Congo
+			modifier = {
+			
 			}
 		}
 	}

@@ -1,0 +1,567 @@
+focus_tree = {
+	id = Iron_Throne_ITA_Focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = TEF
+		}
+	}
+	
+	default = no
+	
+	focus = {
+	    id = TEF_Simonecellis_Vision
+		icon = GFX_goal_TEF_Simonecellis_Vision
+		x = 7
+		y = 0
+	
+		cost = 5
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			country_event = {
+				id = terra_franciscana.1
+			}
+			add_ideas = {
+				TEF_Simonecellis_Vision_Congo
+			}
+			
+		}
+	}
+	focus = {
+	    id = TEF_sword_of_the_shepherd
+		icon = GFX_goal_TEF_Sword_of_the_Shepherd
+		x = -5
+		y = 1
+		relative_position_id = TEF_Simonecellis_Vision
+		cost = 5
+		
+		prerequisite = { focus = TEF_Simonecellis_Vision }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_shield_of_saint_michael
+		icon = GFX_goal_TEF_Shield_of_Saint_Michael
+		x = 0
+		y = 2
+		relative_position_id = TEF_sword_of_the_shepherd
+		cost = 5
+		
+		prerequisite = { focus = TEF_sword_of_the_shepherd }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_on_the_hunt_for_ghosts
+		icon = GFX_goal_TEF_on_the_hunt_for_ghosts
+		x = 2
+		y = 0
+		relative_position_id = TEF_sword_of_the_shepherd
+		cost = 5
+		
+		prerequisite = { focus = TEF_Simonecellis_Vision }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_missi_dominici
+		icon = GFX_goal_TEF_Missi_Dominici
+		x = 0
+		y = 2
+		relative_position_id = TEF_on_the_hunt_for_ghosts
+		cost = 5
+		
+		prerequisite = { focus = TEF_on_the_hunt_for_ghosts }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_the_angelic_host
+		icon = GFX_goal_TEF_The_Angelic_Host
+		x = 1
+		y = 1
+		relative_position_id = TEF_shield_of_saint_michael
+		cost = 5
+		
+		prerequisite = { focus = TEF_missi_dominici }
+		prerequisite = { focus = TEF_shield_of_saint_michael }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_the_saint_smithy
+		icon = GFX_goal_TEF_The_Saints_Smithy
+		x = 0
+		y = 1
+		relative_position_id = TEF_the_angelic_host
+		cost = 5
+		
+		prerequisite = { focus = TEF_the_angelic_host }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+	    id = TEF_diplomatic_envoy_to_abyssinia
+		icon = GFX_goal_TEF_diplomatic_envoy_to_abyssinia
+		x = 0
+		y = 2
+		relative_position_id = TEF_Simonecellis_Vision
+		cost = 5
+		
+		prerequisite = { focus = TEF_Simonecellis_Vision }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_by_grace_and_concord
+		icon = GFX_goal_TEF_by_grace_and_concord
+		x = -1
+		y = 1
+		relative_position_id = TEF_diplomatic_envoy_to_abyssinia
+		cost = 5
+		
+		prerequisite = { focus = TEF_diplomatic_envoy_to_abyssinia }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_voices_from_the_pulpit
+		icon = GFX_goal_TEF_voices_from_the_pulpit
+		x = 0
+		y = 1
+		relative_position_id = TEF_by_grace_and_concord
+		cost = 5
+		
+		prerequisite = { focus = TEF_by_grace_and_concord }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_speak_to_the_ghosts
+		icon = GFX_goal_TEF_speak_to_the_ghosts
+		x = 2
+		y = 0
+		relative_position_id = TEF_by_grace_and_concord
+		cost = 5
+		
+		prerequisite = { focus = TEF_diplomatic_envoy_to_abyssinia }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_divine_harmony_among_nations
+		icon = GFX_goal_TEF_divine_harmony_among_nations
+		x = 0
+		y = 1
+		relative_position_id = TEF_speak_to_the_ghosts
+		cost = 5
+		
+		prerequisite = { focus = TEF_speak_to_the_ghosts }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+	    id = TEF_fruits_of_the_sacred_soil
+		icon = GFX_goal_TEF_fruits_of_the_sacred_soil
+		x = 4
+		y = 1
+		relative_position_id = TEF_Simonecellis_Vision
+		cost = 5
+		
+		prerequisite = { focus = TEF_Simonecellis_Vision }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_monasteries_of_labor
+		icon = GFX_goal_TEF_monasteries_of_labor
+		x = 0
+		y = 1
+		relative_position_id = TEF_fruits_of_the_sacred_soil
+		cost = 5
+		
+		prerequisite = { focus = TEF_fruits_of_the_sacred_soil }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_divine_tools_earthly_gains
+		icon = GFX_goal_TEF_divine_tools_and_earthly_gains
+		x = -1
+		y = 1
+		relative_position_id = TEF_monasteries_of_labor
+		cost = 5
+		
+		prerequisite = { focus = TEF_monasteries_of_labor }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_copper_for_the_cross
+		icon = GFX_goal_TEF_copper_for_the_cross
+		x = 0
+		y = 1
+		relative_position_id = TEF_divine_tools_earthly_gains
+		cost = 5
+		
+		prerequisite = { focus = TEF_divine_tools_earthly_gains }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_bread_from_blessed_land
+		icon = GFX_goal_TEF_bread_from_blessed_land
+		x = 1
+		y = 1
+		relative_position_id = TEF_monasteries_of_labor
+		cost = 5
+		
+		prerequisite = { focus = TEF_monasteries_of_labor }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_the_missionary_rail_code
+		icon = GFX_goal_TEF_the_missionary_railroad
+		x = 0
+		y = 1
+		relative_position_id = TEF_bread_from_blessed_land
+		cost = 5
+		
+		prerequisite = { focus = TEF_bread_from_blessed_land }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+	    id = TEF_the_congo_transiguration_plan
+		icon = GFX_goal_TEF_the_congo_transfiguration_plan
+		x = 1
+		y = 1
+		relative_position_id = TEF_copper_for_the_cross
+		cost = 5
+		
+		prerequisite = { focus = TEF_copper_for_the_cross}
+		prerequisite = { focus = TEF_the_missionary_rail_code}
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+	    id = TEF_talk_to_kasa
+		icon = GFX_goal_TEF_talk_to_kasa
+		x = 1
+		y = 2
+		relative_position_id = TEF_voices_from_the_pulpit
+		cost = 5
+		
+		prerequisite = { focus = TEF_voices_from_the_pulpit }
+		prerequisite = { focus = TEF_the_saint_smithy }
+		prerequisite = { focus = TEF_divine_harmony_among_nations }
+		prerequisite = { focus = TEF_the_congo_transiguration_plan }
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+			
+		}
+	}
+}

@@ -23,4 +23,8 @@ spriteTypes = {
 		name = "GFX_idea_TEF_The_Freest_Country_Congo"
 		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_The_Freest_Country_Congo.png"
 	}
+	spriteType = {
+		name = "GFX_idea_TEF_Kimbangus_Truth_Congo"
+		texturefile = "gfx/interface/ideas/national_spirits/Africa/TEF/TEF_Kimbangus_Truth_Congo.png"
+	}
 }

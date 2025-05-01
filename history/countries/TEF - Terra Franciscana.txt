@@ -4,6 +4,12 @@ set_oob = "COG_1936"
 set_variable = {currentdualleader = 1 }
 set_country_flag = unique_first_title
 recruit_character = TEF_Pietro_Simonecelli
+recruit_character = TEF_Buster_Crabbe
+recruit_character = TEF_Paul_Panda_Farnana
+recruit_character = TEF_Mwami_Mwambutsa_iv
+recruit_character = TEF_Congolese_Native_Tribes
+recruit_character = TEF_Joseph_Kasa_Vubu
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -18,10 +24,10 @@ set_technology = {
 add_ideas = {
 	TEF_Mission_of_Evangelization_Congo
     TEF_Ghosts_in_the_Jungle_Congo
-    TEF_Simonecellis_Vision_Congo
     TEF_Tarzan_of_the_Apes_Congo
     TEF_The_Freest_Country_Congo
     TEF_Kasa-Vubus_Influence_Congo
+	TEF_Kimbangus_Truth_Congo
 }
 ### Set Base Values ###
 set_war_support = 0.4 
@@ -35,6 +41,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	theocratical = 80
-	progressivism = 20
+	theocratical = 40
+	classical_nationalism = 26
+	anarchism = 15
+	monarchism = 10
+	state_humanism = 5
+	accelerationism = 4
 }

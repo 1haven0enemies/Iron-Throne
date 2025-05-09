@@ -16,12 +16,10 @@ state = {
 			industrial_complex = 1
 			air_base = 1
 			}
-		}
-		
 	}
 
 	provinces = {
-		4088 7176 11970 4161 11979
+		4088 7176 11970 4161 11979 
 	}
 
 	local_supplies = 0.0 

@@ -1,0 +1,2396 @@
+ideologies = {
+
+	accelerationism = {
+
+		types = {
+
+			anarcho_absurdism  = {
+			}
+
+            anarcho_primitivism  = {
+			}
+
+			anarcho_surrealism = {
+			}
+
+            apocalypticism  = {
+			}
+
+            ascensionism  = {
+			}
+
+            avant_garde_nationalism  = {
+			}
+
+            cosmicism  = {
+			}
+
+			futurism  = {
+			}
+
+			hegemonism  = {
+			}
+
+            marxist_accelerationism = {
+            }
+
+            marxist_gastevism  = {
+			}
+
+			nouvelle_revolution_nationale  = {
+			}
+
+			oligarchal_collectivism = {
+			}
+
+            plaisirism = {
+			}
+
+			premillennialism = {
+			}
+
+            social_darwinism  = {
+			}
+
+			spiritualist_collectivism  = {
+			}
+
+			state_isolationism  = {
+			}
+
+            ultramilitarism = {
+			}
+
+			utopian_feudalism  = {
+			}
+
+            volkisch_primitivism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 35 190 255 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    state_humanism = {
+
+		types = {
+
+			arab_humanism  = {
+			}
+
+            atheistic_warlordism  = {
+			}
+
+			biological_statism = {
+			}
+
+            communitarian_humanism  = {
+			}
+
+            conservational_humanism  = {
+			}
+
+            einsteinism  = {
+			}
+
+            enlightened_despotism = {
+			}
+
+            enlightened_oligarchy = {
+			}
+
+			eurohumanism  = {
+			}
+
+			humean_republicanism  = {
+			}
+
+            huxleyism = {
+            }
+
+            lysenkoism  = {
+			}
+
+			malthusian_statism  = {
+			}
+
+			mentzelite_national_socialism = {
+			}
+
+            militant_atheism = {
+			}
+
+			monumentalism = {
+			}
+
+            neo_mohism  = {
+			}
+
+            palingenetic_humanism  = {
+			}
+
+            popular_atheism  = {
+			}
+
+            promethean_technocracy  = {
+			}
+
+            rational_aristocracy  = {
+			}
+
+            rational_corporatism  = {
+			}
+
+            rational_democracy  = {
+			}
+
+            rondonism  = {
+			}
+
+            scientific_utopianism  = {
+			}
+
+			scientific_feminism  = {
+			}
+
+            secular_zionism  = {
+			}
+
+			societalism  = {
+			}
+
+            state_deism = {
+			}
+
+			teslaism = {
+			}
+
+            unitary_technocracy  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 54 54 54 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+    
+    communism = {
+
+		types = {
+
+			archeio_marxism  = {
+			}
+
+            barracks_communism  = {
+			}
+
+			bordigism = {
+			}
+
+            bukharinism  = {
+			}
+
+            centrist_marxism  = {
+			}
+
+            christian_communism  = {
+			}
+
+            council_communism  = {
+			}
+
+			democratic_marxism  = {
+			}
+
+			hardliner_leninism  = {
+			}
+
+            indigenous_marxism = {
+            }
+
+            islamobolshevism  = {
+			}
+
+			juche  = {
+			}
+
+			luxemburgism = {
+			}
+
+            maoism = {
+			}
+
+			mariateguismo  = {
+			}
+
+            marxist_bundism  = {
+			}
+
+			marxist_heathenism  = {
+			}
+
+			marxist_jacobinism  = {
+			}
+
+            marxist_leninism = {
+			}
+
+			national_bolshevism  = {
+			}
+
+            national_communism  = {
+			}
+
+            orthodox_marxism  = {
+			}
+
+			red_futurism  = {
+			}
+
+            rykovism  = {
+			}
+
+            sarvodaya_socialism = {
+			}
+
+            securocratic_communism = {
+			}
+
+            spartacism = {
+			}
+
+            stalinism = {
+			}
+
+            stratocratic_communism = {
+			}
+
+            syndical_bolshevism = {
+			}
+
+			tkachevism  = {
+			}
+
+            trotskyism  = {
+			}
+
+            western_marxism  = {
+			}
+
+            vanguardism  = {
+			}
+
+            zinovievism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 153 10 10 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+    
+    reactionary_socialism = {
+
+		types = {
+
+			authenticism  = {
+			}
+
+			byzantine_socialism  = {
+			}
+
+			celestial_socialism = {
+			}
+
+			fitzhughism  = {
+			}
+
+			georgian_socialism  = {
+			}
+
+            germanic_socialism = {
+            }
+
+			isigodism  = {
+			}
+
+			left_integralism = {
+			}
+
+            left_islamism = {
+			}
+
+			luddite_socialism  = {
+			}
+
+			mazdakite_socialism  = {
+			}
+
+			monarcho_syndicalism  = {
+			}
+
+			mormon_socialism  = {
+			}
+
+            pagan_socialism = {
+			}
+
+			platonic_socialism  = {
+			}
+
+			reactionary_indigenous_communitarianism  = {
+			}
+
+            reactionary_monarcho_socialism = {
+			}
+
+            red_shogunism = {
+			}
+
+			spenglerism  = {
+			}
+
+            volkisch_communitarianism  = {
+			}
+
+            xiquanism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 112 1 1 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    revolutionary_socialism = {
+
+		types = {
+
+			agrarian_socialism  = {
+			}
+
+			autocratic_socialism  = {
+			}
+
+            barracks_socialism  = {
+			}
+
+			black_nationalism = {
+			}
+
+            buddhist_socialism  = {
+			}
+
+            centralized_syndicalism  = {
+			}
+
+            crony_socialism  = {
+			}
+
+            custodian_socialism  = {
+			}
+
+			de_leonism  = {
+			}
+
+			developing_socialism  = {
+			}
+
+            guild_socialism = {
+            }
+
+            indigenous_communitarianism  = {
+			}
+
+			islamic_socialism  = {
+			}
+
+			lassallism = {
+			}
+
+            left_internationalism = {
+			}
+
+			left_nationalism  = {
+			}
+
+            left_wing_tridemism  = {
+			}
+
+			machiavellian_socialism  = {
+			}
+
+			mafioso_socialism  = {
+			}
+
+            maximato = {
+			}
+
+			negritude  = {
+			}
+
+            paternal_socialism  = {
+			}
+
+			radical_democratic_socialism  = {
+			}
+
+            rational_socialism  = {
+			}
+
+            red_constitutional_dictatorship = {
+			}
+
+            red_jacobinism = {
+			}
+
+            red_military_dictatorship = {
+			}
+
+            red_social_credit = {
+			}
+
+            red_warlordism = {
+			}
+
+            revolutionary_christian_socialism = {
+			}
+
+			revolutionary_narodism  = {
+			}
+
+            revolutionary_zionism  = {
+			}
+
+            sandinismo  = {
+			}
+
+			showa_socialism  = {
+			}
+
+            sinclairism  = {
+			}
+
+            sorelianism  = {
+			}
+
+            stratocratic_socialism  = {
+			}
+
+            syndicalism  = {
+			}
+
+            technocratic_socialism  = {
+			}
+
+            tribal_socialism  = {
+			}
+
+            utopian_socialism  = {
+			}
+
+            workerism  = {
+			}
+
+            zapatismo  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 255 10 10 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+    
+    progressivism = {
+
+		types = {
+
+			austromarxism  = {
+			}
+
+			bernsteinism  = {
+			}
+
+			christian_humanism = {
+			}
+
+            christian_socialism = {
+			}
+
+            democratic_socialism = {
+			}
+
+			fabianism  = {
+			}
+
+			georgism  = {
+			}
+
+			jadidism  = {
+			}
+
+			jewish_left = {
+			}
+
+            labour_democracy = {
+			}
+
+			left_wing_populism  = {
+			}
+
+			left_sikh_democracy  = {
+			}
+
+			liberal_socialism  = {
+			}
+
+			longism  = {
+			}
+
+            market_socialism = {
+			}
+
+			meritocracy  = {
+			}
+
+			narodism  = {
+			}
+
+            parrotism = {
+			}
+
+            progressive_corporatism = {
+			}
+
+			progressive_hindusim  = {
+			}
+
+            progressive_sichism  = {
+			}
+
+            progressive_technocracy  = {
+			}
+
+            quacker_socialism  = {
+			}
+
+            radical_progressivism = {
+			}
+
+            radical_social_liberalism  = {
+			}
+
+            reformed_getulioism  = {
+			}
+
+            revisionist_marxism  = {
+			}
+
+            social_agrarianism  = {
+			}
+
+            social_catholicism  = {
+			}
+
+            social_democracy  = {
+			}
+
+            social_gospel  = {
+			}
+
+            social_nationalism  = {
+			}
+
+            social_nationalism  = {
+			}
+
+            social_warlordism  = {
+			}
+
+            vardamanism  = {
+			}
+
+            zionist_socialism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 248 101 139 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+    
+    liberalism = {
+
+		types = {
+
+			classical_liberalism  = {
+			}
+
+			constitutionalism  = {
+			}
+
+			dynastic_liberalism  = {
+			}
+
+			liberal_centrism  = {
+			}
+
+			liberal_conservatism  = {
+			}
+
+			liberal_internationalism  = {
+			}
+
+			liberal_oligarchism = {
+			}
+
+			muscular_liberalism  = {
+			}
+
+			national_liberalism  = {
+			}
+
+			ordoliberalism  = {
+			}
+
+			radical_liberalism  = {
+			}
+
+			social_liberalism  = {
+			}
+
+			technoliberalism  = {
+			}
+
+			zionist_liberalism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 255 144 10 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    economic_liberalism = {
+
+		types = {
+
+			agrarian_capitalism  = {
+			}
+
+			anarcho_capitalism  = {
+			}
+
+			austrian_school  = {
+			}
+
+			christian_libertarianism  = {
+			}
+
+			distributism  = {
+			}
+
+			economic_darwinism  = {
+			}
+
+			fiscal_conservatism = {
+			}
+
+			free_market_centrism  = {
+			}
+
+			free_market_democracy  = {
+			}
+
+            free_market_nationalism  = {
+			}
+
+			free_market_nordic_model  = {
+			}
+
+			liberal_corporatism  = {
+			}
+
+			libertarianism  = {
+			}
+
+			market_populism  = {
+			}
+
+            mercantile_oligarchy  = {
+			}
+
+            objectivism  = {
+			}
+
+            progressive_capitalism  = {
+			}
+
+			social_capitalism  = {
+			}
+
+            social_libertarianism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 255 210 10 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+	conservatism = {
+
+		types = {
+
+			agrarian_conservatism = {
+			}
+
+			american_christian_right  = {
+			}
+
+			aristocratic_conservatism  = {
+			}
+
+			christian_democracy  = {
+			}
+
+			christian_technocracy  = {
+			}
+
+			conservative_corporatism  = {
+			}
+
+			conservative_getulioism  = {
+			}
+
+			conservative_liberalism  = {
+			}
+
+			conservative_oligarchism  = {
+			}
+
+			conservative_populism  = {
+			}
+
+			conservative_warlordism  = {
+			}
+
+			hindu_democracy  = {
+			}
+
+			islamic_democracy  = {
+			}
+
+			libertarian_conservatism  = {
+			}
+
+			moderate_authoritarianism  = {
+			}
+
+			national_conservatism  = {
+			}
+
+			paternalistic_conservatism  = {
+			}
+
+			progressive_conservatism  = {
+			}
+
+			quaker_conservatism = {
+			}
+
+			right_sikh_democracy  = {
+			}
+
+			tribal_republicanism = {
+			}
+
+			toryism = {
+			}
+
+			zionist_conservatism = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 20 78 224 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    authoritarianism = {
+
+		types = {
+
+			anocracy  = {
+			}
+
+			aristocratic_republicanism  = {
+			}
+
+			authoritarian_christian_democracy  = {
+			}
+
+            authoritarian_democracy  = {
+			}
+
+            authoritarian_islamic_democracy  = {
+			}
+
+			authoritarian_longism  = {
+			}
+
+			caponian_autocracy  = {
+			}
+
+			caudillo_populism  = {
+			}
+
+            chiang_kai_shek_thought  = {
+			}
+
+			classical_totalitarianism  = {
+			}
+
+            clerical_autocracy  = {
+			}
+
+			colonial_government  = {
+			}
+
+			constitutional_dictatorship  = {
+			}
+
+			controlled_democracy  = {
+			}
+
+			corporatocracy  = {
+			}
+
+			despotism  = {
+			}
+
+            feudalism  = {
+			}
+
+			filibusterism  = {
+			}
+
+			imperial_presidentialism  = {
+			}
+
+            interim_government  = {
+			}
+
+            kemalism  = {
+			}
+
+            kleptocracy  = {
+			}
+
+            kritarchy  = {
+			}
+
+            macarthurism  = {
+			}
+
+			mafia_statism  = {
+			}
+
+			managerial_statism  = {
+			}
+
+			military_dictatorship  = {
+			}
+
+            oligarchy  = {
+			}
+
+            partisan_movement  = {
+			}
+
+            pirate_republicanism  = {
+			}
+
+            provisional_government  = {
+			}
+
+			regency  = {
+			}
+
+			sich_democracy  = {
+			}
+
+			social_authoritarianism = {
+			}
+
+            social_credit  = {
+			}
+
+            technocracy  = {
+			}
+
+            technocratic_capitalism  = {
+			}
+
+            totalitarian_capitalism  = {
+			}
+
+            traditional_populism  = {
+			}
+
+            transitioning_democracy  = {
+			}
+
+            tribal_despotism  = {
+			}
+
+			triumvirate  = {
+			}
+
+            trumpism  = {
+			}
+
+            wang_jingwei_thought  = {
+			}
+
+			warlordism = {
+			}
+
+			xunzheng = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 125 125 125 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    monarchism = {
+
+		types = {
+
+			american_caesarism  = {
+			}
+
+			american_monarchism  = {
+			}
+
+			bonapartism  = {
+			}
+
+            byzantine_restorationism  = {
+			}
+
+            carlism  = {
+			}
+
+			classical_absolutism = {
+			}
+
+			constitutional_monarchism  = {
+			}
+
+            cossack_hetmanate  = {
+			}
+
+			celtic_kingship  = {
+			}
+
+			dual_monarchism  = {
+			}
+
+			elective_monarchism  = {
+			}
+
+			enlightened_absolutism  = {
+			}
+
+            ethnarchy  = {
+			}
+
+			federal_monarchism = {
+			}
+
+			free_market_absolutism  = {
+			}
+
+            hegemonic_absolutism  = {
+			}
+
+            ilyinism  = {
+			}
+
+            jagiellonian_revivalism  = {
+			}
+
+			longist_monarchism  = {
+			}
+
+			managerial_absolutism = {
+			}
+
+			monarcho_socialism  = {
+			}
+
+            neo_imperial_federalism  = {
+			}
+
+            pan_european_monarchism  = {
+			}
+
+            reactionary_absolutism  = {
+			}
+
+			semi_theocratic_monarchism = {
+			}
+
+			showa_state_capitalism = {
+			}
+
+            showa_statism  = {
+			}
+
+            showa_technocracy  = {
+			}
+
+            social_absolutism  = {
+			}
+
+            stratocratic_absolutism  = {
+			}
+
+            tetrarchy  = {
+			}
+
+            theocratic_absolutism  = {
+			}
+
+            tory_absolutism  = {
+			}
+
+            wrangelism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 159 10 242 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    theocratical = {
+
+		types = {
+
+			animist_theocracy  = {
+			}
+
+			bahai_theocracy  = {
+			}
+
+			buddhist_theocracy  = {
+			}
+
+            calvinist_theocracy  = {
+			}
+
+            catholic_theocracy  = {
+			}
+
+			christian_fundamentalism  = {
+			}
+
+			confucian_theocracy = {
+			}
+
+			druidic_theocracy  = {
+			}
+
+            druze_theocracy  = {
+			}
+
+			eastern_orthodox_theocracy  = {
+			}
+
+            hasidic_theocracy  = {
+			}
+
+			hermetic_theocracy  = {
+			}
+
+			hindu_theocracy  = {
+			}
+
+			ibadi_theocracy  = {
+			}
+
+			islamism = {
+			}
+
+			jain_theocracy  = {
+			}
+
+            jewish_theocracy  = {
+			}
+
+			lutheran_theocracy = {
+			}
+
+			neo_catharism = {
+			}
+
+			oriental_orthodox_theocracy  = {
+			}
+
+            pagan_theocracy  = {
+			}
+
+            puritanism = {
+			}
+
+            santeria_theocracy  = {
+			}
+
+            shamanistic_theocracy  = {
+			}
+
+            shia_theocracy  = {
+			}
+
+			sikh_theocracy  = {
+			}
+
+			state_shintoism  = {
+			}
+
+			sunni_theocracy  = {
+			}
+
+            theodemocracy  = {
+			}
+
+            theostratocracy  = {
+			}
+
+            voodoo_theocracy  = {
+			}
+
+            zoroastrian_theocracy  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 195 195 195 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    primordialism = {
+
+		types = {
+
+			anthroposophy  = {
+			}
+
+			ariosophy  = {
+			}
+
+			black_esotericism  = {
+			}
+
+            dark_romanticism  = {
+			}
+
+            death_worship  = {
+			}
+
+			esoteric_darwinism  = {
+			}
+
+			esotetric_populism = {
+			}
+
+			esoteric_socialism  = {
+			}
+
+            esoteric_totalitarianism  = {
+			}
+
+			evolaism  = {
+			}
+
+            gnostic_collectivism  = {
+			}
+
+			gnostic_theocracy  = {
+			}
+
+			hindutva  = {
+			}
+
+			huitzilopochtli_cult  = {
+			}
+
+			hyperboreanism = {
+			}
+
+			hyperborean_vitalism  = {
+			}
+
+            kabbalistic_theocracy  = {
+			}
+
+			leopard_society = {
+			}
+
+			lovecraftism  = {
+			}
+
+            masonic_oligarchy  = {
+			}
+
+            national_mysticism = {
+			}
+
+            neo_folkism  = {
+			}
+
+            roerichism  = {
+			}
+
+            rosicrucianism  = {
+			}
+
+			sanguism  = {
+			}
+
+			satanism  = {
+			}
+
+			scythianism  = {
+			}
+
+            spiritualist_movement  = {
+			}
+
+            thelema  = {
+			}
+
+            theosophy  = {
+			}
+
+            volkism  = {
+			}
+
+            wiccan_theocracy  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 59 10 90 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    classical_nationalism = {
+
+		types = {
+
+			agrarian_nationalism  = {
+			}
+
+			aristocratic_nationalism  = {
+			}
+
+			austropopulism  = {
+			}
+
+            buddhist_nationalism  = {
+			}
+
+            chetnik_nationalism  = {
+			}
+
+			christian_nationalism  = {
+			}
+
+			civic_nationalism = {
+			}
+
+			classical_pharaohism  = {
+			}
+
+            clerical_national_romanticism  = {
+			}
+
+			confucian_nationalism  = {
+			}
+
+            ethnic_nationalism  = {
+			}
+
+			flemish_movement  = {
+			}
+
+			hispanism = {
+			}
+
+			islamic_nationalism  = {
+			}
+
+			indigenous_nationalism = {
+			}
+
+			integralism = {
+			}
+
+            klan_nationalism  = {
+			}
+
+			martial_neo_paganism = {
+			}
+
+			maurrassisme  = {
+			}
+
+            metaxism  = {
+			}
+
+            monarcho_legionism = {
+			}
+
+            nation_of_islam  = {
+			}
+
+            national_carlism  = {
+			}
+
+            national_capitalism  = {
+			}
+
+            national_catholicism  = {
+			}
+
+            national_democracy  = {
+			}
+
+            national_feudalism  = {
+			}
+
+            national_populism  = {
+			}
+
+            national_romanticism  = {
+			}
+
+            national_salvation_movement  = {
+			}
+
+            nationalist_warlordism  = {
+			}
+
+			nordicism  = {
+			}
+
+			panchayat_system  = {
+			}
+
+			patriot_populism  = {
+			}
+
+            reactionary_modernism  = {
+			}
+
+            reactionary_nationalism  = {
+			}
+
+            religious_zionism  = {
+			}
+
+            right_wing_populism  = {
+			}
+
+            sanationism  = {
+			}
+
+            sikh_nationalism  = {
+			}
+
+            solidarism  = {
+			}
+
+            tseghakronism  = {
+			}
+
+            zionism = {
+			}
+
+            zoroastrian_national_revivalism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 134 80 16 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    revolutionary_nationalism = {
+
+		types = {
+
+			anti_colonialism  = {
+			}
+
+			baathism  = {
+			}
+
+			bolivarianism  = {
+			}
+
+            bulgarian_legionarism  = {
+			}
+
+            clerical_national_jacobinism  = {
+			}
+
+			deseret_nationalism  = {
+			}
+
+			falangism = {
+			}
+
+			green_chauvinism  = {
+			}
+
+            iberonationalism  = {
+			}
+
+			identitarianism  = {
+			}
+
+            karbyshevism  = {
+			}
+
+			legionary_national_jacobinism  = {
+			}
+
+			libertarian_nationalism = {
+			}
+
+			mexicayotl  = {
+			}
+
+			monarcho_falangism = {
+			}
+
+			mosleyism = {
+			}
+
+            national_bonapartism  = {
+			}
+
+			national_jacobinism = {
+			}
+
+			national_radicalism  = {
+			}
+
+            national_syndicalism  = {
+			}
+
+            neo_kemalism = {
+			}
+
+            noirisme  = {
+			}
+
+            palingenetic_national_capitalism  = {
+			}
+
+            pan-celticism  = {
+			}
+
+            pelleyism  = {
+			}
+
+            peronism  = {
+			}
+
+            primal_feminism  = {
+			}
+
+            revisionist_maximalism  = {
+			}
+
+            revolution_nationale  = {
+			}
+
+            saadehism  = {
+			}
+
+            savinkovism  = {
+			}
+
+			synarchism  = {
+			}
+
+			techno_falangism  = {
+			}
+
+			volkische_jacobinism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 56 32 4 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+    }
+
+    racial_darwinism = {
+
+		types = {
+
+			agrarian_national_socialism  = {
+			}
+
+			anarcho_volkism  = {
+			}
+
+			anglo_saxon_supremacy  = {
+			}
+
+            aryan_futurism = {
+			}
+
+            black_darwinism  = {
+			}
+
+			clerical_national_eurasianism  = {
+			}
+
+			clerical_national_socialism = {
+			}
+
+			codreanuism  = {
+			}
+
+            darwinian_synarchism  = {
+			}
+
+			drexlerite_national_socialism  = {
+			}
+
+            esoteric_national_caesarism  = {
+			}
+
+			esoteric_national_socialism  = {
+			}
+
+			finnodarwinism = {
+			}
+
+			franco_darwinism  = {
+			}
+
+			han_darwinism = {
+			}
+
+			hellenic_darwinism = {
+			}
+
+            hindu_national_socialism  = {
+			}
+
+			ilminism = {
+			}
+
+			imperial_national_socialism  = {
+			}
+
+            messianic_national_socialism  = {
+			}
+
+            national_caesarism = {
+			}
+
+            national_eurasianism  = {
+			}
+
+            national_pharaohism  = {
+			}
+
+            neo_qing_system  = {
+			}
+
+            orthodox_national_socialism  = {
+			}
+
+            phibunism  = {
+			}
+
+			progressive_national_socialism = {
+			}
+
+            rosenberg_system  = {
+			}
+
+            showa_national_socialism  = {
+			}
+
+            slavo_aryanism  = {
+			}
+
+            stratocratic_national_socialism  = {
+			}
+
+            strasserism  = {
+			}
+
+			technocratic_national_socialism  = {
+			}
+
+			tsarist_national_eurasianism  = {
+			}
+
+			turanism  = {
+			}
+
+            ustaseism  = {
+			}
+
+            white_darwinism  = {
+			}
+
+            zadruga  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 30 107 30 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+
+    anarchism = {
+
+		types = {
+
+			anarcho_bolshevism  = {
+			}
+
+            anarcho_communism  = {
+			}
+
+			anarcho_falangism = {
+			}
+
+            anarcho_hinduism  = {
+			}
+
+            anarcho_individualism  = {
+			}
+
+            anarcho_syndicalism  = {
+			}
+
+            aristocratic_anarchism  = {
+			}
+
+			black_anarchism  = {
+			}
+
+			buddhist_anarchism  = {
+			}
+
+            christian_anarchism = {
+            }
+
+            collective_anarchism  = {
+			}
+
+			illegalism  = {
+			}
+
+			islamic_anarchism = {
+			}
+
+            jewish_anarchism = {
+			}
+
+			makhaevism = {
+			}
+
+            mutualism  = {
+			}
+
+			mystical_anarchism  = {
+			}
+
+			national_anarchism  = {
+			}
+
+            nechayevism = {
+			}
+
+			platformism  = {
+			}
+
+            vanguard_anarchism  = {
+			}
+
+            wobblyism  = {
+			}
+
+            zen_anarchism  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 10 10 10 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+		
+		ai_give_core_state_control_threshold = 10000
+	}
+}

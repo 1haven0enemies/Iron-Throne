@@ -25,3 +25,5 @@ BST = "countries/Kenya.txt"
 DRF = "countries/Kenya.txt"
 WDA = "countries/Kenya.txt"
 TNG = "countries/Tangiers.txt"
+
+CEA = "countries/Central America.txt"

@@ -4,6 +4,7 @@ state={
 	provinces={
 		9945 12100
 	}
+	state_category = city
 	history={
 		owner = SPR
 		add_core_of = MOR

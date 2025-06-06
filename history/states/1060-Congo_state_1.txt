@@ -4,6 +4,7 @@ state={
 	provinces={
 		191 1817 4515 
 	}
+	state_category = city
 	history = {
 
 		owner = POR

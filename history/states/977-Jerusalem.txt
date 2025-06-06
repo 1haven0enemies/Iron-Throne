@@ -1,6 +1,6 @@
 state = {
-	id = 1071
-	name = "STATE_1071" #Jerusalem
+	id = 977
+	name = "STATE_977" #Jerusalem
 	manpower = 933142
 	
 	state_category = rural

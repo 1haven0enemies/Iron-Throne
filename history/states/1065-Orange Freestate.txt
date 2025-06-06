@@ -4,6 +4,7 @@ state={
 	provinces={
 		4822 10697 
 	}
+	state_category = city
 	history={
 		owner = ORA
 		buildings = {

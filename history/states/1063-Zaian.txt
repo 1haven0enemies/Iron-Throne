@@ -11,9 +11,7 @@ state={
 		owner = ZAI
 		add_core_of = ZAI
 
-		victory_points = {
-			4108 3 # Marrakesh
-		}
+		
 
 		buildings = {
 			infrastructure = 1

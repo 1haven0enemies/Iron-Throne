@@ -10,7 +10,12 @@ state={
 		add_core_of = ARM
 		add_core_of = TUR
 
-	
+		victory_points = {
+			11853 3
+		}
+		victory_points = {
+			10472 5
+		}
 
 		buildings = {
 			infrastructure = 2

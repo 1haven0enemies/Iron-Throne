@@ -4,6 +4,7 @@ state={
 	provinces={
 		4584 
 	}
+	state_category = city
 	history={
 		owner = BST
 		buildings = {

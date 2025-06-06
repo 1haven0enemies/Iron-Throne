@@ -4,6 +4,7 @@ state={
 	provinces={
 		 1494 1688  7900 8178 10566 
 	}
+	state_category = city
 	history={
 		owner = SWA
 		buildings = {

@@ -16,9 +16,7 @@ state={
 		}
 		add_core_of = ROM
 		add_core_of = TRA
-		victory_points = {
-			9670 1 
-		}
+		
 		set_demilitarized_zone = yes
 	}
 	buildings_max_level_factor=1.000

@@ -17,6 +17,9 @@ state = {
 		victory_points = {
 			10118 1 # Jamnagar
 		}
+		victory_points = {
+			9975 10 
+		}
 
 		buildings = {
 			infrastructure = 2

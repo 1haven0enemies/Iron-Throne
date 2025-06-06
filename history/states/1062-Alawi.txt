@@ -11,9 +11,7 @@ state={
 		owner = ALA
 		add_core_of = ALA
 
-		victory_points = {
-			4108 3 # Marrakesh
-		}
+	
 
 		buildings = {
 			infrastructure = 1

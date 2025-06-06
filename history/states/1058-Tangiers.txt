@@ -4,6 +4,7 @@ state={
 	provinces={
 		10113 
 	}
+	state_category = city
 	history={
 		owner = TNG
 		add_core_of = MOR

@@ -4,11 +4,14 @@ state={
 	provinces={
 		10070 1194 
 	}
+	state_category = city
 	history={
 		owner = SPR
 		add_core_of = MOR
 		add_core_of = RIF
-
+	victory_points = {
+			10070 2 # Rabat
+		}
 		buildings = {
 			infrastructure = 2
 			air_base = 3

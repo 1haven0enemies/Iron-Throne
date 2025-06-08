@@ -43,7 +43,7 @@ guiTypes = {
 			containerWindowType = {
 				name = "ideology_list_holder"
 				position = { x = 0 y = 0 }
-				size = { width = 380 height = 2000 } # Make this large enough to hold all entries
+				size = { width = 380 height = 1400	 } # Make this large enough to hold all entries
 				
 				iconType ={
 					name ="accelerationism_ledger_party"

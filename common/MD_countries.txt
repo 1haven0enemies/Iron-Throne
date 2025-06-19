@@ -1,0 +1,2 @@
+REM = "countries/RashidiEmirate.txt
+HEJ = "countries/KingdomofHejaz.txt

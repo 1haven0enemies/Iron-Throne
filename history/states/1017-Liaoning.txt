@@ -1,0 +1,17 @@
+state={
+	id=1017
+	name="STATE_1017"
+	provinces={
+		11764 9781 892 3895 6804 3849 9885 11808 9835 11815 9788 6951 987 11771 846 6893
+	}
+	history={
+
+		owner = MAN
+		add_core_of = MAN
+	}
+
+	manpower=3643373
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

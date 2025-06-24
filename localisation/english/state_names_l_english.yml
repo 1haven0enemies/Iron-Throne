@@ -853,7 +853,7 @@
  STATE_712:0 "Cocos Islands"
  STATE_713:0 "Kerguelen"
  STATE_714:0 "Heilungkiang"
- STATE_715:0 "Liaoning"
+ STATE_715:0 "Yodung"
  STATE_716:0 "Liaotung"
  STATE_717:0 "Sungkiang"
  STATE_718:0 "Stanleyville"
@@ -1242,7 +1242,7 @@
  STATE_1050: "Székely"
  STATE_1051: "Máramoros"
  STATE_1052: "Trans Picos"
-
+ STATE_1017: "Liaodong"
 
 
 

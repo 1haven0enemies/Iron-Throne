@@ -27,3 +27,6 @@ WDA = "countries/Kenya.txt"
 TNG = "countries/Tangiers.txt"
 
 CEA = "countries/Central America.txt"
+GCA = "countries/Greater Central America.txt"
+RIV = "countries/Rivas.txt"
+CSC = "countries/Chan Santa Cruz.txt"

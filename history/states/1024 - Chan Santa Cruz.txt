@@ -1,0 +1,33 @@
+state = {
+	id = 1024
+	name = "STATE_1024"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = CSC
+		add_core_of = CSC
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			4965 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			4965 3
+		}
+
+	}
+
+	provinces = {
+		4965
+	}
+
+
+
+	local_supplies = 0.0 
+}

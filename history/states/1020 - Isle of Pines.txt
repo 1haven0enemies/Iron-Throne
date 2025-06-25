@@ -1,0 +1,30 @@
+state = {
+	id = 1020
+	name = "STATE_1020"
+	manpower = 230
+	
+	state_category = enclave
+
+	history = {
+
+		owner = USA
+		add_core_of = CUB
+
+		buildings = {
+			infrastructure = 1
+			13385 = {
+				naval_base = 1
+			}
+		}
+
+
+	}
+
+	provinces = {
+		13385
+	}
+
+
+
+	local_supplies = 0.0 
+}

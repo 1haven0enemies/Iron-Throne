@@ -1,0 +1,28 @@
+state = {
+	id = 1018
+	name = "STATE_1018"
+	manpower = 5000
+	
+	state_category = pastoral
+
+	history = {
+
+		owner = GCA
+		add_core_of = HON
+		add_core_of = GCA
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		set_demilitarized_zone = yes
+	}
+
+	provinces = {
+		13380
+	}
+
+
+
+	local_supplies = 0.0 
+}

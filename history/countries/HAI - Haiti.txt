@@ -19,3 +19,4 @@ set_politics = {
 set_popularities = {
 	progressivism = 100
 }
+set_cosmetic_tag = HAI_USA

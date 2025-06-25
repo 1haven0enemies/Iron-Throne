@@ -21,4 +21,4 @@ set_politics = {
 set_popularities = {
 	reactionary_socialism = 100
 }
-
+set_cosmetic_tag = DOM_USA

@@ -1,0 +1,37 @@
+state = {
+	id = 1023
+	name = "STATE_1023"
+	manpower = 205364
+	
+	state_category = town
+
+	history = {
+
+		owner = RIV
+		add_core_of = RIV
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			13387 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			12738 3
+		}
+		victory_points = {
+			13379 5
+		}
+
+	}
+
+	provinces = {
+		12738 13379
+	}
+
+
+
+	local_supplies = 0.0 
+}

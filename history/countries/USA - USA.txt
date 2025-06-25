@@ -395,7 +395,14 @@ set_autonomy = {
 		target = SON
 		autonomous_state = autonomy_puppet
 	}
-
+set_autonomy = {
+	target = HAI
+	autonomy_state = autonomy_occupied_terrotory
+}
+set_autonomy = {
+	target = DOM
+	autonomy_state = autonomy_occupied_terrotory
+}
 
 1939.1.1 = {
 	set_politics = {

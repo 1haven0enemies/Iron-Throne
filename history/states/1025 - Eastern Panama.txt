@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = CSC
-		add_core_of = CSC
+		owner = COL
+		add_core_of = PAN
 
 		buildings = {
 			infrastructure = 1

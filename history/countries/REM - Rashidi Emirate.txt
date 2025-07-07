@@ -1,17 +1,12 @@
-﻿capital = 554
+﻿capital = 857
+
+oob = "SAU_1936"
 
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
+	tech_trucks = 1
 }
-
-IF = {
-	limit = {
-		has_dlc = "Battle for the Bosporus"
-	}
-	set_technology = { camelry = 1 }
-}
-
 if = {
 	limit = {
 		NOT = { has_dlc = "No Step Back" }
@@ -21,9 +16,15 @@ if = {
 	}
 }
 
+if = {
+	limit = {
+		has_dlc = "Battle for the Bosporus"
+	}
+	set_technology = { camelry = 1 }
+}
+
 set_convoys = 5
 
-set_cosmetic_tag = SYR_FRA
 
 1939.1.1 = {
 
@@ -41,6 +42,7 @@ set_cosmetic_tag = SYR_FRA
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
+	oob = "SAU_1939"
 	set_technology = {
 		tech_support = 1
 		tech_recon = 1
@@ -65,6 +67,7 @@ set_cosmetic_tag = SYR_FRA
 		basic_machine_tools = 1
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
+		fuel_silos = 1
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
@@ -75,16 +78,12 @@ set_cosmetic_tag = SYR_FRA
 	}
 }
 
-
 set_politics = {
-	ruling_party = authoritarianism
+	ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	authoritarianism = 50
-	reactionary_socialism = 10
-	communism = 10
-	liberalism = 30
+	monarchism = 100
 }

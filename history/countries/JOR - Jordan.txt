@@ -24,7 +24,7 @@ if = {
 set_convoys = 5
 
 # TODO_GoE - Add DLC checks
-set_cosmetic_tag = JOR_emirate
+set_cosmetic_tag = JOR_ENG
 
 1939.1.1 = {
 
@@ -78,7 +78,7 @@ set_cosmetic_tag = JOR_emirate
 
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -87,7 +87,7 @@ set_popularities = {
 	progressivism = 25
 	reactionary_socialism = 20
 	communism = 5
-	liberalism = 50
+	monarchism = 50
 }
 
 

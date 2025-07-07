@@ -165,6 +165,30 @@ if = {
 		target = EGY
 		autonomous_state = autonomy_integrated_puppet
 	}
+	set_autonomy = {
+	target = GUL
+	autonomy_state = autonomy_wtt_imperial_protectorate
+	}
+	set_autonomy = {
+		target = ADE
+		autonomy_state = autonomy_wtt_imperial_subject
+	}
+	set_autonomy = {
+		target = IRQ
+		autonomy_state = autonomy_wtt_imperial_subject
+	}
+	set_autonomy = {
+		target = ISR
+		autonomy_state = autonomy_wtt_imperial_subject
+	}
+	set_autonomy = {
+		target = PAL
+		autonomy_state = autonomy_wtt_imperial_subject
+	}
+	set_autonomy = {
+		target = ASY
+		autonomy_state = autonomy_wtt_imperial_subject
+	}
 }
 
 

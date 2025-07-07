@@ -10,7 +10,7 @@ state={
 	local_supplies=0.000
 
 	history = {
-		owner = DRU
+		owner = SYR
 		add_core_of = DRU
 		add_core_of = SYR
 		buildings = {

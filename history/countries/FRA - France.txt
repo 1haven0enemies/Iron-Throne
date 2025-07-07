@@ -62,10 +62,6 @@ set_autonomy = {
 	target = ALA
 	autonomy_state = autonomy_wtt_imperial_subject
 }
-set_autonomy = {
-	target = DRU
-	autonomy_state = autonomy_wtt_imperial_subject
-}
 set_research_slots = 3
 
 set_convoys = 300

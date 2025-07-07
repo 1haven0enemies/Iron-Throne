@@ -1,0 +1,27 @@
+state = {
+	id = 1042
+	name = "STATE_1042"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = MUS
+		add_core_of = MUS
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		4993
+	}
+
+
+
+	local_supplies = 0.0 
+}

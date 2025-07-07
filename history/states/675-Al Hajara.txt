@@ -7,13 +7,13 @@ state = {
 
 	history = {
 
-		owner = IRQ
-		add_core_of = IRQ
+		owner = REM
+		add_core_of = REM
+
 
 		victory_points = {
-			12879 1 # Samawah
+			12413 1 # Rumadiyah
 		}
-
 		buildings = {
 			#infrastructure = 1
 		}
@@ -21,7 +21,7 @@ state = {
 	}
 	
 	provinces = {
-		10744 12879 13368
+		2057 4951 4974 5099 7970 10744 10815 10901 12413 12455 
 	}
 
 	local_supplies = 0.0 

@@ -7,10 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = BLC
-		victory_points = {
-			10782 1 
-		}
+		owner = PER
 		buildings = {
 			infrastructure = 1
 		}
@@ -19,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1889 2039 2070 4891 10782 13082 12895
+		 12895
 	}
 
 	local_supplies=6.0 

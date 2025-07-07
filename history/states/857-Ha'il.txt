@@ -2,10 +2,11 @@ state={
 	id=857
 	name="STATE_857"
 	provinces={
-		4968 5058 10892 10923 12749 
+		 7995 10850  10923 12749  13368
 	}
 	history = {
-		owner = SAU
+		owner = NEJ
+		add_core_of = NEJ
 		add_core_of = SAU
 	}
 	manpower=5000

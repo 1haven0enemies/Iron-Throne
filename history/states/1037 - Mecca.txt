@@ -1,0 +1,33 @@
+state = {
+	id = 1037
+	name = "STATE_1037"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = HEJ
+		add_core_of = HEJ
+
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			12883 1 
+		}
+
+		victory_points = {
+			5037 5
+		}
+
+	}
+
+	provinces = {
+		 12883 13404 5037
+	}
+
+
+
+	local_supplies = 0.0 
+}

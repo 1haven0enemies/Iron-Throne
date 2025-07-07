@@ -6,7 +6,8 @@ state = {
 
 	history = {
 		
-		owner = ENG
+		owner = GUL
+		add_core_of = GUL
 		add_core_of = BHR
 
 		victory_points = {

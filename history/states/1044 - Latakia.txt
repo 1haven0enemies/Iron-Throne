@@ -1,0 +1,28 @@
+state = {
+	id = 1044
+	name = "STATE_1044"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = ALA
+		add_core_of = ALA
+		add_core_of = SYR
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		1088 10087
+	}
+
+
+
+	local_supplies = 0.0 
+}

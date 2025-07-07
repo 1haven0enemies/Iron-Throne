@@ -1,0 +1,29 @@
+state = {
+	id = 1028
+	name = "STATE_1028"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = ASY
+		add_core_of = ASY
+		add_core_of = TUR
+
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			10497 1 
+		}
+	}
+
+	provinces = {
+		10497 12387
+	}
+
+
+
+	local_supplies = 0.0 
+}

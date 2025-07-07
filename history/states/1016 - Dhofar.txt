@@ -7,24 +7,21 @@ state = {
 
 	history = {
 
-		owner = OMA
-		add_core_of = OMA
+		owner = NEJ
+		add_core_of = NEJ
 
 		buildings = {
 			infrastructure = 1
-			2103 = {
-				naval_base = 1
-			}
+
 		}
 
-		victory_points = {
-			2103 1 # Salalah
-		}
+
 		
 	}
 
 	provinces = {
-		2059 2103
+		2048 2059 2018   8108 8118 12740    
+				2029 4976 8030  12768 12821 12894 13079  
 	}
 
 	local_supplies = 0.0 

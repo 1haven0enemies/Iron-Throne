@@ -1,0 +1,28 @@
+state = {
+	id = 1031
+	name = "STATE_1031"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = GIL	
+		add_core_of = GIL
+		add_core_of = AZR
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		12434 4473
+	}
+
+
+
+	local_supplies = 0.0 
+}

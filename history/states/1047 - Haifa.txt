@@ -1,0 +1,28 @@
+state = {
+	id = 1047
+	name = "STATE_1047"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = ISR
+		add_core_of = ISR
+		add_core_of = PAL
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		1065 1201
+	}
+
+
+
+	local_supplies = 0.0 
+}

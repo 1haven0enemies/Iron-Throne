@@ -1,0 +1,32 @@
+state = {
+	id = 1036
+	name = "STATE_1036"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = MUS
+		add_core_of = MUS
+
+		buildings = {
+			infrastructure = 1
+						2103 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			2103 1 # Salalah
+		}
+
+	}
+
+	provinces = {
+		 2103 8002
+	}
+
+
+
+	local_supplies = 0.0 
+}

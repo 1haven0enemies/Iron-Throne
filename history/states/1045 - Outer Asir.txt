@@ -1,0 +1,27 @@
+state = {
+	id = 1045
+	name = "STATE_1045"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = ASI
+		add_core_of = ASI
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		10786 13402 13403  13415 13416 13417 
+	}
+
+
+
+	local_supplies = 0.0 
+}

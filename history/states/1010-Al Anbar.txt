@@ -9,15 +9,13 @@ state = {
 	}
 
 	history = {
-		owner = IRQ
-		add_core_of = IRQ
-		victory_points = {
-			12413 1 # Rumadiyah
-		}
+		owner = REM
+		add_core_of = REM
+
 	}
 
 	provinces = {
-		1631 4951 12413 
+		1631 4440  8101  
 	}
 	
 	buildings_max_level_factor = 1.000

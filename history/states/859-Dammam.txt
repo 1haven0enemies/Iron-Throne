@@ -9,7 +9,8 @@ state = {
 
 	history = {
 
-		owner = SAU
+		owner = NEJ
+		add_core_of = NEJ
 		add_core_of = SAU
 
 		victory_points = {
@@ -25,7 +26,7 @@ state = {
 	}
 	
 	provinces = {
-		1955 10791 10850 12702 
+	1955 10791 12702 13390 
 	}
 	state_category = rural
 	buildings_max_level_factor = 1.000

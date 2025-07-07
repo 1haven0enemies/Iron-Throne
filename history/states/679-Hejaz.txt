@@ -5,12 +5,10 @@ state = {
 
 	history = {
 
-		owner = SAU
-		add_core_of = SAU
+		owner = HEJ
+		add_core_of = HEJ
 
-		victory_points = {
-			12758 2 
-		}
+
 		
 		buildings = {
 			infrastructure = 2
@@ -19,7 +17,7 @@ state = {
 	}
 
 	provinces = {
-		2033 4981 5099 7934 10748 10835 12758 
+		2033 4981 10835 13405 13418 
 	}
 	
 	buildings_max_level_factor = 1.000

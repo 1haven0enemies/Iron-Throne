@@ -3,17 +3,21 @@ state={
 	name="STATE_678"
 
 	history={
-		owner = SAU
+		owner = ISR
+		add_core_of = ISR
+		add_core_of = PAL
 		buildings = {
 			infrastructure = 0
 
 		}
-		add_core_of = SAU
+		victory_points = {
+			13423 1 # Tel Aviv
+		}
 
 	}
 
 	provinces={
-		4932 5081 8118 12740 
+		13423
 	}
 	manpower=42
 	buildings_max_level_factor=1.000

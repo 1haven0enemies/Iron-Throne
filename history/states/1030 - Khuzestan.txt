@@ -1,0 +1,27 @@
+state = {
+	id = 1030
+	name = "STATE_1030"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = IRQ	
+		add_core_of = ARQ
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		5005  7953 10774 13426
+	}
+
+
+
+	local_supplies = 0.0 
+}

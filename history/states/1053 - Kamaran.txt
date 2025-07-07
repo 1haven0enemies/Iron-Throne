@@ -1,0 +1,30 @@
+state = {
+	id = 1053
+	name = "STATE_1053"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = ADE
+		add_core_of = ADE
+		add_core_of = YEM
+
+		buildings = {
+			infrastructure = 1
+			13413 = {
+				naval_base = 1
+			}
+		}
+		
+	}
+
+	provinces = {
+		13413 
+	}
+
+
+
+	local_supplies = 0.0 
+}

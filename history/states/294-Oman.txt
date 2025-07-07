@@ -11,7 +11,8 @@ state = {
 
 	history = {
 
-		owner = OMA
+		owner = MUS
+		add_core_of = MUS
 		add_core_of = OMA
 
 		buildings = {
@@ -30,7 +31,7 @@ state = {
 	}
 
 	provinces = {
-		1947 4993 8002 8020 10760 
+		1947  8020 10760 
 	}
 
 	local_supplies = 0.0 

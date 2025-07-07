@@ -1,0 +1,27 @@
+state = {
+	id = 1035
+	name = "STATE_1035"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = KUW
+		add_core_of = KUW
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		13394 13395
+	}
+
+
+
+	local_supplies = 0.0 
+}

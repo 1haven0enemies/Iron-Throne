@@ -1,0 +1,28 @@
+state = {
+	id = 1048
+	name = "STATE_1048"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = KUR
+		add_core_of = KUR
+		add_core_of = PER
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		13427
+	}
+
+
+
+	local_supplies = 0.0 
+}

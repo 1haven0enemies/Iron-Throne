@@ -2,11 +2,16 @@ state={
 	id=858
 	name="STATE_858"
 	provinces={
-		5006 8030 10870 12768 
+		13424
 	}
 	history = {
-		owner = SAU
-		add_core_of = SAU
+		owner = JOR
+		add_core_of = ISR
+		add_core_of = PAL
+		add_core_of = JOR
+		victory_points = {
+			13424 3 # Jerusalem
+		}
 	}
 	manpower=69
 	state_category=pastoral

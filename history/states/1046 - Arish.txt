@@ -1,0 +1,30 @@
+state = {
+	id = 1046
+	name = "STATE_1046"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = EGY
+
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			4161 3 
+		}
+
+	}
+
+	provinces = {
+		4161 11979 
+	}
+
+
+
+	local_supplies = 0.0 
+}

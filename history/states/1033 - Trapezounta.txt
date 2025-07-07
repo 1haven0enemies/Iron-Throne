@@ -1,0 +1,30 @@
+state = {
+	id = 1033
+	name = "STATE_1033"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = PON
+		add_core_of = PON
+		add_core_of = TUR
+
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			9932 15
+		}
+
+	}
+
+	provinces = {
+		3714 9932 
+	}
+
+
+
+	local_supplies = 0.0 
+}

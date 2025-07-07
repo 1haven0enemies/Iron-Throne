@@ -1,0 +1,27 @@
+state = {
+	id = 1029
+	name = "STATE_1029"
+	manpower = 1000
+	
+	state_category = town
+
+	history = {
+
+		owner = SYR	
+		add_core_of = SYR
+
+		buildings = {
+			infrastructure = 1
+		}
+
+
+	}
+
+	provinces = {
+		1549 1578 1938 10882 10804
+	}
+
+
+
+	local_supplies = 0.0 
+}

@@ -61,3 +61,15 @@
 
  HAI_USA: "Military Government of Haiti"
  DOM_USA: "Military Government of Santo Domingo"
+
+ GUL_ENG: "Persian Gulf Protectorate"
+ ADE_ENG: "Aden Protectorate"
+ IRQ_ENG: "Mandate of Mesopotamia"
+ SYR_FRA: "Federation of the Autonomous States of Syria"
+ JOR_ENG: "Emirate of Jordan and the Sinai"
+ LEB_FRA: "Lebanese Republic"
+ ALA_FRA: "Alawite State"
+ KUW_protectorate: "Emirate of Kuwait"
+ PAL_ENG: "Mandate of Palestine"
+ ISR_ENG: "Mandate of Israel"
+ 

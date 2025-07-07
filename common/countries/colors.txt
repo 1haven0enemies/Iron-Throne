@@ -210,8 +210,8 @@ PAN = {
 	color_ui = rgb { 198 169 248 }
 }
 PER = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 92 147 126 }
+	color = rgb { 182 163 127 }
+	color_ui = rgb { 182 163 128 }
 }
 PHI = {
 	color = rgb { 152 130 191 }
@@ -291,8 +291,8 @@ YEM = {
 	color_ui = rgb { 202 131 139 }
 }
 OMA = {
-	color = rgb { 155 101 107 }
-	color_ui = rgb { 202 131 139 }
+	color = rgb { 196 169 202 }
+	color_ui = rgb { 196 169 202 }
 }
 SLO = {
 	color = rgb { 158  161  188 }
@@ -374,8 +374,8 @@ UKR = {
 }
 
 AZR = {
-	color = rgb { 69  151  49 }
-	color_ui = rgb { 69  151  49 }
+	color = rgb { 163 145 164 }
+	color_ui = rgb { 163 145 164 }
 }
 
 GEO = {
@@ -384,8 +384,8 @@ GEO = {
 }
 
 ARM = {
-	color = rgb { 176  102  180 }
-	color_ui = rgb { 176  102  180 }
+	color = rgb { 161 120 120 }
+	color_ui = rgb { 161 120 120 }
 }
 
 LAO = {
@@ -1088,8 +1088,8 @@ KLT = {
 	color_ui = rgb { 0 171 0 }	
 }
 ASY = {
-	color = rgb { 128 0 96 }
-	color_ui = rgb { 77 0 57 }	
+	color = rgb { 224 57 224 }
+	color_ui = rgb { 224 57 225 }	
 }
 BHR = {
 	color = rgb { 230 0 0 }
@@ -1108,8 +1108,8 @@ BLC = {
 	color_ui = rgb { 38 77 0 }	
 }
 KUR = {
-	color = rgb { 234 179 30 }
-	color_ui = rgb { 255 153 0 }	
+	color = rgb { 221 221 201 }
+	color_ui = rgb { 221 221 201 }	
 }
 RUT = {
 	color = rgb { 200 179 230 }
@@ -1208,3 +1208,47 @@ CSC = {
 	color = rgb { 159 87 13 }
 	color_ui = rgb { 159 87 13 }
 }
+GUL = { 
+	color = rgb { 181 94 94 }
+	color_ui = rgb { 181 94 95 }
+}
+GIL = {
+	color = rgb { 240 101 101 }
+	color_ui = rgb { 240 101 102 }
+}
+PON ={
+	color = rgb { 154 194 197 }
+	color_ui = rgb { 154 194 197 }
+}
+MUS={
+	color = rgb { 191 213 216 }
+	color_ui = rgb { 191 213 216 }
+}
+NAH = {
+	color = rgb { 140 158 134 }
+	color_ui = rgb { 140 158 134 }
+}
+ASI = {
+	color = rgb { 164 179 226 }
+	color_ui = rgb { 164 179 226 }
+}
+ADE = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+REM = {
+	color = rgb { 255 213 128 }
+	color_ui = rgb { 255 213 128 }
+}
+ALA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+DRU = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+#={
+#	color = rgb {  }
+#	color_ui = rgb {  }
+#}

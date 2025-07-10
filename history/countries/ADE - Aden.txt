@@ -1,4 +1,4 @@
-﻿capital = 13410
+﻿capital = 992
 
 oob = ""
 
@@ -17,12 +17,6 @@ if = {
 
 # RESISTANCE / COMPLIANCE
 
-1015 = { #INTERIOR OMAN
-	start_resistance = yes
-	set_compliance = 10
-	set_resistance = 40
-	set_garrison_strength = 1.0
-}
 
 set_convoys = 10
 set_war_support = 0.1

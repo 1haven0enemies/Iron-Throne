@@ -1,4 +1,4 @@
-capital = 676 # Mosul State
+capital = 362 
 
 # Starting tech
 set_technology = {

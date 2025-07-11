@@ -1,0 +1,21 @@
+state={
+	id=1054
+	name="STATE_1054"
+
+	provinces={
+		800 861 11823
+	}
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	manpower=102620
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

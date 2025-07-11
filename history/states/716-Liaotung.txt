@@ -5,11 +5,12 @@ state={
 		steel=27.000
 	}
 	provinces={
-		836 964 3783 3839 3970 6860 6910 6918 6981 9854 
+		836 964 3783 3839 3970 6860  6918 6981 9854 
 	}
 
 	history={
-		owner = MAN
+		owner = KOR
+		add_core_of = KOR
 		buildings = {
 			infrastructure = 1
 		}

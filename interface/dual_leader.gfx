@@ -80,4 +80,94 @@ spriteTypes = {
 		name = "GFX_TEF_dual_leader_1" #Congolese_Episcopal_Conference
 		texturefile = "gfx/dual_leaders/TEF/TEF_Congolese_Episcopal_Conference.png"
 	}
+	#ADE
+	spriteType = {
+		name = "GFX_ADE_dual_leader_1" #Aden Residency 
+		texturefile = "gfx/dual_leaders/ADE/Aden Residency Portrait.png"
+	}
+	#OMA
+	spriteType = {
+		name = "GFX_OMA_dual_leader_1" #Majlis ash-Shura al-_Ulya
+		texturefile = "gfx/dual_leaders/OMA/Majlis ash-Shura al-_Ulya.png"
+	}
+	#YEM
+	spriteType = {
+		name = "GFX_YEM_dual_leader_1" #Majlis ash-Shura al-_Ulya Portrait
+		texturefile = "gfx/dual_leaders/YEM/Majlis ash-Shura al-_Ulya Portrait.png"
+	}
+	#ASI
+	spriteType = {
+		name = "GFX_ASI_dual_leader_1" #Majlis al-Ulama Portrait
+		texturefile = "gfx/dual_leaders/ASI/Majlis al-Ulama Portrait.png"
+	}		
+	#HEJ
+	spriteType = {
+		name = "GFX_HEJ_dual_leader_1" #Abd al-Ilah Portraits
+		texturefile = "gfx/dual_leaders/HEJ/Abd al-Ilah Portraits.png"
+	}	
+	#NEJ
+	spriteType = {
+		name = "GFX_NEJ_dual_leader_1" #Saud bin Abdulaziz Al Saud Portrait
+		texturefile = "gfx/dual_leaders/NEJ/Saud bin Abdulaziz Al Saud Portrait.png"
+	}	
+	#REM
+	spriteType = {
+		name = "GFX_REM_dual_leader_1" #Mishaal bin Saud Al Rashid
+		texturefile = "gfx/dual_leaders/REM/Mishaal bin Saud Al Rashid.png"
+	}	
+	#IRQ	
+	spriteType = {
+		name = "GFX_IRQ_dual_leader_1" #Francis Henry Humphrys Portrait
+		texturefile = "gfx/dual_leaders/IRQ/Francis Henry Humphrys Portrait.png"
+	}	
+	#MUS	
+	spriteType = {
+		name = "GFX_MUS_dual_leader_1" #Said bin Taimur Portrait
+		texturefile = "gfx/dual_leaders/MUS/Said bin Taimur Portrait.png"
+	}	
+	#GUL
+		spriteType = {
+		name = "GFX_GUL_dual_leader_1" #Persian Gulf Residency Portrait
+		texturefile = "gfx/dual_leaders/GUL/Persian Gulf Residency Portrait.png"
+	}	
+	#KUW
+		spriteType = {
+		name = "GFX_KUW_dual_leader_1" #Mohammed Ahmad Al-Jaber Al-Sabah Portrait
+		texturefile = "gfx/dual_leaders/KUW/Mohammed Ahmad Al-Jaber Al-Sabah Portrait.png"
+	}
+	#SYR
+		spriteType = {
+		name = "GFX_SYR_dual_leader_1" #Damien de Martel Portrait
+		texturefile = "gfx/dual_leaders/SYR/Damien de Martel Portrait.png"
+	}
+	#LEB
+		spriteType = {
+		name = "GFX_LEB_dual_leader_1" #Damien de Martel Portrait
+		texturefile = "gfx/dual_leaders/LEB/Damien de Martel Portrait.png"
+	}
+	#ALA
+		spriteType = {
+		name = "GFX_ALA_dual_leader_1" #Damien de Martel Portrait
+		texturefile = "gfx/dual_leaders/ALA/Damien de Martel Portrait.png"
+	}
+	#GIL
+		spriteType = {
+		name = "GFX_GIL_dual_leader_1" #Nariman Karbalayi Najaf oghlu Narimanov Portrait
+		texturefile = "gfx/dual_leaders/GIL/Nariman Karbalayi Najaf oghlu Narimanov Portrait.png"
+	}
+	#ALB
+		spriteType = {
+		name = "GFX_ALB_dual_leader_1" #King Karl I Portrait
+		texturefile = "gfx/dual_leaders/ALB/King Karl I Portrait.png"
+	}
+	#AUS
+		spriteType = {
+		name = "GFX_AUS_dual_leader_1" #Otto Von Hasburg Portrait
+		texturefile = "gfx/dual_leaders/AUS/Otto Von Hasburg Portrait.png"
+	}
+	#KUR
+		spriteType = {
+		name = "GFX_KUR_dual_leader_1" #Mustafa Barzani Portrait
+		texturefile = "gfx/dual_leaders/KUR/Mustafa Barzani Portrait.png"
+	}
 }

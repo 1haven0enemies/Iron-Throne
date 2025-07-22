@@ -26,7 +26,7 @@ state={
 			10840 3 
 		}
 		victory_points = {
-			5074 2 # Aden 
+			13411 3 
 		}
 		add_core_of = YEM
 	}

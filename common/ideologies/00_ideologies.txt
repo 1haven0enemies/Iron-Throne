@@ -1308,6 +1308,9 @@ ideologies = {
 
 			xunzheng = {
 			}
+			
+			colonial_mandate ={
+			}
 		}
 
 		dynamic_faction_names = {
@@ -1601,6 +1604,9 @@ ideologies = {
 			}
 
             zoroastrian_theocracy  = {
+			}
+			
+			zaydi_theocracy = {
 			}
 		}
 

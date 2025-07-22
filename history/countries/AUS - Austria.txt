@@ -1,5 +1,6 @@
-﻿capital = 4 # Vienna
-
+﻿recruit_character = AUS_Leopold_Kunschak
+set_variable = {currentdualleader = 1 }
+capital = 4 # Vienna
 
 
 set_research_slots = 3

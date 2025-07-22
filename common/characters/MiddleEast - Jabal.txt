@@ -1,0 +1,16 @@
+characters = {
+	REM_Saud_bin_Abdulaziz_Al_Rashid = {
+		name = REM_Saud_bin_Abdulaziz_Al_Rashid
+		portraits = { civilian = { large = "gfx/leaders/REM/REM_Saud_bin_Abdulaziz_Al_Rashid.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+characters = {
+	PON_Crysanthum = {
+		name = PON_Crysanthum
+		portraits = { civilian = { large = "gfx/leaders/PON/PON_Crysanthum.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = christian_socialism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

@@ -1,4 +1,6 @@
-﻿capital = 656 # Kuwait City
+﻿recruit_character = KUW_Ahmad_Al_Jaber_Al_Sabah
+set_variable = {currentdualleader = 1 }
+capital = 656 # Kuwait City
 
 #oob = ""
 

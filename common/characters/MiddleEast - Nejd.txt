@@ -1,0 +1,16 @@
+characters = {
+	NEJ_Abdulaziz_bin_Abdul_Rahman_Al_Saud = {
+		name = NEJ_Abdulaziz_bin_Abdul_Rahman_Al_Saud
+		portraits = { civilian = { large = "gfx/leaders/NEJ/NEJ_Abdulaziz_bin_Abdul_Rahman_Al_Saud.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

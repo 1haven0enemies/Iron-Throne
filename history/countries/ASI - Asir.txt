@@ -1,4 +1,7 @@
-﻿capital = 856
+﻿recruit_character = ASI_Muhammad_ibn_Ali_al_Idrisi
+set_variable = {currentdualleader = 1 }
+
+capital = 856
 
 oob = ""
 
@@ -21,4 +24,6 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-
+set_popularities = {
+	monarchism = 100
+}

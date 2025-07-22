@@ -1,4 +1,6 @@
-﻿capital = 294
+﻿recruit_character = OMA_Ghalib_bin_Ali_bin_Hilal_al_Hinai
+set_variable = {currentdualleader = 1 }
+capital = 294
 
 oob = "OMA_1936"
 

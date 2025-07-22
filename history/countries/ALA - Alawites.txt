@@ -1,4 +1,6 @@
-﻿capital = 1044
+﻿recruit_character = ALA_Léon_Henri_Charles_Cayla
+set_variable = {currentdualleader = 1 }
+capital = 1044
 
 oob = ""
 

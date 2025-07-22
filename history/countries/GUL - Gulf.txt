@@ -1,4 +1,6 @@
-﻿capital = 658
+﻿recruit_character = GUL_Arnold_Talbot_Wilson
+set_variable = {currentdualleader = 1 }
+capital = 658
 
 oob = ""
 

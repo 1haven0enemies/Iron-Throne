@@ -1,4 +1,6 @@
-﻿capital = 992
+﻿recruit_character = ADE_George_Stewart_Symes 
+set_variable = {currentdualleader = 1 }
+capital = 992
 
 oob = ""
 
@@ -30,6 +32,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	progressivism = 100
+	authoritarianism = 100
 }
-set_cosmetic_tag = ADE_ENG
+#set_cosmetic_tag = ADE_ENG
+
+
+

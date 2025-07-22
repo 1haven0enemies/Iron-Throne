@@ -1,4 +1,6 @@
-﻿capital = 553
+﻿recruit_character = LEB_Charles_Debbas
+set_variable = {currentdualleader = 1 }
+capital = 553
 
 # Starting tech
 set_technology = {
@@ -39,34 +41,4 @@ set_popularities = {
 	reactionary_socialism = 10
 	communism = 10
 	liberalism = 30
-}
-
-create_country_leader = {
-	name = "Pierre Gemayel"
-	desc = ""
-	picture = GFX_portrait_Pierre_Gemayel
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Melick Yarad"
-	desc = ""
-	picture = GFX_portrait_Melick_Yarad
-	ideology = despotism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Rami Sarraff"
-	desc = ""
-	picture = GFX_portrait_Rami_Sarraff
-	ideology = leninism
-	traits = {
-		#
-	}
 }

@@ -1,0 +1,16 @@
+characters = {
+	ALA_Léon_Henri_Charles_Cayla = {
+		name = ALA_Léon_Henri_Charles_Cayla
+		portraits = { civilian = { large = "gfx/leaders/ALA/ALA_Léon_Henri_Charles_Cayla.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = colonial_mandate
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

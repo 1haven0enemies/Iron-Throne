@@ -1,0 +1,16 @@
+characters = {
+	ASI_Muhammad_ibn_Ali_al_Idrisi = {
+		name = ASI_Muhammad_ibn_Ali_al_Idrisi
+		portraits = { civilian = { large = "gfx/leaders/ASI/ASI_Muhammad_ibn_Ali_al_Idrisi.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

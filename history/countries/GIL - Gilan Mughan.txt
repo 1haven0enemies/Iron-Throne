@@ -1,4 +1,6 @@
-﻿capital = 1031
+﻿recruit_character = GIL_Mirza_Kuchik_Khan
+set_variable = {currentdualleader = 1 }
+capital = 1032
 
 oob = ""
 

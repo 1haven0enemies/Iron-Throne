@@ -1,0 +1,16 @@
+characters = {
+	LEB_Charles_Debbas = {
+		name = LEB_Charles_Debbas
+		portraits = { civilian = { large = "gfx/leaders/LEB/LEB_Charles_Debbas.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = colonial_mandate
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

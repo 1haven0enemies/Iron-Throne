@@ -1,0 +1,16 @@
+characters = {
+	SYR_Ahmad_Nami = {
+		name = SYR_Ahmad_Nami
+		portraits = { civilian = { large = "gfx/leaders/SYR/SYR_Ahmad_Nami.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = colonial_mandate
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

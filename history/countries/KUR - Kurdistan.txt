@@ -1,4 +1,6 @@
-﻿capital = 800
+﻿recruit_character = KUR_Mahmud_Barxanji
+set_variable = {currentdualleader = 1 }
+capital = 800
 
 set_research_slots = 2
 

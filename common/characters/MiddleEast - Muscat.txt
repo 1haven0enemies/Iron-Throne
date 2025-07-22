@@ -1,0 +1,16 @@
+characters = {
+	MUS_Taimur_bin_Feisal = {
+		name = MUS_Taimur_bin_Feisal
+		portraits = { civilian = { large = "gfx/leaders/MUS/MUS_Taimur_bin_Feisal.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

@@ -1,4 +1,7 @@
-﻿capital = 291 # Baghdad
+﻿
+recruit_character = IRQ_Gilbert_Falkingham_Clayton
+set_variable = {currentdualleader = 1 }
+capital = 291 # Baghdad
 
 oob = "IRQ_1936"
 

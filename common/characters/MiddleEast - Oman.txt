@@ -1,0 +1,16 @@
+characters = {
+	OMA_Ghalib_bin_Ali_bin_Hilal_al_Hinai = {
+		name = OMA_Ghalib_bin_Ali_bin_Hilal_al_Hinai
+		portraits = { civilian = { large = "gfx/leaders/OMA/OMA_Ghalib_bin_Ali_bin_Hilal_al_Hinai.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = ibadi_theocracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

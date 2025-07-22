@@ -1,6 +1,6 @@
-﻿recruit_character = HEJ_Ali_bin_Hussein_bin_Ali_al_Hashimi
+﻿recruit_character = REM_Saud_bin_Abdulaziz_Al_Rashid
 set_variable = {currentdualleader = 1 }
-capital = 1037
+capital = 854
 
 oob = "SAU_1936"
 

@@ -1,0 +1,16 @@
+characters = {
+	GUL_Arnold_Talbot_Wilson = {
+		name = GUL_Arnold_Talbot_Wilson
+		portraits = { civilian = { large = "gfx/leaders/GUL/GUL_Arnold_Talbot_Wilson.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = colonial_government
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

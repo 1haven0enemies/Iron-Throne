@@ -1,0 +1,16 @@
+characters = {
+	IRQ_Gilbert_Falkingham_Clayton = {
+		name = IRQ_Gilbert_Falkingham_Clayton
+		portraits = { civilian = { large = "gfx/leaders/IRQ/IRQ_Gilbert_Falkingham_Clayton.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = colonial_government
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

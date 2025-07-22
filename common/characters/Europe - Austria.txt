@@ -1,0 +1,15 @@
+characters = {
+	AUS_Leopold_Kunschak = {
+		name = AUS_Leopold_Kunschak
+		portraits = { civilian = { large = "gfx/leaders/AUS/AUS_Leopold_Kunschak.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_liberalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

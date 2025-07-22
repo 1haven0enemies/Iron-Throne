@@ -1,0 +1,16 @@
+characters = {
+	ADE_George_Stewart_Symes = {
+		name = ADE_George_Stewart_Symes 
+		portraits = { civilian = { large = "gfx/leaders/ADE/ADE_George_Stewart_Symes.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = colonial_government
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

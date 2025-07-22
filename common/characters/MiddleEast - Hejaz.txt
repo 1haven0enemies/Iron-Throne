@@ -1,0 +1,16 @@
+characters = {
+	HEJ_Ali_bin_Hussein_bin_Ali_al_Hashimi = {
+		name = HEJ_Ali_bin_Hussein_bin_Ali_al_Hashimi
+		portraits = { civilian = { large = "gfx/leaders/HEJ/HEJ_Ali_bin_Hussein_bin_Ali_al_Hashimi.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

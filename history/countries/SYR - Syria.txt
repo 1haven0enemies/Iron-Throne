@@ -1,4 +1,6 @@
-﻿capital = 554
+﻿recruit_character = SYR_Ahmad_Nami
+set_variable = {currentdualleader = 1 }
+capital = 554
 
 # Starting tech
 set_technology = {

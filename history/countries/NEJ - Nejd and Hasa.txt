@@ -1,4 +1,6 @@
-﻿capital = 292
+﻿recruit_character = NEJ_Abdulaziz_bin_Abdul_Rahman_Al_Saud
+set_variable = {currentdualleader = 1 }
+capital = 292
 
 oob = "SAU_1936"
 
@@ -78,11 +80,11 @@ set_convoys = 5
 }
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	liberalism = 100
+	monarchism = 100
 }

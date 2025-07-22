@@ -1,0 +1,16 @@
+characters = {
+	KUR_Mahmud_Barxanji = {
+		name = KUR_Mahmud_Barxanji
+		portraits = { civilian = { large = "gfx/leaders/KUR/KUR_Mahmud_Barxanji.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+
+}

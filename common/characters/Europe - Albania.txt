@@ -1,0 +1,15 @@
+characters = {
+	ALB_Gjergj_Fishta = {
+		name = ALB_Gjergj_Fishta
+		portraits = { civilian = { large = "gfx/leaders/ALB/ALB_Gjergj_Fishta.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_liberalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

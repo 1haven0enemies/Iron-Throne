@@ -1,4 +1,6 @@
-﻿capital = 1033
+﻿recruit_character = PON_Crysanthum
+set_variable = {currentdualleader = 1 }
+capital = 1033
 
 oob = ""
 

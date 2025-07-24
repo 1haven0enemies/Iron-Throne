@@ -1,6 +1,6 @@
 ﻿recruit_character = MUS_Taimur_bin_Feisal
 set_variable = {currentdualleader = 1 }
-capital = 1032
+capital = 294
 
 oob = ""
 

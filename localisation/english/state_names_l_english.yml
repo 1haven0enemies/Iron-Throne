@@ -1243,8 +1243,9 @@
  STATE_1051: "Rizounta"
  STATE_1052: "Dersim"
  STATE_1053: "Kamaran"
-
-
+ STATE_1054: "Baekdu"
+ STATE_1055: "Liechtenstein"
+ STATE_1056: "Geneva"
 
 
 

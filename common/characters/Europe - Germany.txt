@@ -1,11 +1,11 @@
 characters = {
-	GER_William_Alfred_test = {
-		name = GER_William_Alfred_test
-		portraits = { civilian = { large = "gfx/leaders/GER/ae.dds"} }
+	GER_Gottfried_Feder = {
+		name = GER_Gottfried_Feder
+		portraits = { civilian = { large = "gfx/leaders/GER/GER_Gottfried_Feder.png"} }
 		country_leader = {
 			desc = ""
 			expire = "2000.1.1"
-			ideology = germanic_socialism
+			ideology = orthodox_national_socialism
 			traits = {
 				
 			}

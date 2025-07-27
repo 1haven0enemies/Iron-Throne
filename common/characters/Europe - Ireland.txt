@@ -1,0 +1,15 @@
+characters = {
+	IRE_Arthur_Griffith = {
+		name = IRE_Arthur_Griffith
+		portraits = { civilian = { large = "gfx/leaders/IRE/IRE_Arthur_Griffith.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = national_conservatism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

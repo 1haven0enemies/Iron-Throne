@@ -1,0 +1,15 @@
+characters = {
+	SPR_Jose_Antonio_Primo_de_Rivera = {
+		name = SPR_Jose_Antonio_Primo_de_Rivera
+		portraits = { civilian = { large = "gfx/leaders/SPR/SPR_Jose_Antonio_Primo_de_Rivera.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = monarcho_falangism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

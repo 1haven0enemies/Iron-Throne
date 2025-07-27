@@ -1,0 +1,15 @@
+characters = {
+	GRE_Eleftherios_Venizelos = {
+		name = GRE_Eleftherios_Venizelos
+		portraits = { civilian = { large = "gfx/leaders/GRE/GRE_Eleftherios_Venizelos.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = classical_liberalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

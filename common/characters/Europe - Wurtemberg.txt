@@ -1,0 +1,15 @@
+characters = {
+	WUR_Adam_Remmele = {
+		name = WUR_Adam_Remmele
+		portraits = { civilian = { large = "gfx/leaders/WUR/WUR_Adam_Remmele.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = social_democracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

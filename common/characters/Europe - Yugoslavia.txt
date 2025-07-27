@@ -1,0 +1,15 @@
+characters = {
+	YUG_King_Alexander = {
+		name = YUG_King_Alexander
+		portraits = { civilian = { large = "gfx/leaders/YUG/YUG_King_Alexander.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = constitutional_dictatorship
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

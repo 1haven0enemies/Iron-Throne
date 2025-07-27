@@ -1,0 +1,15 @@
+characters = {
+	ROM_Alexandru_I = {
+		name = ROM_Alexandru_I
+		portraits = { civilian = { large = "gfx/leaders/ROM/ROM_Alexandru_I.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = christian_nationalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+	BUL_Konstantin_Muraviev = {
+		name = BUL_Konstantin_Muraviev
+		portraits = { civilian = { large = "gfx/leaders/BUL/BUL_Konstantin_Muraviev.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = social_agrarianism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

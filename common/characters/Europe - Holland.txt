@@ -1,0 +1,15 @@
+characters = {
+	HOL_Hendrikus_Colijin = {
+		name = HOL_Hendrikus_Colijin
+		portraits = { civilian = { large = "gfx/leaders/HOL/HOL_Hendrikus_Colijin.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = christian_democracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

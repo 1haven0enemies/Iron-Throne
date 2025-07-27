@@ -1,0 +1,15 @@
+characters = {
+	POR_Tomé_de_Barros_Queirós = {
+		name = POR_Tomé_de_Barros_Queirós
+		portraits = { civilian = { large = "gfx/leaders/POR/POR_Tomé_de_Barros_Queirós.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = fiscal_conservatism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

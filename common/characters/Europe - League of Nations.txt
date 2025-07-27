@@ -1,0 +1,15 @@
+characters = {
+	LON_Eric_Drummond = {
+		name = LON_Eric_Drummond
+		portraits = { civilian = { large = "gfx/leaders/LON/LON_Eric_Drummond.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = liberal_internationalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+	BYZ_Georges_Florovsky = {
+		name = BYZ_Georges_Florovsky
+		portraits = { civilian = { large = "gfx/leaders/BYZ/BYZ_Georges_Florovsky.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = christian_democracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

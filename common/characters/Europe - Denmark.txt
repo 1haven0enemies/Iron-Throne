@@ -1,0 +1,15 @@
+characters = {
+	DEN_Niels_Neergaard = {
+		name = DEN_Niels_Neergaard
+		portraits = { civilian = { large = "gfx/leaders/DEN/DEN_Niels_Neergaard.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = conservative_liberalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

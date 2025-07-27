@@ -1,0 +1,15 @@
+characters = {
+	LIV_Adolf_Friedrich_I = {
+		name = LIV_Adolf_Friedrich_I
+		portraits = { civilian = { large = "gfx/leaders/LIV/LIV_Adolf_Friedrich_I.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = conservative_oligarchism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

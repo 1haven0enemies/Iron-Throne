@@ -1,0 +1,15 @@
+characters = {
+	LUX_Pierre_Krier = {
+		name = LUX_Pierre_Krier
+		portraits = { civilian = { large = "gfx/leaders/LUX/LUX_Pierre_Krier.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = labour_democracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

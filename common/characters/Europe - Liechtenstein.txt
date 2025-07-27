@@ -1,0 +1,15 @@
+characters = {
+	LIE_Josef_Hoop = {
+		name = LIE_Josef_Hoop
+		portraits = { civilian = { large = "gfx/leaders/LIE/LIE_Josef_Hoop.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = conservative_liberalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

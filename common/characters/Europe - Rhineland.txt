@@ -1,0 +1,15 @@
+characters = {
+	RHI_Hans_Adam_Dorten = {
+		name = RHI_Hans_Adam_Dorten
+		portraits = { civilian = { large = "gfx/leaders/RHI/RHI_Hans_Adam_Dorten.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = christian_democracy
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

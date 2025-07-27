@@ -1,0 +1,15 @@
+characters = {
+	PRE_Paul_Thomas_Mann = {
+		name = PRE_Paul_Thomas_Mann
+		portraits = { civilian = { large = "gfx/leaders/PRE/PRE_Paul_Thomas_Mann.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = social_liberalism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+	FIN_Juho_Niukkanen = {
+		name = FIN_Juho_Niukkanen
+		portraits = { civilian = { large = "gfx/leaders/FIN/FIN_Juho_Niukkanen.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = agrarian_conservatism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

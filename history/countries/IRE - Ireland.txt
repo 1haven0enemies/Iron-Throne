@@ -1,4 +1,6 @@
-﻿capital = 113
+﻿recruit_character = IRE_Arthur_Griffith
+set_variable = {currentdualleader = 1 }
+capital = 113
 
 oob = "IRE_1936"
 
@@ -66,13 +68,13 @@ set_convoys = 10
 }
 
 set_politics = {
-	ruling_party = progressivism
+	ruling_party = conservatism
 	last_election = "1933.1.24"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	progressivism = 98
+	conservatism = 98
 	reactionary_socialism = 1
 	communism = 1
 }

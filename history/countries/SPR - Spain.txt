@@ -1,4 +1,7 @@
-﻿capital = 41 # Madrid
+﻿recruit_character = SPR_Jose_Antonio_Primo_de_Rivera
+set_variable = {currentdualleader = 1 }
+
+capital = 41 # Madrid
 
 oob = "SPR_1936"
 
@@ -97,14 +100,14 @@ if = {
 }
 
 set_politics = {
-	ruling_party = progressivism
+	ruling_party = revolutionary_nationalism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
 			progressivism = 22
-			reactionary_socialism = 76
+			revolutionary_nationalism = 76
 			communism = 2
 		}
 set_convoys = 150

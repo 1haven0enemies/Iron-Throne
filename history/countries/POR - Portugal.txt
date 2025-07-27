@@ -1,4 +1,6 @@
-﻿capital = 112
+﻿recruit_character = POR_Tomé_de_Barros_Queirós
+set_variable = {currentdualleader = 1 }
+capital = 112
 
 oob = "POR_1936"
 if = {
@@ -204,7 +206,7 @@ if = {
 
 set_convoys = 50
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = economic_liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -212,7 +214,7 @@ set_politics = {
 set_popularities = {
 	reactionary_socialism = 10
 	communism = 10
-	liberalism = 60
+	economic_liberalism = 60
 	progressivism = 20
 }
 

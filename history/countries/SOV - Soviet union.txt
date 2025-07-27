@@ -3,7 +3,7 @@
 
 #COUNTRY LEADERS
 recruit_character = SOV_Alexey_Ivanovich_Rykov
-
+set_variable = {currentdualleader = 1 }
 
 #Add synthetic refineries tech
 set_technology = {

@@ -1,4 +1,6 @@
-﻿capital = 48
+﻿recruit_character = BUL_Konstantin_Muraviev
+set_variable = {currentdualleader = 1 }
+capital = 48
 
 #TROOPS
 oob = "BUL_1936" #VANILLA & DLC
@@ -7,12 +9,12 @@ oob = "BUL_1936" #VANILLA & DLC
 	
 	#POLIICS
 	set_popularities = { 
-		progressivism = 5
+		liberalism = 5
 		reactionary_socialism = 35
-		liberalism = 60
+		progressivism = 60
 	}
 	set_politics = { #VANILLA & DLC
-		ruling_party = liberalism
+		ruling_party = progressivism
 		last_election = "1938.3.27"
 		election_frequency = 48
 		elections_allowed = no

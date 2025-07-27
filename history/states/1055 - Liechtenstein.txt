@@ -1,0 +1,25 @@
+state={
+	id=1055
+	name="STATE_1055"
+
+	provinces={
+		13430
+	}
+
+	history={
+		owner = LIE
+		add_core_of = LIE
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			13430 5
+		}
+	}
+
+	manpower=102620
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

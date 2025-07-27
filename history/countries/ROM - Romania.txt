@@ -1,4 +1,6 @@
-﻿capital = 46
+﻿recruit_character = ROM_Alexandru_I
+set_variable = {currentdualleader = 1 }
+capital = 46
 
 if = {
 	limit = {
@@ -321,13 +323,13 @@ set_convoys = 10
 }
 
 set_politics = {
-	ruling_party = progressivism
+	ruling_party = classical_nationalism
 	last_election = "1933.12.20"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	progressivism = 60
+	classical_nationalism = 60
 	reactionary_socialism = 18
 	communism = 2
 	liberalism = 20

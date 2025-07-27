@@ -1,0 +1,22 @@
+state={
+	id=1056
+	name="STATE_1056"
+
+	provinces={
+		13431
+	}
+
+	history={
+		owner = LON
+		add_core_of = LON
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 13431 5 }
+	}
+
+	manpower=10620
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

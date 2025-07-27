@@ -1,4 +1,6 @@
-﻿capital = 47
+﻿recruit_character = GRE_Eleftherios_Venizelos
+set_variable = {currentdualleader = 1 }
+capital = 47
 
 oob = "GRE_1936"
 

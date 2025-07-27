@@ -1,4 +1,6 @@
-﻿capital = 107
+﻿recruit_character = YUG_King_Alexander
+set_variable = {currentdualleader = 1 }
+capital = 107
 
 if = {
 	limit = {
@@ -274,7 +276,7 @@ if = {
 set_convoys = 10
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = authoritarianism
 	last_election = "1935.5.3"
 	election_frequency = 36
 	elections_allowed = yes
@@ -283,23 +285,9 @@ set_popularities = {
 	progressivism = 15
 	reactionary_socialism = 10
 	communism = 15
-	liberalism = 60
+	authoritarianism = 60
 }
 
-1939.1.1 = {
-	set_politics = {
-		ruling_party = liberalism
-		last_election = "1938.12.1"
-		election_frequency = 36
-		elections_allowed = yes
-	}
-	set_popularities = { # Will get +7 from Italian focus: Potential Allies in the Balkans
-		progressivism = 10
-		reactionary_socialism = 20
-		communism = 10
-		liberalism = 60
-	}
-}
 
 set_stability = 0.6
 

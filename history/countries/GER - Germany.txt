@@ -1,7 +1,9 @@
-﻿capital = 64 # Berlin/Brandeburg
+﻿recruit_character = GER_Gottfried_Feder
+set_variable = {currentdualleader = 1 }
+capital = 64 # Berlin/Brandeburg
 
 
-recruit_character = GER_William_Alfred_test
+
 add_breakthrough_progress = {
 	specialization = specialization_land
 	value = 1.0
@@ -131,7 +133,7 @@ set_war_support = 0.3
 
 # Setup German Politics
 set_politics = {
-	ruling_party = reactionary_socialism
+	ruling_party = racial_darwinism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

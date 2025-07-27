@@ -1248,6 +1248,18 @@ DRU = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
+LIE = {
+	color = rgb { 3 34 99 }
+	color_ui = rgb { 3 34 99 }
+}
+LON = {
+	color = rgb { 164 179 226 }
+	color_ui = rgb { 164 179 226 }
+}
+LIV = {
+	color = rgb { 103 103 103 }
+	color = rgb { 103 103 103 }
+}
 #={
 #	color = rgb {  }
 #	color_ui = rgb {  }

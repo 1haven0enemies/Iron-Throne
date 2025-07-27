@@ -20,16 +20,16 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = progressivism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	liberalism = 48
+	progressivism = 48
 	reactionary_socialism = 50
-	progressivism = 1
+	conservatism = 1
 	communism = 1
 }
 

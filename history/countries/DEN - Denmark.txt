@@ -1,4 +1,6 @@
-﻿capital = 37
+﻿recruit_character = DEN_Niels_Neergaard
+set_variable = {currentdualleader = 1 }
+capital = 37
 
 # Diplomacy
 IF = {
@@ -35,13 +37,13 @@ set_technology = {
 }
 
 set_popularities = {
-		progressivism = 94
+		conservatism = 94
 		reactionary_socialism = 1
 		communism = 2
 		liberalism = 3
 	}
 	set_politics = {
-		ruling_party = progressivism
+		ruling_party = conservatism
 		last_election = "1935.10.22"
 		election_frequency = 48
 		elections_allowed = yes

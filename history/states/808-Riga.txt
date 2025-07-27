@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = LAT
+		owner = LIV
+		add_core_of = LIV
 		victory_points = {
 			9340 5 
 		}

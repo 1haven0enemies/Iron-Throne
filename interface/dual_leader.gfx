@@ -40,7 +40,7 @@ spriteTypes = {
 	# Country Specific Portraits
 	#ENG
 	spriteType = {
-		name = "GFX_ENG_dual_leader_2"#George V
+		name = "GFX_ENG_dual_leader_2" #George V
 		texturefile = "gfx/dual_leaders/ENG/ENG_George_V.dds"
 	}
 	#ROM
@@ -50,8 +50,8 @@ spriteTypes = {
 	}
 	#HOL
 	spriteType = {
-		name = "GFX_HOL_dual_leader_1" #HENDRIKUS_COLIJN
-		texturefile = "gfx/dual_leaders/HOL/HOL_HENDRIKUS_COLIJN.dds"
+		name = "GFX_HOL_dual_leader_1" #Laurent Deckers
+		texturefile = "gfx/dual_leaders/HOL/Laurent Deckers.png"
 	}
 	
 	#USA
@@ -162,12 +162,107 @@ spriteTypes = {
 	}
 	#AUS
 		spriteType = {
-		name = "GFX_AUS_dual_leader_1" #Otto Von Hasburg Portrait
-		texturefile = "gfx/dual_leaders/AUS/Otto Von Hasburg Portrait.png"
+		name = "GFX_AUS_dual_leader_1" #Charles I
+		texturefile = "gfx/dual_leaders/AUS/Charles I.png"
 	}
 	#KUR
 		spriteType = {
 		name = "GFX_KUR_dual_leader_1" #Mustafa Barzani Portrait
 		texturefile = "gfx/dual_leaders/KUR/Mustafa Barzani Portrait.png"
+	}
+	#IRE
+		spriteType = {
+		name = "GFX_IRE_dual_leader_1" #William Thomas Cosgrave Portrait
+		texturefile = "gfx/dual_leaders/IRE/William Thomas Cosgrave Portrait.png"
+	}
+	#BYZ
+		spriteType = {
+		name = "GFX_BYZ_dual_leader_1" #Constantine VI Portrait
+		texturefile = "gfx/dual_leaders/BYZ/Constantine VI Portrait.png"
+	}
+	#YUG
+		spriteType = {
+		name = "GFX_YUG_dual_leader_1" #Nikola Uzunovic
+		texturefile = "gfx/dual_leaders/YUG/Nikola Uzunovic.png"
+	}
+	#SPR
+		spriteType = {
+		name = "GFX_SPR_dual_leader_1" #Federico I
+		texturefile = "gfx/dual_leaders/SPR/Federico I.png"
+	}
+	#GRE
+		spriteType = {
+		name = "GFX_GRE_dual_leader_1" #Andreas Michalakopoulos
+		texturefile = "gfx/dual_leaders/GRE/Andreas Michalakopoulos.png"
+	}
+	#POR
+		spriteType = {
+		name = "GFX_POR_dual_leader_1" #Manuel II
+		texturefile = "gfx/dual_leaders/POR/Manuel II.png"
+	}
+	#LIE
+		spriteType = {
+		name = "GFX_LIE_dual_leader_1" #Franz I
+		texturefile = "gfx/dual_leaders/LIE/Franz I.png"
+	}
+	#LON
+		spriteType = {
+		name = "GFX_LON_dual_leader_1" #Raoul Dandurand
+		texturefile = "gfx/dual_leaders/LON/Raoul Dandurand.png"
+	}
+	#ROM
+		spriteType = {
+		name = "GFX_ROM_dual_leader_1" #Nicolae Iorga
+		texturefile = "gfx/dual_leaders/ROM/Nicolae Iorga.png"
+	}
+	#BUL
+		spriteType = {
+		name = "GFX_BUL_dual_leader_1" #Assen I
+		texturefile = "gfx/dual_leaders/BUL/Assen I.png"
+	}
+	#RHI
+		spriteType = {
+		name = "GFX_RHI_dual_leader_1" #Konrad Adenauer
+		texturefile = "gfx/dual_leaders/RHI/Konrad Adenauer.png"
+	}
+	#DEN
+		spriteType = {
+		name = "GFX_DEN_dual_leader_1" #Christian X
+		texturefile = "gfx/dual_leaders/DEN/Christian X.png"
+	}
+	#SWE
+		spriteType = {
+		name = "GFX_SWE_dual_leader_1" #Karl I
+		texturefile = "gfx/dual_leaders/SWE/Karl I.png"
+	}
+	#GER
+		spriteType = {
+		name = "GFX_GER_dual_leader_1" #Karl Harrer
+		texturefile = "gfx/dual_leaders/GER/Karl Harrer.png"
+	}
+	#LIV
+		spriteType = {
+		name = "GFX_LIV_dual_leader_1" #Rüdiger von der Goltz
+		texturefile = "gfx/dual_leaders/LIV/Rüdiger von der Goltz.png"
+	}
+	#FIN
+		spriteType = {
+		name = "GFX_FIN_dual_leader_1" #Filip I
+		texturefile = "gfx/dual_leaders/FIn/Filip I.png"
+	}
+	#PRE
+		spriteType = {
+		name = "GFX_PRE_dual_leader_1" #Waldemar I
+		texturefile = "gfx/dual_leaders/PRE/Waldemar I.png"
+	}
+	#LUX
+		spriteType = {
+		name = "GFX_LUX_dual_leader_1" #Nicolas Biever
+		texturefile = "gfx/dual_leaders/LUX/Nicolas Biever.png"
+	}
+	#WUR
+		spriteType = {
+		name = "GFX_WUR_dual_leader_1" #Ludwig Marum
+		texturefile = "gfx/dual_leaders/WUR/Ludwig Marum.png"
 	}
 }

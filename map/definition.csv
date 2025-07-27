@@ -4930,7 +4930,7 @@
 4929;51;30;248;sea;false;ocean;0
 4930;51;31;236;sea;false;ocean;0
 4931;51;32;244;sea;true;ocean;0
-4932;51;33;98;land;true;desert;7
+4932;51;33;98;land;false;desert;7
 4933;51;33;148;land;false;desert;5
 4934;51;33;203;land;false;jungle;3
 4935;51;34;232;sea;false;ocean;0
@@ -12700,7 +12700,7 @@
 12699;176;210;37;land;false;mountain;2
 12700;176;210;82;land;false;plains;6
 12701;176;210;187;land;false;forest;2
-12702;177;0;57;land;true;desert;7
+12702;177;0;57;land;false;desert;7
 12703;177;0;162;land;false;hills;3
 12704;177;0;207;land;false;desert;7
 12705;177;3;22;land;false;plains;6
@@ -13372,7 +13372,7 @@
 13371;17;219;248;land;false;forest;5
 13372;126;86;131;land;false;forest;5
 13373;111;171;107;land;false;hills;5
-13374;136;231;113;land;true;mountain;7
+13374;136;231;113;land;false;mountain;7
 13375;249;107;36;land;false;forest;1
 #newITprovinces
 13376;110;1;1;land;true;plains;3
@@ -13392,9 +13392,9 @@
 13390;110;1;15;land;true;desert;7
 13391;110;1;16;land;true;desert;7
 13392;110;1;17;land;true;desert;7
-13393;110;1;18;land;true;hills;7
+13393;110;1;18;land;false;hills;7
 13394;110;1;19;land;true;desert;7
-13395;110;1;20;land;true;desert;7
+13395;110;1;20;land;false;desert;7
 13396;110;1;21;land;false;desert;7
 13397;110;1;22;land;false;desert;7
 13398;110;1;23;land;false;desert;7
@@ -13409,7 +13409,7 @@
 13407;110;1;32;land;false;desert;7
 13408;110;1;33;land;false;desert;7
 13409;110;1;34;land;false;desert;7
-13410;110;1;35;land;false;desert;7
+13410;110;1;35;land;true;desert;7
 13411;110;1;36;land;false;desert;7
 13412;110;1;37;land;false;desert;7
 13413;110;1;38;land;true;desert;7
@@ -13429,3 +13429,5 @@
 13427;110;1;52;land;false;desert;7
 13428;110;1;53;land;false;desert;7
 13429;110;1;54;land;false;desert;7
+13430;110;10;1;land;false;city;1
+13431;110;10;2;land;false;city;1

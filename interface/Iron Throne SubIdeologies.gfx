@@ -19,7 +19,134 @@ spriteTypes = {
 	#Liberalism
 	
 	#Monarchism
-	
+	spriteType = {
+        name = "GFX_ideology_american_caesarism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_American_Caesarism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_american_monarchism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_American_Monarchism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_bonapartism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Bonapartism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_byzantine_restorationism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Byzantine_Restorationism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_carlism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Carlism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_celtic_kingship"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Celtic_Kingship.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_classical_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Classical_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_cossack_hetmanate"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Cossack_Hetmanate.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_elective_monarchism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Elective_Monarchism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_enlightened_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Enlightened_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_ethnarchy"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Ethnarchy.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_federal_monarchism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Federal_Monarchism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_free_market_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Free_Market_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_hegemonic_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Hegemonic_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_ilyinism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Ilyinism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_jagiellonian_revivalism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Jagiellonian_Revivalism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_longist_monarchism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Longist_Monarchism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_managerial_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Managerial_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_monarcho_socialism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Monarcho_Socialism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_neo_imperial_federalism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_neo_imperial_federalism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_pan_european_monarchism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Pan_European_Monarchism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_reactionary_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Reactionary_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_semi_theocratic_monarchism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Semi_Theocratic Monarchism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_showa_state_capitalism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Showa_State_Capitalism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_showa_statism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Showa_Statism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_showa_technocracy"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Showa_Technocracy.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_social_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Social_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_stratocratic_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Stratocratic_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_tetrarchy"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Tetrarchy.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_theocratic_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Theocratic_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_tory_absolutism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Tory_Absolutism.png"
+    }
+	spriteType = {
+        name = "GFX_ideology_wrangelism"
+        texturefile = "gfx/interface/ideologies/subideologies/Monarchism/monarchism_Wrangelism.png"
+    }
 	#Primordialism
 	
 	#Progressivism

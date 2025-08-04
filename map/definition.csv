@@ -13431,3 +13431,10 @@
 13429;110;1;54;land;false;desert;7
 13430;110;10;1;land;false;city;1
 13431;110;10;2;land;false;city;1
+13432;110;1;55;land;true;plains;3
+13433;110;1;56;land;true;plains;3
+13434;110;1;57;land;true;plains;3
+13435;110;1;58;land;false;hills;2
+13436;110;1;59;land;false;mountain;2
+13437;110;1;60;land;true;desert;2
+13438;110;1;61;land;false;hills;1

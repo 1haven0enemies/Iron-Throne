@@ -1,0 +1,27 @@
+state={
+	id=1063
+	name="STATE_1063"
+
+	provinces={
+		13435
+	}
+
+	history={
+		owner = USA
+		add_core_of = USA
+		add_core_of = CAN  
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			13435 3
+		}
+
+	}
+
+	manpower = 35278
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

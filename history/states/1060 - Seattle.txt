@@ -1,0 +1,36 @@
+state={
+	id=1060
+	name="STATE_1060"
+
+	provinces={
+		1320 4296 4398 7255 7315 7386 7442 7414 10155 10157 10690 10198 10242 10271 12155 12214 
+	}
+
+	history={
+		owner = CAN
+		add_core_of = CAN  
+		buildings = {
+
+			infrastructure = 2 #was: 6
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+
+			7315 = {
+				naval_base = 3
+			}
+
+
+		}
+
+		victory_points = {
+			7315 10 # Seattle
+		}
+	}
+
+	manpower = 1339940
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

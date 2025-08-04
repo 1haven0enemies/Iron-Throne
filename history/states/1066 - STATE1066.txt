@@ -1,0 +1,29 @@
+state={
+	id=1066
+	name="STATE_1066"
+
+	provinces={
+		914 11767 
+	}
+
+	history={
+		owner = GRE
+		add_core_of = GRE
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			914 1
+		}
+		victory_points = {
+			11767 2 
+		}
+	}
+
+	manpower = 18799
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=1057
+	name="STATE_1057"
+
+	provinces={
+		13432
+	}
+
+	history={
+		owner = USA
+		add_core_of = DOM 
+		buildings = {
+		13432 = {
+			naval_base = 3
+		}
+			infrastructure = 1
+		}
+
+	}
+
+	manpower=2620
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

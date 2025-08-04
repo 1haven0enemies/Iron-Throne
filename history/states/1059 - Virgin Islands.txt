@@ -1,0 +1,22 @@
+state={
+	id=1059
+	name="STATE_1059"
+
+	provinces={
+		13433
+	}
+
+	history={
+		owner = ENG
+		add_core_of = PUE  
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	manpower=2620
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -10,8 +10,9 @@ state= {
 	state_category = town
 
 	history= {
-		owner = BYZ
-		add_core_of = BYZ
+		owner = BUL
+		add_core_of = BUL
+		add_core_of = TUR
 		victory_points = {
 			11842 5
 		}
@@ -23,7 +24,7 @@ state= {
 				coastal_bunker = 2
 			}
 		}
-		add_core_of = TUR
+
 
 		1936.1.1.1 = { 
 			if = {
@@ -36,9 +37,8 @@ state= {
 			set_demilitarized_zone = no
 		}
 	}
-	provinces=
-	{
-849 922 3879 3893 6895 11842 	}
+	provinces =	{
+		 922 3893 11842 	}
 
 	local_supplies=0.0 
 }

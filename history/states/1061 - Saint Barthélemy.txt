@@ -1,0 +1,32 @@
+state={
+	id=1061
+	name="STATE_1061"
+
+	provinces={
+		13434
+	}
+
+	history={
+		owner = USA
+		add_core_of = GDL  
+		buildings = {
+
+			infrastructure = 1
+
+			13434 = {
+				naval_base = 3
+			}
+
+
+		}
+		victory_points = {
+			13434 1
+		}
+
+	}
+
+	manpower = 940
+	buildings_max_level_factor=1.000
+	state_category = tiny_island
+	local_supplies=0.000
+}

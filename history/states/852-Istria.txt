@@ -8,7 +8,7 @@ state = {
 
 
 	history = {
-		owner = ITA
+		owner = AUS
 		victory_points = { #Fiume (Rijeka)
 			11564 1 
 		}
@@ -30,7 +30,7 @@ state = {
 	}
 
 	provinces = {
-		11564 11735
+		11564 11735 13438
 	}
 
 	local_supplies = 0.0 

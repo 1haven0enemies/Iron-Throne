@@ -131,4 +131,12 @@ ASY_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+SON_USA = {
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 87 160 255 }
+}
+ALB_YUG = {
+	color = rgb { 59 105 208 }
+	color_ui = rgb { 59 105 208 }
+}
 ####

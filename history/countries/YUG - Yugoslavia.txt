@@ -42,7 +42,10 @@ if = {
 
 set_research_slots = 3
 
-
+set_autonomy = {
+	target = ALB
+	autonomy_state = autonomy_occupied_terrotory
+}
 
 if = {
 	limit = {

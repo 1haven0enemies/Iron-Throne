@@ -7,15 +7,9 @@ state={
 
 	history={
 		owner = SYR
-		victory_points = {
-			3942 1
-		}
-		victory_points = {
-			1549 1
-		}
-		victory_points = {
-			6883 1
-		}
+
+
+
 		buildings = {
 			infrastructure = 1
 		}
@@ -25,7 +19,7 @@ state={
 
 
 	provinces={
-		901     2013   7513  12316  
+		901 2013 7513 12316  
 	}
 
 	local_supplies=4.0 

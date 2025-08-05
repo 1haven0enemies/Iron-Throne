@@ -9,6 +9,9 @@ state={
 	history={
 		owner = AFG
 		add_core_of = AFG
+				victory_points = {
+			12248 1
+		}
 	}
 	
 	buildings_max_level_factor=1.000

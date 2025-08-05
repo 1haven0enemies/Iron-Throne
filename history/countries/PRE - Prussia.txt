@@ -1,6 +1,6 @@
 recruit_character = PRE_Paul_Thomas_Mann
 set_variable = {currentdualleader = 1 }
-capital = 64
+capital = 763
 
 # Starting tech
 set_technology = {

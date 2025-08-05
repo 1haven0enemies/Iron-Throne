@@ -7,10 +7,10 @@ state={
 		owner = LIV
 		add_core_of = LIV
 		victory_points = {
-			310 3 #Daugavpils
+			3255 1 #Jekabpils
 		}
 		victory_points = {
-			222 1 #Rezekne
+			6222 3 #Jelgava
 		}
 		buildings = {
 			infrastructure = 2

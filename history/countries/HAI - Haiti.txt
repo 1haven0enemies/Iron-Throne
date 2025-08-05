@@ -1,4 +1,4 @@
-﻿capital = 1022
+﻿capital = 318
 
 oob = "HAI_1936"
 

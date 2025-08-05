@@ -1,6 +1,6 @@
 ﻿recruit_character = WUR_Adam_Remmele
 set_variable = {currentdualleader = 1 }
-capital = 50
+capital = 978
 
 # Starting tech
 set_technology = {

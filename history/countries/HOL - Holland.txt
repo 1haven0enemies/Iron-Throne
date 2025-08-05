@@ -1,6 +1,6 @@
 ﻿recruit_character = HOL_Hendrikus_Colijin
 set_variable = {currentdualleader = 1 }
-capital = 1047
+capital = 7
 
 oob = "HOL_1936"
 

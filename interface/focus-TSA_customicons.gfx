@@ -21,25 +21,25 @@ spriteTypes = {	##Icon For:
 			animationrotationoffset = { x = 0.0 y = 0.0 }
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
-		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_HUN_keep_hungarian_monarchy-770893.dds"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = 90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		legacy_lazy_load = no
 	}
 
 	##Icon For: 
 	SpriteType = { 
 		name = "GFX_The_Iron_Plan"
 		texturefile = "gfx/interface/goals/The_Iron_Plan.png"
+	}
+
+	SpriteType = { 
+		name = "GFX_Old_Griev"
+		texturefile = "gfx/interface/goals/oldgriev.png"
+	}
+	SpriteType = { 
+		name = "GFX_Fading_Breath"
+		texturefile = "gfx/interface/goals/fading_breath.png"
+	}
+	SpriteType = { 
+		name = "GFX_Bureaucracy"
+		texturefile = "gfx/interface/goals/bureaucracy.png"
 	}
 
 	##Icon Shine For: 
@@ -324,5 +324,6 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
+
 
 }

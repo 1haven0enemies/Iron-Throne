@@ -150,7 +150,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_battlefield_to_bureaucracy
-		icon = GFX_goal_generic_intelligence_exchange
+		icon = GFX_Bureaucracy
 		prerequisite = {
 			focus = TSA_bell_of_haghia_sophia
 		}
@@ -178,7 +178,7 @@ focus_tree = {
 
 		focus = {
 		id = TSA_shadows_of_old_grieviance
-		icon = GFX_goal_generic_territory_or_war
+		icon = GFX_Old_Griev
 		prerequisite = {
 			focus = TSA_bell_of_haghia_sophia
 		}
@@ -212,7 +212,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_bosporus_gateway
-		icon = GFX_goal_generic_construct_naval_dockyard
+		icon = GFX_The_Iron_Bosporus
 		prerequisite = {
 			focus = TSA_jobs_for_our_people
 		}
@@ -288,7 +288,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_tsar_breath
-		icon = GFX_focus_SOV_panslavic_nationalism
+		icon = GFX_Fading_Breath
 		prerequisite = {
 			focus = TSA_plan_zolotogo_roga
 		}

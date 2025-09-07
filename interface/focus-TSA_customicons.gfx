@@ -1,6 +1,6 @@
 spriteTypes = {	##Icon For: 
 	SpriteType = { 
-		name "GFX_The_Iron_Sik"
+		name = "GFX_The_Iron_Sik"
 		texturefile = "gfx/interface/goals/The_Iron_Sik.png"
 	}
 
@@ -23,7 +23,7 @@ spriteTypes = {	##Icon For:
 		}
 	}
 
-	##Icon For: 
+	##Icon For:
 	SpriteType = { 
 		name = "GFX_The_Iron_Plan"
 		texturefile = "gfx/interface/goals/The_Iron_Plan.png"
@@ -41,6 +41,19 @@ spriteTypes = {	##Icon For:
 		name = "GFX_Bureaucracy"
 		texturefile = "gfx/interface/goals/bureaucracy.png"
 	}
+	SpriteType = { 
+		name = "GFX_Bells_of_haghia_sofia"
+		texturefile = "gfx/interface/goals/The_Bells_of_Hagia_Sophia.png"
+	}
+	SpriteType = {
+		name = "GFX_against_the_tides"
+		textureFile = "gfx_interface/goals/against_the_tide.png"
+	}
+	SpriteType = {
+		name = "GFX_crescent_grip"
+		textureFile = "gfx/interface/goals/the_crescents_grip.png"
+	}
+
 
 	##Icon Shine For: 
 	SpriteType = { 
@@ -150,7 +163,7 @@ spriteTypes = {	##Icon For:
 		legacy_lazy_load = no
 	}
 
-	##Icon For: 
+	##Icon For: The Clock is Ticking
 	SpriteType = { 
 		name = "GFX_The_Iron_Clock"
 		texturefile = "gfx/interface/goals/The_Iron_Clock.png"
@@ -301,29 +314,5 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
-
-}
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_HUN_hungariangreatandready-770896.dds"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = 90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		legacy_lazy_load = no
-	}
-
 
 }

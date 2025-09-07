@@ -22,7 +22,7 @@ focus_tree = {
 
 		focus = {
 		id = TSA_jobs_for_our_people
-		icon = GFX_goal_generic_construction
+		icon = GFX_goal_jobs
 		prerequisite = {
 			focus = TSA_the_clock_is_ticking
 		}
@@ -136,7 +136,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_bell_of_haghia_sophia
-		icon = GFX_focus_SOV_patriarch_of_all_russia
+		icon = GFX_Bells_of_haghia_sofia
 		prerequisite = {
 			focus = TSA_national_crisis_of_indentity
 		}
@@ -164,7 +164,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_against_the_tides
-		icon = GFX_goal_generic_navy_doctrines_tactics
+		icon = GFX_against_the_tides
 		prerequisite = {
 			focus = TSA_bell_of_haghia_sophia
 		}
@@ -192,7 +192,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_crescent_grip
-		icon = GFX_goal_generic_demand_territory
+		icon = GFX_crescent_grip
 		prerequisite = {
 			focus = TSA_against_the_tides
 		}

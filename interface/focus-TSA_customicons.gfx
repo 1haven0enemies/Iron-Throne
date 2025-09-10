@@ -1,105 +1,17 @@
-spriteTypes = {	##Icon For: 
-	SpriteType = { 
-		name = "GFX_The_Iron_Sik"
-		texturefile = "gfx/interface/goals/The_Iron_Sik.png"
-	}
-
-	##Icon Shine For: 
-	SpriteType = { 
-		name = "GFX_The_Iron_Sik_shine"
-		texturefile = "gfx/interface/goals/The_Iron_Sik.png"
-		effectFile = "gfx/FX/buttonstate.lua"
-		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Sik.png"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = -90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-	}
-
-	##Icon For:
-	SpriteType = { 
-		name = "GFX_The_Iron_Plan"
-		texturefile = "gfx/interface/goals/The_Iron_Plan.png"
-	}
-
-	SpriteType = { 
-		name = "GFX_Old_Griev"
-		texturefile = "gfx/interface/goals/oldgriev.png"
-	}
-	SpriteType = { 
-		name = "GFX_Fading_Breath"
-		texturefile = "gfx/interface/goals/fading_breath.png"
-	}
-	SpriteType = { 
-		name = "GFX_Bureaucracy"
-		texturefile = "gfx/interface/goals/bureaucracy.png"
-	}
-	SpriteType = { 
-		name = "GFX_Bells_of_haghia_sofia"
-		texturefile = "gfx/interface/goals/The_Bells_of_Hagia_Sophia.png"
-	}
-	SpriteType = {
-		name = "GFX_against_the_tides"
-		textureFile = "gfx_interface/goals/against_the_tide.png"
-	}
-	SpriteType = {
-		name = "GFX_crescent_grip"
-		textureFile = "gfx/interface/goals/the_crescents_grip.png"
-	}
-
-
-	##Icon Shine For: 
-	SpriteType = { 
-		name = "GFX_The_Iron_Plan_shine"
-		texturefile = "gfx/interface/goals/The_Iron_Plan.png"
-		effectFile = "gfx/FX/buttonstate.lua"
-		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Plan.png"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = -90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Plan.png"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = 90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		legacy_lazy_load = no
-	}
-
+spriteTypes = {	
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_The_Iron_Nation"
-		texturefile = "gfx/interface/goals/The_Iron_Nation.png"
+		name = "GFX_TSA_against_the_tides"
+		texturefile = "gfx/interface/goals/TSA_against_the_tides.png"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_The_Iron_Nation_shine"
-		texturefile = "gfx/interface/goals/The_Iron_Nation.png"
+		name = "GFX_TSA_against_the_tides_shine"
+		texturefile = "gfx/interface/goals/TSA_against_the_tides.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Nation.png"
+			animationmaskfile = "gfx/interface/goals/TSA_against_the_tides.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -111,7 +23,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Nation.png"
+			animationmaskfile = "gfx/interface/goals/TSA_against_the_tides.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -124,20 +36,20 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
-
+	
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_The_Iron_Industry"
-		texturefile = "gfx/interface/goals/The_Iron_Industry.png"
+		name = "GFX_TSA_arm_white_guard"
+		texturefile = "gfx/interface/goals/TSA_arm_white_guard.png"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_The_Iron_Industry_shine"
-		texturefile = "gfx/interface/goals/The_Iron_Industry.png"
+		name = "GFX_TSA_arm_white_guard_shine"
+		texturefile = "gfx/interface/goals/TSA_arm_white_guard.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Industry.png"
+			animationmaskfile = "gfx/interface/goals/TSA_arm_white_guard.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -149,7 +61,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Industry.png"
+			animationmaskfile = "gfx/interface/goals/TSA_arm_white_guard.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -162,58 +74,20 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
-
-	##Icon For: The Clock is Ticking
-	SpriteType = { 
-		name = "GFX_The_Iron_Clock"
-		texturefile = "gfx/interface/goals/The_Iron_Clock.png"
-	}
-
-	##Icon Shine For: 
-	SpriteType = { 
-		name = "GFX_The_Iron_Clock_shine"
-		texturefile = "gfx/interface/goals/The_Iron_Clock.png"
-		effectFile = "gfx/FX/buttonstate.lua"
-		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Clock.png"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = -90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Clock.png"
-			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
-			animationrotation = 90.0
-			animationlooping = no
-			animationtime = 0.75
-			animationdelay = 0
-			animationblendmode = "add"
-			animationtype = "scrolling"
-			animationrotationoffset = { x = 0.0 y = 0.0 }
-			animationtexturescale = { x = 1.0 y = 1.0 } 
-		}
-		legacy_lazy_load = no
-	}
-
+	
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_The_Iron_Bosporus"
-		texturefile = "gfx/interface/goals/The_Iron_Bosporus.png"
+		name = "GFX_TSA_battlefield_to_bureaucracy"
+		texturefile = "gfx/interface/goals/TSA_battlefield_to_bureaucracy.png"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_The_Iron_Bosporus_shine"
-		texturefile = "gfx/interface/goals/The_Iron_Bosporus.png"
+		name = "GFX_TSA_battlefield_to_bureaucracy_shine"
+		texturefile = "gfx/interface/goals/TSA_battlefield_to_bureaucracy.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Bosporus.png"
+			animationmaskfile = "gfx/interface/goals/TSA_battlefield_to_bureaucracy.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -225,7 +99,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/The_Iron_Bosporus.png"
+			animationmaskfile = "gfx/interface/goals/TSA_battlefield_to_bureaucracy.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -238,20 +112,20 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
-
+	
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_HUN_redmarchdidntend-426"
-		texturefile = "gfx/interface/goals/GFX_HUN_redmarchdidntend-426.dds"
+		name = "GFX_TSA_behind_the_iron_general"
+		texturefile = "gfx/interface/goals/TSA_behind_the_iron_general.png"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_HUN_redmarchdidntend-426_shine"
-		texturefile = "gfx/interface/goals/GFX_HUN_redmarchdidntend-426.dds"
+		name = "GFX_TSA_behind_the_iron_general_shine"
+		texturefile = "gfx/interface/goals/TSA_behind_the_iron_general.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_HUN_redmarchdidntend-426.dds"
+			animationmaskfile = "gfx/interface/goals/TSA_behind_the_iron_general.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -263,7 +137,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_HUN_redmarchdidntend-426.dds"
+			animationmaskfile = "gfx/interface/goals/TSA_behind_the_iron_general.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -276,20 +150,20 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
-
+	
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_HUN_hungariangreatandready-770896"
-		texturefile = "gfx/interface/goals/GFX_HUN_hungariangreatandready-770896.dds"
+		name = "GFX_TSA_bell_of_haghia_sophia"
+		texturefile = "gfx/interface/goals/TSA_bell_of_haghia_sophia.png"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_HUN_hungariangreatandready-770896_shine"
-		texturefile = "gfx/interface/goals/GFX_HUN_hungariangreatandready-770896.dds"
+		name = "GFX_TSA_bell_of_haghia_sophia_shine"
+		texturefile = "gfx/interface/goals/TSA_bell_of_haghia_sophia.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_HUN_hungariangreatandready-770896.dds"
+			animationmaskfile = "gfx/interface/goals/TSA_bell_of_haghia_sophia.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -301,7 +175,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_HUN_hungariangreatandready-770896.dds"
+			animationmaskfile = "gfx/interface/goals/TSA_bell_of_haghia_sophia.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -314,5 +188,575 @@ spriteTypes = {	##Icon For:
 		}
 		legacy_lazy_load = no
 	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_bosporus_gateway"
+		texturefile = "gfx/interface/goals/TSA_bosporus_gateway.png"
+	}
 
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_bosporus_gateway_shine"
+		texturefile = "gfx/interface/goals/TSA_bosporus_gateway.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_bosporus_gateway.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_bosporus_gateway.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_crescent_grip"
+		texturefile = "gfx/interface/goals/TSA_crescent_grip.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_crescent_grip_shine"
+		texturefile = "gfx/interface/goals/TSA_crescent_grip.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_crescent_grip.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_crescent_grip.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_follow_the_krasnov_idea"
+		texturefile = "gfx/interface/goals/TSA_follow_the_krasnov_idea.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_follow_the_krasnov_idea_shine"
+		texturefile = "gfx/interface/goals/TSA_follow_the_krasnov_idea.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_follow_the_krasnov_idea.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_follow_the_krasnov_idea.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_groundwork_for_restoration"
+		texturefile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_groundwork_for_restoration_shine"
+		texturefile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_ice_march"
+		texturefile = "gfx/interface/goals/TSA_ice_march.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_ice_march_shine"
+		texturefile = "gfx/interface/goals/TSA_ice_march.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_ice_march.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_ice_march.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_jobs_for_our_people"
+		texturefile = "gfx/interface/goals/TSA_jobs_for_our_people.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_jobs_for_our_people_shine"
+		texturefile = "gfx/interface/goals/TSA_jobs_for_our_people.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_jobs_for_our_people.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_jobs_for_our_people.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_national_crisis_of_indentity"
+		texturefile = "gfx/interface/goals/TSA_national_crisis_of_indentity.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_national_crisis_of_indentity_shine"
+		texturefile = "gfx/interface/goals/TSA_national_crisis_of_indentity.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_national_crisis_of_indentity.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_national_crisis_of_indentity.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_plan_zolotogo_roga"
+		texturefile = "gfx/interface/goals/TSA_plan_zolotogo_roga.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_plan_zolotogo_roga_shine"
+		texturefile = "gfx/interface/goals/TSA_plan_zolotogo_roga.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_plan_zolotogo_roga.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_plan_zolotogo_roga.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_project_sikorsky"
+		texturefile = "gfx/interface/goals/TSA_project_sikorsky.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_project_sikorsky_shine"
+		texturefile = "gfx/interface/goals/TSA_project_sikorsky.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_project_sikorsky.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_project_sikorsky.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_shadows_of_old_grieviance"
+		texturefile = "gfx/interface/goals/TSA_shadows_of_old_grieviance.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_shadows_of_old_grieviance_shine"
+		texturefile = "gfx/interface/goals/TSA_shadows_of_old_grieviance.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_shadows_of_old_grieviance.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_shadows_of_old_grieviance.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_swords_of_lake"
+		texturefile = "gfx/interface/goals/TSA_swords_of_lake.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_swords_of_lake_shine"
+		texturefile = "gfx/interface/goals/TSA_swords_of_lake.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_swords_of_lake.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_swords_of_lake.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_the_clock_is_ticking"
+		texturefile = "gfx/interface/goals/TSA_the_clock_is_ticking.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_the_clock_is_ticking_shine"
+		texturefile = "gfx/interface/goals/TSA_the_clock_is_ticking.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_the_clock_is_ticking.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_the_clock_is_ticking.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_the_georgievsky_line"
+		texturefile = "gfx/interface/goals/TSA_the_georgievsky_line.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_the_georgievsky_line_shine"
+		texturefile = "gfx/interface/goals/TSA_the_georgievsky_line.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_the_georgievsky_line.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_the_georgievsky_line.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_tsar_breath"
+		texturefile = "gfx/interface/goals/TSA_tsar_breath.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_tsar_breath_shine"
+		texturefile = "gfx/interface/goals/TSA_tsar_breath.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_tsar_breath.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_tsar_breath.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	##Icon For: 
+	SpriteType = { 
+		name = "GFX_TSA_groundwork_for_restoration"
+		texturefile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+	}
+
+	##Icon Shine For: 
+	SpriteType = { 
+		name = "GFX_TSA_groundwork_for_restoration_shine"
+		texturefile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/TSA_groundwork_for_restoration.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
 }

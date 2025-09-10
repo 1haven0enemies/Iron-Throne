@@ -11,7 +11,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_the_clock_is_ticking
-		icon = GFX_The_Iron_Clock
+		icon = GFX_TSA_the_clock_is_ticking
 		x = 7
 		y = 1
 		cost = 10
@@ -22,7 +22,7 @@ focus_tree = {
 
 		focus = {
 		id = TSA_jobs_for_our_people
-		icon = GFX_goal_jobs
+		icon = GFX_TSA_jobs_for_our_people
 		prerequisite = {
 			focus = TSA_the_clock_is_ticking
 		}
@@ -36,7 +36,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_national_crisis_of_indentity
-		icon = GFX_icon_national_crisis_of_identity
+		icon = GFX_TSA_national_crisis_of_indentity
 		prerequisite = {
 			focus = TSA_the_clock_is_ticking
 		}
@@ -50,7 +50,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_arm_white_guard
-		icon = GFX_icon_white_guard_arming
+		icon = GFX_TSA_arm_white_guard
 		prerequisite = {
 			focus = TSA_the_clock_is_ticking
 		}
@@ -64,7 +64,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_swords_of_lake
-		icon = GFX_icon_swords_of_peipus
+		icon = GFX_TSA_swords_of_lake
 		prerequisite = {
 			focus = TSA_the_clock_is_ticking
 		}
@@ -78,7 +78,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_follow_the_krasnov_idea
-		icon = GFX_icon_follow_krasnov
+		icon = GFX_TSA_follow_the_krasnov_idea
 		prerequisite = {
 			focus = TSA_swords_of_lake
 			focus = TSA_arm_white_guard
@@ -93,7 +93,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_behind_the_iron_general
-		icon = GFX_icon_iron_general
+		icon = GFX_TSA_behind_the_iron_general
 		prerequisite = {
 			focus = TSA_swords_of_lake
 			focus = TSA_arm_white_guard
@@ -108,7 +108,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_ice_march
-		icon = GFX_icon_hero_of_ice_march
+		icon = GFX_TSA_ice_march
 		prerequisite = {
 			focus = TSA_behind_the_iron_general
 		}
@@ -122,7 +122,7 @@ focus_tree = {
 
 		focus = {
 		id = TSA_the_georgievsky_line
-		icon = GFX_icon_georgievsky_line
+		icon = GFX_TSA_the_georgievsky_line
 		prerequisite = {
 			focus = TSA_follow_the_krasnov_idea
 		}
@@ -136,7 +136,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_bell_of_haghia_sophia
-		icon = GFX_Bells_of_haghia_sofia
+		icon = GFX_TSA_bell_of_haghia_sophia
 		prerequisite = {
 			focus = TSA_national_crisis_of_indentity
 		}
@@ -150,7 +150,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_battlefield_to_bureaucracy
-		icon = GFX_Bureaucracy
+		icon = GFX_TSA_battlefield_to_bureaucracy
 		prerequisite = {
 			focus = TSA_bell_of_haghia_sophia
 		}
@@ -164,7 +164,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_against_the_tides
-		icon = GFX_against_the_tides
+		icon = GFX_TSA_against_the_tides
 		prerequisite = {
 			focus = TSA_bell_of_haghia_sophia
 		}
@@ -178,7 +178,7 @@ focus_tree = {
 
 		focus = {
 		id = TSA_shadows_of_old_grieviance
-		icon = GFX_Old_Griev
+		icon = GFX_TSA_shadows_of_old_grieviance
 		prerequisite = {
 			focus = TSA_bell_of_haghia_sophia
 		}
@@ -192,7 +192,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_crescent_grip
-		icon = GFX_crescent_grip
+		icon = GFX_TSA_crescent_grip
 		prerequisite = {
 			focus = TSA_against_the_tides
 		}
@@ -212,7 +212,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_bosporus_gateway
-		icon = GFX_The_Iron_Bosporus
+		icon = GFX_TSA_bosporus_gateway
 		prerequisite = {
 			focus = TSA_jobs_for_our_people
 		}
@@ -226,7 +226,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_arteries_of_industry
-		icon = GFX_The_Iron_Industry
+		icon = GFX_TSA_arteries_of_industry
 		prerequisite = {
 			focus = TSA_jobs_for_our_people
 		}
@@ -240,7 +240,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_project_sikorsky
-		icon = GFX_The_Iron_Sik
+		icon = GFX_TSA_project_sikorsky
 		prerequisite = {
 			focus = TSA_jobs_for_our_people
 		}
@@ -254,7 +254,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_groundwork_for_restoration
-		icon = GFX_goal_generic_construction2
+		icon = GFX_TSA_groundwork_for_restoration
 		prerequisite = {
 			focus = TSA_jobs_for_our_people
 		}
@@ -274,7 +274,7 @@ focus_tree = {
 
 		focus = {
 		id = TSA_plan_zolotogo_roga
-		icon = GFX_The_Iron_Plan
+		icon = GFX_TSA_plan_zolotogo_roga
 		prerequisite = {
 			focus = TSA_groundwork_for_restoration
 		}
@@ -288,7 +288,7 @@ focus_tree = {
 
 	focus = {
 		id = TSA_tsar_breath
-		icon = GFX_Fading_Breath
+		icon = GFX_TSA_tsar_breath
 		prerequisite = {
 			focus = TSA_plan_zolotogo_roga
 		}

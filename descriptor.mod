@@ -1,4 +1,4 @@
-version="1.16.0"
+version="1"
 tags={
 	"Alternative History"
 	"Gameplay"
@@ -9,7 +9,6 @@ tags={
 	"Ideologies"
 }
 name="iron-throne"
-supported_version="1.16.0"
 replace_path="common/ai_equipment"
 replace_path="common/ai_focuses"
 replace_path="common/ai_strategy"
@@ -40,4 +39,4 @@ replace_path="gfx/loadingscreens"
 replace_path="map/supplyareas"
 replace_path="map/strategicregions"
 replace_path="map/definition"
-path="C:/Users/user/Documents/Paradox Interactive/Hearts of Iron IV/mod/Iron-Throne"
+supported_version="1.16.*"

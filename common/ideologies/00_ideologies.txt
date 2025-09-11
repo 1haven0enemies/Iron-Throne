@@ -114,10 +114,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -282,10 +279,9 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
+		
 
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -465,10 +461,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -588,8 +581,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
+		
 
 		ai_neutral = yes #
 		ai_ideology_wanted_units_factor = 1.15
@@ -783,10 +775,9 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
+		
 
-		ai_neutral = yes #
+		 #
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -969,10 +960,9 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
+		
 
-		ai_neutral = yes #
+		 #
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1089,10 +1079,9 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
+		
 
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1200,10 +1189,9 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
+		
 
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1216,58 +1204,58 @@ ideologies = {
 			agrarian_conservatism = {
 			}
 
-			american_christian_right  = {
+			american_christian_right = {
 			}
 
-			aristocratic_conservatism  = {
+			aristocratic_conservatism = {
 			}
 
-			christian_democracy  = {
+			christian_democracy = {
 			}
 
-			christian_technocracy  = {
+			christian_technocracy = {
 			}
 
-			conservative_corporatism  = {
+			conservative_corporatism = {
 			}
 
-			conservative_getulioism  = {
+			conservative_getulioism = {
 			}
 
-			conservative_liberalism  = {
+			conservative_liberalism = {
 			}
 
-			conservative_oligarchism  = {
+			conservative_oligarchism = {
 			}
 
-			conservative_populism  = {
+			conservative_populism = {
 			}
 
-			conservative_warlordism  = {
+			conservative_warlordism = {
 			}
 
-			hindu_democracy  = {
+			hindu_democracy = {
 			}
 
-			islamic_democracy  = {
+			islamic_democracy = {
 			}
 
-			libertarian_conservatism  = {
+			libertarian_conservatism = {
 			}
 
 			mccarthyism = {
 			}
 
-			moderate_authoritarianism  = {
+			moderate_authoritarianism = {
 			}
 
-			national_conservatism  = {
+			national_conservatism = {
 			}
 
-			paternalistic_conservatism  = {
+			paternalistic_conservatism = {
 			}
 
-			progressive_conservatism  = {
+			progressive_conservatism = {
 			}
 
 			quaker_conservatism = {
@@ -1276,7 +1264,7 @@ ideologies = {
 			reformed_eurasianism = {
 			}
 
-			right_sikh_democracy  = {
+			right_sikh_democracy = {
 			}
 
 			traditionalist_conservatism = {
@@ -1326,10 +1314,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1345,124 +1330,124 @@ ideologies = {
 			aristocratic_paneuropeanism = {
 			}
 
-			aristocratic_republicanism  = {
+			aristocratic_republicanism = {
 			}
 
 			authoritarian_centrism = {
 			}
 
-			authoritarian_christian_democracy  = {
+			authoritarian_christian_democracy = {
 			}
 
-            authoritarian_democracy  = {
+            authoritarian_democracy = {
 			}
 
-            authoritarian_islamic_democracy  = {
+            authoritarian_islamic_democracy = {
 			}
 
-			authoritarian_longism  = {
+			authoritarian_longism = {
 			}
 
 			bismarckism = {
 			}
 
-			caponian_autocracy  = {
+			caponian_autocracy = {
 			}
 
-			caudillo_populism  = {
+			caudillo_populism = {
 			}
 
-            chiang_kai_shek_thought  = {
+            chiang_kai_shek_thought = {
 			}
 
 			classical_eurasianism = {
 			}
 
-			classical_totalitarianism  = {
+			classical_totalitarianism = {
 			}
 
-            clerical_autocracy  = {
+            clerical_autocracy = {
 			}
 
-			colonial_government  = {
+			colonial_government = {
 			}
 
 			colonial_mandate = {
 			}
 
-			constitutional_dictatorship  = {
+			constitutional_dictatorship = {
 			}
 
-			controlled_democracy  = {
+			controlled_democracy = {
 			}
 
-			corporatocracy  = {
+			corporatocracy = {
 			}
 
-			despotism  = {
+			despotism = {
 			}
 
 			eco-authoritarianism = {
 			}
 
-            feudalism  = {
+            feudalism = {
 			}
 
-			filibusterism  = {
+			filibusterism = {
 			}
 
-			imperial_presidentialism  = {
+			imperial_presidentialism = {
 			}
 
-            interim_government  = {
+            interim_government = {
 			}
 
-            kleptocracy  = {
+            kleptocracy = {
 			}
 
-            kritarchy  = {
+            kritarchy = {
 			}
 
-            macarthurism  = {
+            macarthurism = {
 			}
 
-			mafia_statism  = {
+			mafia_statism = {
 			}
 
-			managerial_statism  = {
+			managerial_statism = {
 			}
 
-			military_dictatorship  = {
+			military_dictatorship = {
 			}
 
-            oligarchy  = {
+            oligarchy = {
 			}
 
-            partisan_movement  = {
+            partisan_movement = {
 			}
 
-            pirate_republicanism  = {
+            pirate_republicanism = {
 			}
 
-            provisional_government  = {
+            provisional_government = {
 			}
 
-			regency  = {
+			regency = {
 			}
 
-			sich_democracy  = {
+			sich_democracy = {
 			}
 
 			social_authoritarianism = {
 			}
 
-            social_credit  = {
+            social_credit = {
 			}
 
-            technocracy  = {
+            technocracy = {
 			}
 
-            technocratic_capitalism  = {
+            technocratic_capitalism = {
 			}
 
 			tokugawa_system = {
@@ -1474,19 +1459,19 @@ ideologies = {
             traditional_populism  = {
 			}
 
-            transitioning_democracy  = {
+            transitioning_democracy = {
 			}
 
-            tribal_despotism  = {
+            tribal_despotism = {
 			}
 
-			triumvirate  = {
+			triumvirate = {
 			}
 
-            trumpism  = {
+            trumpism = {
 			}
 
-            wang_jingwei_thought  = {
+            wang_jingwei_thought = {
 			}
 
 			warlordism = {
@@ -1530,10 +1515,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1543,64 +1525,64 @@ ideologies = {
 
 		types = {
 
-			american_caesarism  = {
+			american_caesarism = {
 			}
 
-			american_monarchism  = {
+			american_monarchism = {
 			}
 
-			bonapartism  = {
+			bonapartism = {
 			}
 
-            byzantine_restorationism  = {
+            byzantine_restorationism = {
 			}
 
-            carlism  = {
+            carlism = {
 			}
 
 			classical_absolutism = {
 			}
 
-			constitutional_monarchism  = {
+			constitutional_monarchism = {
 			}
 
-            cossack_hetmanate  = {
+            cossack_hetmanate = {
 			}
 
-			celtic_kingship  = {
+			celtic_kingship = {
 			}
 
 			crnogoroslavlje = {
 			}
 
-			dual_monarchism  = {
+			dual_monarchism = {
 			}
 
-			elective_monarchism  = {
+			elective_monarchism = {
 			}
 
-			enlightened_absolutism  = {
+			enlightened_absolutism = {
 			}
 
-            ethnarchy  = {
+            ethnarchy = {
 			}
 
 			federal_monarchism = {
 			}
 
-			free_market_absolutism  = {
+			free_market_absolutism = {
 			}
 
-            hegemonic_absolutism  = {
+            hegemonic_absolutism = {
 			}
 
-            ilyinism  = {
+            ilyinism = {
 			}
 
-            jagiellonian_revivalism  = {
+            jagiellonian_revivalism = {
 			}
 
-			longist_monarchism  = {
+			longist_monarchism = {
 			}
 
 			managerial_absolutism = {
@@ -1609,16 +1591,16 @@ ideologies = {
 			matriarchal_monarchism = {
 			}
 
-			monarcho_socialism  = {
+			monarcho_socialism = {
 			}
 
-            neo_imperial_federalism  = {
+            neo_imperial_federalism = {
 			}
 
-            pan_european_monarchism  = {
+            pan_european_monarchism = {
 			}
 
-            reactionary_absolutism  = {
+            reactionary_absolutism = {
 			}
 
 			semi_theocratic_monarchism = {
@@ -1627,28 +1609,28 @@ ideologies = {
 			showa_state_capitalism = {
 			}
 
-            showa_statism  = {
+            showa_statism = {
 			}
 
-            showa_technocracy  = {
+            showa_technocracy = {
 			}
 
-            social_absolutism  = {
+            social_absolutism = {
 			}
 
-            stratocratic_absolutism  = {
+            stratocratic_absolutism = {
 			}
 
-            tetrarchy  = {
+            tetrarchy = {
 			}
 
-            theocratic_absolutism  = {
+            theocratic_absolutism = {
 			}
 
-            tory_absolutism  = {
+            tory_absolutism = {
 			}
 
-            wrangelism  = {
+            wrangelism = {
 			}
 		}
 
@@ -1686,10 +1668,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1699,25 +1678,25 @@ ideologies = {
 
 		types = {
 
-			animist_theocracy  = {
+			animist_theocracy = {
 			}
 
-			bahai_theocracy  = {
+			bahai_theocracy = {
 			}
 
-			buddhist_theocracy  = {
+			buddhist_theocracy = {
 			}
 
-            calvinist_theocracy  = {
+            calvinist_theocracy = {
 			}
 
 			caodaism = {
 			}
 
-            catholic_theocracy  = {
+            catholic_theocracy = {
 			}
 
-			christian_fundamentalism  = {
+			christian_fundamentalism = {
 			}
 
 			christian_mysticism = {
@@ -1726,34 +1705,34 @@ ideologies = {
 			confucian_theocracy = {
 			}
 
-			druidic_theocracy  = {
+			druidic_theocracy = {
 			}
 
-            druze_theocracy  = {
+            druze_theocracy = {
 			}
 
-			eastern_orthodox_theocracy  = {
+			eastern_orthodox_theocracy = {
 			}
 
-            hasidic_theocracy  = {
+            hasidic_theocracy = {
 			}
 
-			hermetic_theocracy  = {
+			hermetic_theocracy = {
 			}
 
-			hindu_theocracy  = {
+			hindu_theocracy = {
 			}
 
-			ibadi_theocracy  = {
+			ibadi_theocracy = {
 			}
 
 			islamism = {
 			}
 
-			jain_theocracy  = {
+			jain_theocracy = {
 			}
 
-            jewish_theocracy  = {
+            jewish_theocracy = {
 			}
 
 			lamennaisism = {
@@ -1765,49 +1744,49 @@ ideologies = {
 			neo_catharism = {
 			}
 
-			oriental_orthodox_theocracy  = {
+			oriental_orthodox_theocracy = {
 			}
 
 			padre_pio_thought = {
 			}
 
-            pagan_theocracy  = {
+            pagan_theocracy = {
 			}
 
             puritanism = {
 			}
 
-            santeria_theocracy  = {
+            santeria_theocracy = {
 			}
 
-            shamanistic_theocracy  = {
+            shamanistic_theocracy = {
 			}
 
-            shia_theocracy  = {
+            shia_theocracy = {
 			}
 
-			sikh_theocracy  = {
+			sikh_theocracy = {
 			}
 
-			state_shintoism  = {
+			state_shintoism = {
 			}
 
-			sunni_theocracy  = {
+			sunni_theocracy = {
 			}
 
-            theodemocracy  = {
+            theodemocracy = {
 			}
 
-            theostratocracy  = {
+            theostratocracy = {
 			}
 
-            voodoo_theocracy  = {
+            voodoo_theocracy = {
 			}
 
 			zaydi_theocracy = {
 			}
 
-            zoroastrian_theocracy  = {
+            zoroastrian_theocracy = {
 			}
 		}
 
@@ -1845,10 +1824,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -1858,61 +1834,61 @@ ideologies = {
 
 		types = {
 
-			anthroposophy  = {
+			anthroposophy = {
 			}
 
-			ariosophy  = {
+			ariosophy = {
 			}
 
-			black_esotericism  = {
+			black_esotericism = {
 			}
 
-            dark_romanticism  = {
+            dark_romanticism = {
 			}
 
-            death_worship  = {
+            death_worship = {
 			}
 
-			esoteric_darwinism  = {
+			esoteric_darwinism = {
 			}
 
 			esotetric_populism = {
 			}
 
-			esoteric_socialism  = {
+			esoteric_socialism = {
 			}
 
-            esoteric_totalitarianism  = {
+            esoteric_totalitarianism = {
 			}
 
-			evolaism  = {
+			evolaism = {
 			}
 
 			finno-egyptianism = {
 			}
 
-            gnostic_collectivism  = {
+            gnostic_collectivism = {
 			}
 
-			gnostic_theocracy  = {
+			gnostic_theocracy = {
 			}
 
-			hindutva  = {
+			hindutva = {
 			}
 
-			huitzilopochtli_cult  = {
+			huitzilopochtli_cult = {
 			}
 
 			hyperboreanism = {
 			}
 
-			hyperborean_vitalism  = {
+			hyperborean_vitalism = {
 			}
 
 			jungian_thought = {
 			}
 
-            kabbalistic_theocracy  = {
+            kabbalistic_theocracy = {
 			}
 
 			kraterocracy = {
@@ -1921,10 +1897,10 @@ ideologies = {
 			leopard_society = {
 			}
 
-			lovecraftism  = {
+			lovecraftism = {
 			}
 
-            masonic_oligarchy  = {
+            masonic_oligarchy = {
 			}
 
 			mithraic_occultism = {
@@ -1933,16 +1909,16 @@ ideologies = {
             national_mysticism = {
 			}
 
-            neo_folkism  = {
+            neo_folkism = {
 			}
 
-            roerichism  = {
+            roerichism = {
 			}
 
-            rosicrucianism  = {
+            rosicrucianism = {
 			}
 
-			sanguism  = {
+			sanguism = {
 			}
 
 			satanism  = {
@@ -1951,22 +1927,22 @@ ideologies = {
 			savitrism = {
 			}
 
-			scythianism  = {
+			scythianism = {
 			}
 
-            spiritualist_movement  = {
+            spiritualist_movement = {
 			}
 
-            thelema  = {
+            thelema = {
 			}
 
-            theosophy  = {
+            theosophy = {
 			}
 
-            volkism  = {
+            volkism = {
 			}
 
-            wiccan_theocracy  = {
+            wiccan_theocracy = {
 			}
 		}
 
@@ -2004,10 +1980,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -2017,13 +1990,13 @@ ideologies = {
 
 		types = {
 
-			agrarian_nationalism  = {
+			agrarian_nationalism = {
 			}
 
-			aristocratic_nationalism  = {
+			aristocratic_nationalism = {
 			}
 
-			austropopulism  = {
+			austropopulism = {
 			}
 
 			black_hebrew_israelism = {
@@ -2035,7 +2008,7 @@ ideologies = {
             chetnik_nationalism  = {
 			}
 
-			christian_nationalism  = {
+			christian_nationalism = {
 			}
 
 			civic_nationalism = {
@@ -2071,7 +2044,7 @@ ideologies = {
 			islamic_modernism = {
 			}
 
-			islamic_nationalism  = {
+			islamic_nationalism = {
 			}
 
             klan_nationalism = {
@@ -2092,73 +2065,73 @@ ideologies = {
             monarcho_legionism = {
 			}
 
-            nation_of_islam  = {
+            nation_of_islam = {
 			}
 
-            national_carlism  = {
+            national_carlism = {
 			}
 
-            national_capitalism  = {
+            national_capitalism = {
 			}
 
             national_catholicism  = {
 			}
 
-            national_democracy  = {
+            national_democracy = {
 			}
 
-            national_feudalism  = {
+            national_feudalism = {
 			}
 
-            national_populism  = {
+            national_populism = {
 			}
 
-            national_romanticism  = {
+            national_romanticism = {
 			}
 
-            national_salvation_movement  = {
+            national_salvation_movement = {
 			}
 
-            nationalist_warlordism  = {
+            nationalist_warlordism = {
 			}
 
-			nordicism  = {
+			nordicism = {
 			}
 
-			panchayat_system  = {
+			panchayat_system = {
 			}
 
-			patriot_populism  = {
+			patriot_populism = {
 			}
 
-            reactionary_modernism  = {
+            reactionary_modernism = {
 			}
 
-            reactionary_nationalism  = {
+            reactionary_nationalism = {
 			}
 
-            religious_zionism  = {
+            religious_zionism = {
 			}
 
-            right_wing_populism  = {
+            right_wing_populism = {
 			}
 
 			romantic_eurasianism = {
 			}
 
-            sanationism  = {
+            sanationism = {
 			}
 
-            sikh_nationalism  = {
+            sikh_nationalism = {
 			}
 
-            solidarism  = {
+            solidarism = {
 			}
 
 			tartar_nationalism = {
 			}
 
-            tseghakronism  = {
+            tseghakronism = {
 			}
 
             zionism = {
@@ -2202,10 +2175,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -2385,10 +2355,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -2556,10 +2523,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000
@@ -2685,10 +2649,7 @@ ideologies = {
 			airforce_intel_to_others = 10.0
 		}
 
-		faction_modifiers = {
-		}
-
-		ai_neutral = yes #
+		
 		ai_ideology_wanted_units_factor = 1.15
 		
 		ai_give_core_state_control_threshold = 10000

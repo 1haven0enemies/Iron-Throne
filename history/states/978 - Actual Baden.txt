@@ -32,25 +32,13 @@ state = {
 			arms_factory = 2
 			air_base = 1
 		}
+		
 
-		set_demilitarized_zone = yes
-		
-		1936.3.7 = {
-			set_demilitarized_zone = no
-		}
-		
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-				# From "The Four Year Plan"
-				industrial_complex = 2
-			}
-		}
 
 	}
 
 	provinces = {
-		3530 3679 3692 6542 6568 6712 11640
+		3530 3679 3692 6542 6568 6712 11640 13440 13441
 	}
 	
 	buildings_max_level_factor = 1.000

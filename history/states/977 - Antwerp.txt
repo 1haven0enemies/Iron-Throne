@@ -12,16 +12,22 @@ state = {
 	history = {
 
 		owner = HOL
-		add_core_of = BEL
+		add_core_of = HOL
 
 		victory_points = { 
 			6598 30 
 		}
 
+		victory_points = {
+			3516 5 # Namur
+		}
+
+		victory_points = {
+			11519 10 # Liege
+		}
 		victory_points = { 
 			13068 1 
 		}
-
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
@@ -35,7 +41,7 @@ state = {
 	}
 
 	provinces = {
-		6598 9574 13068 11419
+		3516 6598 9574 13068 11419 11519
 	}
 
 	local_supplies = 0.0 

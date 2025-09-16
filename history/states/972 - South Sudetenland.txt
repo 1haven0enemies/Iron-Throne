@@ -14,9 +14,7 @@ state = {
 		owner = AUS
 		add_core_of = CZE
 
-		victory_points = {
-			557 1
-		}
+
 
 		buildings = {
 		
@@ -38,7 +36,7 @@ state = {
 	}
 
 	provinces = {
-		543 557 5283 7857 11525
+		5283 7857 
 	}
 	local_supplies = 0.0 
 

@@ -15,9 +15,7 @@ state = {
 		add_core_of = RHI
 		add_core_of = PRE
 
-		victory_points = {
-			6469 10 # Essen
-		}
+
 
 		victory_points = {
 			587 5 # Köln
@@ -38,22 +36,11 @@ state = {
 			air_base = 3
 		}
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 6
-				radar_station = 1
-			}
-		}
-	
-		set_demilitarized_zone = yes
-	
-		1936.3.7 = {
-			set_demilitarized_zone = no
-		}
+
 	}
 
 	provinces = {
-		529 587 3444 3512 3547 6469 6570 9482 9522 
+		 587 3444 3547 9522 
 	}
 	
 	local_supplies = 0.0 

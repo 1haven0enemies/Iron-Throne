@@ -1,0 +1,27 @@
+state={
+	id=1084
+	name="STATE_1084"
+
+	provinces={
+		13449
+	}
+
+	history={
+		owner = PRE
+		add_core_of = POL
+		add_core_of = PRE 
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			13449 1
+		}
+		
+	}
+
+	manpower = 569399
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

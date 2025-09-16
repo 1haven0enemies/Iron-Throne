@@ -1,0 +1,25 @@
+state={
+	id=1092
+	name="STATE_1092"
+
+	provinces={
+		13454
+	}
+
+	history={
+		owner = AND
+		add_core_of = AND
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			13454 3
+		}
+	}
+
+	manpower = 69399
+	buildings_max_level_factor=1.000
+	state_category = city
+	local_supplies=0.000
+}

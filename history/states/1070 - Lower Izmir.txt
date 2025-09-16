@@ -1,0 +1,27 @@
+state={
+	id=1070
+	name="STATE_1070"
+
+	provinces={
+		4112 6992 7130 11848
+	}
+
+	history={
+		owner = GRE
+		add_core_of = GRE
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			4112 15
+		}
+
+	}
+
+	manpower = 785799
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

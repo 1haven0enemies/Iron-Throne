@@ -1,0 +1,27 @@
+state={
+	id=1088
+	name="STATE_1088"
+
+	provinces={
+		3392 6546 11528
+	}
+
+	history={
+		owner = UKR
+		add_core_of = UKR
+		add_core_of = SOV 
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			3392 1
+		}
+		
+	}
+
+	manpower = 569399
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

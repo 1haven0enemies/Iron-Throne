@@ -1,0 +1,26 @@
+state={
+	id=1078
+	name="STATE_1078"
+
+	provinces={
+		693 713 746 3694 3696 3709 6711 6714 9687 11676 13444
+	}
+
+	history={
+		owner = HUN
+		add_core_of = HUN
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			6711 5 
+		}
+	}
+
+	manpower = 569399
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

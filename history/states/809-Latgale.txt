@@ -6,9 +6,7 @@ state={
 	history={
 		owner = LIV
 		add_core_of = LIV
-		victory_points = {
-			3255 1 #Jekabpils
-		}
+
 		victory_points = {
 			6222 3 #Jelgava
 		}
@@ -22,7 +20,7 @@ state={
 	}
 
 	provinces={
-		265 3255 3525 6222 6342 11358 
+		265  3525 6222 6342  
 	}
 	manpower=215500
 	buildings_max_level_factor=1.000

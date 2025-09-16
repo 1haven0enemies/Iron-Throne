@@ -1,0 +1,25 @@
+state={
+	id=1085
+	name="STATE_1085"
+
+	provinces={
+		3331 6220 6371 9241 
+	}
+
+	history={
+		owner = RUT
+		add_core_of = RUT
+		add_core_of = SOV 
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+
+		
+	}
+
+	manpower = 569399
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

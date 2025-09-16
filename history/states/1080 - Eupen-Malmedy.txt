@@ -1,0 +1,26 @@
+state={
+	id=1080
+	name="STATE_1080"
+
+	provinces={
+		3488
+	}
+
+	history={
+		owner = RHI
+		add_core_of = RHI 
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			3488 1
+		}
+		
+	}
+
+	manpower = 52241
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=1082
+	name="STATE_1082"
+
+	provinces={
+		599 13446
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		add_core_of = ITA 
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			599 1
+		}
+		
+	}
+
+	manpower = 569399
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

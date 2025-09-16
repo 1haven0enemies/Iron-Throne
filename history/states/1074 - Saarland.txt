@@ -1,0 +1,27 @@
+state={
+	id=1074
+	name="STATE_1074"
+
+	provinces={
+		11531 13442
+	}
+
+	history={
+		owner = FRA
+		add_core_of = GER
+		add_core_of = RHI
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = { 
+			11531 5 # Saarbrücken
+		}
+	}
+
+	manpower = 658999
+	buildings_max_level_factor=1.000
+	state_category = city
+	local_supplies=0.000
+}

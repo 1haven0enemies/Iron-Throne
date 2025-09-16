@@ -24,6 +24,7 @@ state={
 		victory_points = { #Shumen
 			9769 1
 		}
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -38,7 +39,7 @@ state={
 	}
 
 	provinces={
-		649 6967 9769 9783 9888 9902 9919
+		649 6967 9769 9783 9888 9902 9919 
 	}
 
 	local_supplies=4.0 

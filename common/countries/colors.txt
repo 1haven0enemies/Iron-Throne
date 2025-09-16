@@ -1112,7 +1112,7 @@ KUR = {
 	color_ui = rgb { 221 221 201 }	
 }
 RUT = {
-	color = rgb { 200 179 230 }
+	color = rgb { 141 35 171 }
 	color_ui = rgb { 200 179 230 }	
 }
 SUK = {
@@ -1260,7 +1260,7 @@ LIV = {
 	color = rgb { 103 103 103 }
 	color = rgb { 103 103 103 }
 }
-#={
-#	color = rgb {  }
-#	color_ui = rgb {  }
-#}
+AND = {
+	color = rgb { 255 231 102 }
+	color_ui = rgb { 255 231 102 }
+}

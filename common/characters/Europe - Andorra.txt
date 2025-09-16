@@ -1,0 +1,15 @@
+characters = {
+	AND_Boris_I = {
+		name = AND_Boris_I
+		portraits = { civilian = { large = "gfx/leaders/AND/AND_Boris_I.png"} }
+		country_leader = {
+			desc = ""
+			expire = "2000.1.1"
+			ideology = free_market_absolutism
+			traits = {
+				
+			}
+			id = -1
+		}
+	}
+}

@@ -265,4 +265,9 @@ spriteTypes = {
 		name = "GFX_WUR_dual_leader_1" #Ludwig Marum
 		texturefile = "gfx/dual_leaders/WUR/Ludwig Marum.png"
 	}
+	#AND
+		spritetype = {
+		name = "GFX_AND_dual_leader_1" #Roc Palleres Rossell
+		texturefile = "gfx/dual_leaders/AND/Roc Palleres Rossell.png"
+		}
 }

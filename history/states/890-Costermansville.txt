@@ -10,8 +10,8 @@ state = {
 	
 	history = {
 
-		owner = COG
-		add_core_of = COG
+		owner = TEF
+		add_core_of = TEF
 
 
 
@@ -26,7 +26,7 @@ state = {
 	}
 	
 	provinces = {
-		1181 4201 4941 7161 10766 12783 13176
+		1181 4201 4941 7161 10766 12783 12907 13176
 	}
 	
 	buildings_max_level_factor = 1.000

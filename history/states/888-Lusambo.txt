@@ -6,8 +6,8 @@ state = {
 
 	history = {
 
-		owner = COG
-
+		owner = TEF
+		add_core_of = TEF
 
 
 		victory_points = {
@@ -18,7 +18,7 @@ state = {
 			infrastructure = 1
 		}
 
-		add_core_of = COG
+
 
 	}
 

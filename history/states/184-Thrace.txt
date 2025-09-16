@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		9791 9930 
+		9791 9930 13445
 	}
 
 	local_supplies=9.0 

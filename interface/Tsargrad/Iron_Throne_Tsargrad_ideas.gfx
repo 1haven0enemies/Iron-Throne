@@ -1,0 +1,22 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_idea_TSA_A_Crisis_of_National_Identity"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/BYZ/TSA_A_Crisis_of_National_Identity.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_TSA_Ethnic_Unrest"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/BYZ/TSA_Ethnic_Unrest.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_TSA_The_Dying_Heir"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/BYZ/TSA_The_Dying_Heir.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_TSA_The_Most_Sacred_of_Cities"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/BYZ/TSA_The_Most_Sacred_of_Cities.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_TSA_Defenders_of_the_Orthodox_Faith"
+		texturefile = "gfx/interface/ideas/national_spirits/Europe/BYZ/TSA_Defenders_of_the_Orthodox_Faith.dds"
+	}
+}

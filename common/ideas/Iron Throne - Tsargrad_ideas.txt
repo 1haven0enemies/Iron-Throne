@@ -1,0 +1,68 @@
+ideas = {
+	country = {
+		TSA_A_Crisis_of_National_Identity = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_A_Crisis_of_National_Identity" }
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = TSA_A_Crisis_of_National_Identity
+			modifier = {
+				stability_factor = -0.05
+				recruitable_population_factor = -0.05
+				recruitable_population_factor = -0.1
+				resistance_growth = 0.1
+				army_morale_factor = -0.05
+			}
+		}
+		TSA_Ethnic_Unrest = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_Ethnic_Unrest" }
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = TSA_Ethnic_Unrest
+			modifier = {
+				stability_factor = -0.1
+				line_change_production_efficiency_factor = -0.05
+				resistance_target = 0.15
+				local_resources_factor = -0.1
+				civilian_intel_to_others = 0.1
+			}
+		}
+		TSA_The_Dying_Heir = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_The_Dying_Heir" }
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = TSA_The_Dying_Heir
+			modifier = {
+			}
+		}
+		TSA_The_Most_Sacred_of_Cities = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_The_Most_Sacred_of_Cities" }
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = TSA_The_Most_Sacred_of_Cities
+			modifier = {
+				trade_opinion_factor = 0.1
+				stability_factor = 0.05
+				political_power_gain = 0.1
+				foreign_subversive_activites = -0.15
+				consumer_goods_factor = -0.02
+				cic_construction_boost = 0.05
+			}
+		}
+		TSA_Defenders_of_the_Orthodox_Faith = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_Defenders_of_the_Orthodox_Faith" }
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = TSA_Defenders_of_the_Orthodox_Faith
+			modifier = {
+				stability_factor = 0.1
+				army_org_factor = 0.05
+			}
+		}
+	}
+}
+

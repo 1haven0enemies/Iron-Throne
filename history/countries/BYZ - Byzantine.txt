@@ -7,7 +7,13 @@ set_technology = {
 	infantry_weapons = 1
 }
 
-
+add_ideas = {
+	TSA_A_Crisis_of_National_Identity
+	TSA_Ethnic_Unrest
+	TSA_The_Dying_Heir
+	TSA_The_Most_Sacred_of_Cities
+	TSA_Defenders_of_the_Orthodox_Faith
+}
 
 set_war_support = 0.1
 set_convoys = 5

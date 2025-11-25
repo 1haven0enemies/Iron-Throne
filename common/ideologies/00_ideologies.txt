@@ -626,6 +626,9 @@ ideologies = {
 			agrarian_syndicalism = {
 			}
 
+			aladinism = {
+			}
+
 			autocratic_socialism  = {
 			}
 
@@ -750,6 +753,9 @@ ideologies = {
 			}
 
 			showa_socialism  = {
+			}
+
+			shvernikism = {
 			}
 
             sinclairism  = {
@@ -936,6 +942,9 @@ ideologies = {
 			}
 
             revisionist_marxism  = {
+			}
+
+			shactmanism = {
 			}
 
             social_agrarianism  = {
@@ -1799,9 +1808,6 @@ ideologies = {
 			christian_mysticism = {
 			}
 
-			christian_trumpism = {
-			}
-
 			confucian_theocracy = {
 			}
 
@@ -1946,6 +1952,9 @@ ideologies = {
 
 		types = {
 
+			adonism = {
+			}
+
 			anthroposophy  = {
 			}
 
@@ -2021,6 +2030,9 @@ ideologies = {
             national_mysticism = {
 			}
 
+			neo-atlanteanism = {
+			}
+
             neo_folkism  = {
 			}
 
@@ -2040,6 +2052,9 @@ ideologies = {
 			}
 
 			scythianism  = {
+			}
+
+			seicho-no-ie = {
 			}
 
             spiritualist_movement  = {
@@ -2376,6 +2391,9 @@ ideologies = {
 			}
 
 			national_utopianism = {
+			}
+
+			neo-spartanism = {
 			}
 
             noirisme  = {

@@ -22,6 +22,9 @@ ideologies = {
             avant_garde_nationalism  = {
 			}
 
+			brasillachism = {
+			}
+
 			butlerian_luddism = {
 			}
 
@@ -304,6 +307,9 @@ ideologies = {
 			bhattacharya = {
 			}
 
+			bogdanovism = {
+			}
+
 			bordigism = {
 			}
 
@@ -314,6 +320,9 @@ ideologies = {
 			}
 
 			campbellism = {
+			}
+
+			celtic_communism = {
 			}
 
             centrist_marxism  = {
@@ -388,6 +397,9 @@ ideologies = {
 			nkrumaism = {
 			}
 
+			nzulaism = {
+			}
+
             orthodox_marxism  = {
 			}
 
@@ -404,6 +416,9 @@ ideologies = {
 			}
 
             securocratic_communism = {
+			}
+			
+			semaun_thought = {
 			}
 
             spartacism = {
@@ -743,6 +758,9 @@ ideologies = {
             revolutionary_christian_socialism = {
 			}
 
+			revolutionary_front = {
+			}
+
 			revolutionary_narodism  = {
 			}
 
@@ -914,6 +932,9 @@ ideologies = {
             parrotism = {
 			}
 
+			primism = {
+			}
+
             progressive_corporatism = {
 			}
 
@@ -975,6 +996,9 @@ ideologies = {
 			}
 
             vardamanism  = {
+			}
+
+			wisconsin_idea = {
 			}
 
             zionist_socialism  = {
@@ -1056,6 +1080,9 @@ ideologies = {
 			}
 
 			jeremy_bentham_thought = {
+			}
+
+			laskerism = {
 			}
 
 			liberal_bonapartism = {
@@ -1211,6 +1238,9 @@ ideologies = {
 			libertarianism  = {
 			}
 
+			manchester_liberalism = {
+			}
+
 			market_populism  = {
 			}
 
@@ -1299,6 +1329,9 @@ ideologies = {
 			}
 
 			christian_technocracy  = {
+			}
+
+			conservative_centrism = {
 			}
 
 			conservative_corporatism  = {
@@ -1818,6 +1851,9 @@ ideologies = {
 			}
 
 			eastern_orthodox_theocracy  = {
+			}
+
+			folk_religious_movement = {
 			}
 
 			french_israelism = {
@@ -2680,6 +2716,9 @@ ideologies = {
     anarchism = {
 
 		types = {
+
+			anarcha-feminism = {
+			}
 
 			anarcho_bolshevism  = {
 			}

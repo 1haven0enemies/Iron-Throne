@@ -34,7 +34,13 @@ ideologies = {
 			futurism  = {
 			}
 
+			gandirism = {
+			}
+
 			gellertism = {
+			}
+
+			gilded_nationalism = {
 			}
 
 			hegemonism  = {
@@ -514,6 +520,9 @@ ideologies = {
 			byzantine_socialism  = {
 			}
 
+			cathaysianism = {
+			}
+
 			celestial_socialism = {
 			}
 
@@ -557,6 +566,9 @@ ideologies = {
 			}
 
 			mormon_socialism  = {
+			}
+
+			neo-agriculturalism = {
 			}
 
 			norse_paganism = {
@@ -668,6 +680,9 @@ ideologies = {
             custodian_socialism  = {
 			}
 
+			custodian_syndicalism = {
+			}
+
 			de_leonism  = {
 			}
 
@@ -723,6 +738,9 @@ ideologies = {
 			}
 
 			negritude  = {
+			}
+
+			ortizism = {
 			}
 
             paternal_socialism  = {
@@ -1202,7 +1220,13 @@ ideologies = {
 			austrian_school  = {
 			}
 
+			barbosaism = {
+			}
+
 			christian_libertarianism  = {
+			}
+
+			cobdenian_liberalism = {
 			}
 
 			distributism  = {
@@ -1335,6 +1359,9 @@ ideologies = {
 			}
 
 			conservative_corporatism  = {
+			}
+
+			conservative_feminism = {
 			}
 
 			conservative_getulioism  = {
@@ -1673,6 +1700,9 @@ ideologies = {
             carlism  = {
 			}
 
+			carloctavismo = {
+			}
+
 			classical_absolutism = {
 			}
 
@@ -1884,6 +1914,9 @@ ideologies = {
 			}
 
 			lutheran_theocracy = {
+			}
+
+			matswanisme = {
 			}
 
 			moorish_science_temple = {
@@ -2189,6 +2222,9 @@ ideologies = {
 			classical_pharaohism  = {
 			}
 
+			clerico-nationalism = {
+			}
+
             clerical_national_romanticism  = {
 			}
 
@@ -2360,6 +2396,9 @@ ideologies = {
 
 		types = {
 
+			anglo-jacobinism = {
+			}
+
 			anti_colonialism  = {
 			}
 
@@ -2376,6 +2415,9 @@ ideologies = {
 			}
 
             bulgarian_legionarism  = {
+			}
+
+			cantonese_nationalism = {
 			}
 
             clerical_national_jacobinism  = {
@@ -2428,6 +2470,8 @@ ideologies = {
 
 			national_utopianism = {
 			}
+
+			neo-jacksonianism
 
 			neo-spartanism = {
 			}
@@ -2497,6 +2541,9 @@ ideologies = {
 
 			yugoslavism = {
 			}
+
+			zou_rong_thought = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -2549,6 +2596,9 @@ ideologies = {
 			agrarian_national_socialism  = {
 			}
 
+			amannite_national_socialism = {
+			}
+
 			anglo_saxon_supremacy  = {
 			}
 
@@ -2556,6 +2606,9 @@ ideologies = {
 			}
 
             black_darwinism  = {
+			}
+
+			bormannite_national_socialism = {
 			}
 
 			celtic_aryanism = {
@@ -2606,6 +2659,9 @@ ideologies = {
 			islamic_national_socialism = {
 			}
 
+			malay_supremacism = {
+			}
+
             messianic_national_socialism  = {
 			}
 
@@ -2631,6 +2687,9 @@ ideologies = {
 			}
 
 			progressive_national_socialism = {
+			}
+
+			red_heathen_aryanism = {
 			}
 
             rosenberg_system  = {

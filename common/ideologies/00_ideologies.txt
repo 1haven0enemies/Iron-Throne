@@ -2243,6 +2243,9 @@ ideologies = {
 			hispanism = {
 			}
 
+			hugenbergism = {
+			}
+
 			indigenous_nationalism = {
 			}
 
@@ -2659,9 +2662,6 @@ ideologies = {
 			islamic_national_socialism = {
 			}
 
-			malay_supremacism = {
-			}
-
             messianic_national_socialism  = {
 			}
 
@@ -2831,6 +2831,9 @@ ideologies = {
 			}
 
 			lawlessness = {
+			}
+
+			magonism = {
 			}
 
 			makhaevism = {

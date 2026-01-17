@@ -46,5 +46,73 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_goal_ITA_Strengthening_Papal_Rule"
 		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Strengthening_Papal_Rule.dds"			
-	}	
+	}
+	SpriteType = {
+		name = "GFX_ITA_naval_power_projection"
+		texturefile = "gfx/interface/goals/ITA/ITA_naval_power_projection.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_intensify_torpedo_manufacturing"
+		texturefile = "gfx/interface/goals/ITA/ITA_intensify_torpedo_manufacturing.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_oto_naval_guns"
+		texturefile = "gfx/interface/goals/ITA/ITA_oto_naval_guns.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_expand_naval_facilities"
+		texturefile = "gfx/interface/goals/ITA/ITA_expand_naval_facilities.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_milizia_marittima_di_artiglieria"
+		texturefile = "gfx/interface/goals/ITA/ITA_milizia_marittima_di_artiglieria.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_supermarina"
+		texturefile = "gfx/interface/goals/ITA/ITA_supermarina.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_stockpile_fuel"
+		texturefile = "gfx/interface/goals/ITA/ITA_stockpile_fuel.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_forza_navale_speciale"
+		texturefile = "gfx/interface/goals/ITA/ITA_forza_navale_speciale.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_decima_flottiglia_mas"
+		texturefile = "gfx/interface/goals/ITA/ITA_decima_flottiglia_mas.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_incrociatori_leggeri"
+		texturefile = "gfx/interface/goals/ITA/ITA_incrociatori_leggeri.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_incrociatori_pesanti"
+		texturefile = "gfx/interface/goals/ITA/ITA_incrociatori_pesanti.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_expand_naval_intelligence"
+		texturefile = "gfx/interface/goals/ITA/ITA_expand_naval_intelligence.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_cacciatorpediniere_di_scorta"
+		texturefile = "gfx/interface/goals/ITA/ITA_cacciatorpediniere_di_scorta.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_ispettorato_dei_mezzi_antisommergibili"
+		texturefile = "gfx/interface/goals/ITA/ITA_ispettorato_dei_mezzi_antisommergibili.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_navi_da_battaglia"
+		texturefile = "gfx/interface/goals/ITA/ITA_navi_da_battaglia.dds"			
+	}
+	SpriteType = {
+		name = "GFX_ITA_flotta_devasione"
+		texturefile = "gfx/interface/goals/ITA/ITA_flotta_devasione.dds"			
+	}
+	SpriteType = {
+		name = "GFX_"
+		texturefile = "gfx/interface/goals/ITA/ITA_focus_icon_Strengthening_Papal_Rule.dds"			
+	}
 }

@@ -310,4 +310,419 @@ focus_tree = {
 		
 		}
 	}
+	
+	#Naval branch
+	focus = {
+	    id = ITA_naval_power_projection
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 25
+		y = 0
+		
+		cost = 5
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_intensify_torpedo_manufacturing
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 22
+		y = 1
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_naval_power_projection }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_oto_naval_guns
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 29
+		y = 1
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_naval_power_projection }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_expand_naval_facilities
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 25
+		y = 1
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_naval_power_projection }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_milizia_marittima_di_artiglieria
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 22
+		y = 2
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_expand_naval_facilities }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_supermarina
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 25
+		y = 2
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_expand_naval_facilities }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_stockpile_fuel
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 27
+		y = 2
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_expand_naval_facilities }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_forza_navale_speciale
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 29
+		y = 2
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_expand_naval_facilities }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_decima_flottiglia_mas
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 22
+		y = 3
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_supermarina }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_incrociatori_leggeri
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 25
+		y = 3
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_supermarina }
+		
+		mutually_exclusive = {
+			focus = ITA_incrociatori_pesanti
+		}
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_incrociatori_pesanti
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 27
+		y = 3
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_supermarina }
+		
+		mutually_exclusive = {
+			focus = ITA_incrociatori_leggeri
+		}
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_expand_naval_intelligence
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 29
+		y = 3
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_supermarina }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_cacciatorpediniere_di_scorta
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 22
+		y = 4
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_incrociatori_leggeri }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_ispettorato_dei_mezzi_antisommergibili
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 26
+		y = 4
+		
+		cost = 5
+		
+		prerequisite = {
+			focus = ITA_incrociatori_leggeri
+			focus = ITA_incrociatori_pesanti
+		}
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_navi_da_battaglia
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 29
+		y = 4
+		
+		cost = 5
+		
+		prerequisite = { focus = ITA_incrociatori_pesanti }
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
+	focus = {
+	    id = ITA_flotta_devasione
+		icon = GFX_goal_ITA_A_Holy_State
+		x = 25
+		y = 5
+		
+		cost = 5
+		
+		prerequisite = {
+			focus = ITA_cacciatorpediniere_di_scorta 
+			focus = ITA_navi_da_battaglia
+			focus = ITA_ispettorato_dei_mezzi_antisommergibili
+		}
+		
+		available = {
+
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = yes
+
+		completion_reward = {
+		}
+	}
 }

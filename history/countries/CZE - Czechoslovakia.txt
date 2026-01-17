@@ -16,15 +16,18 @@ set_technology = {
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = progressivism
+	ruling_party = classical_nationalism
 	last_election = "1935.5.19"
 	election_frequency = 60
 	elections_allowed = yes
 }
 
 set_popularities = {
-	progressivism = 65
+	classical_nationalism = 65
 	liberalism = 20
 	reactionary_socialism = 5
 	communism = 10
 }
+
+recruit_character = CZE_Jan_Kapras
+set_variable = {currentdualleader = 1 }

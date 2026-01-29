@@ -1,0 +1,25 @@
+focus_tree = {
+	id = iron_throne_chilean_focus_tree
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CHL
+		}
+	}
+	
+
+	default = no
+
+	continuous_focus_position = { x = 50 y = 2500 }
+
+	focus = {
+		id = x
+		icon = x
+		cost = x
+		x = x
+		y = x
+		completion_reward = { }
+	}
+}

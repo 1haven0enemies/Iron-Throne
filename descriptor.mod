@@ -31,4 +31,4 @@ replace_path="history/general"
 replace_path="history/countries"
 replace_path="gfx/loadingscreens"
 
-supported_version="1.16.*"
+supported_version="1.19.*"

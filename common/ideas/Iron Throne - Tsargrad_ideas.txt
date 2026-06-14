@@ -1,5 +1,6 @@
 ideas = {
 	country = {
+		### Starting National Spirits ###
 		TSA_A_Crisis_of_National_Identity = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_A_Crisis_of_National_Identity" }
 			allowed_civil_war = {
@@ -14,6 +15,7 @@ ideas = {
 				army_morale_factor = -0.05
 			}
 		}
+
 		TSA_Ethnic_Unrest = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_Ethnic_Unrest" }
 			allowed_civil_war = {
@@ -28,6 +30,7 @@ ideas = {
 				civilian_intel_to_others = 0.1
 			}
 		}
+
 		TSA_The_Dying_Heir = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_The_Dying_Heir" }
 			allowed_civil_war = {
@@ -37,6 +40,7 @@ ideas = {
 			modifier = {
 			}
 		}
+
 		TSA_The_Most_Sacred_of_Cities = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_The_Most_Sacred_of_Cities" }
 			allowed_civil_war = {
@@ -52,6 +56,7 @@ ideas = {
 				cic_construction_boost = 0.05
 			}
 		}
+
 		TSA_Defenders_of_the_Orthodox_Faith = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea TSA_Defenders_of_the_Orthodox_Faith" }
 			allowed_civil_war = {
